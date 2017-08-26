@@ -15,6 +15,128 @@
         "source": "new-scientist"
       }
     ],
+    "coinDesk": [
+      {
+        "articles": [
+          {
+            "title": "Blockchain's 4 Biggest Assumptions                                        ",
+            "url": "https://www.coindesk.com/blockchains-4-biggest-assumptions/"
+          },
+          {
+            "title": "Risk or Reward: What It Takes for an Exchange to Cash In on a New Currency?",
+            "url": "https://www.coindesk.com/risk-reward-takes-exchange-cash-new-currency/"
+          },
+          {
+            "title": "Ethereum's 'Metropolis' Upgrade Could Still Be Months Away",
+            "url": "https://www.coindesk.com/ethereums-metropolis-upgrade-still-months-away/"
+          },
+          {
+            "title": "China's New Fundraising Rules Could Lead to ICO Investigations",
+            "url": "https://www.coindesk.com/chinas-new-fundraising-rules-lead-ico-investigations/"
+          }
+        ],
+        "source": "coindesk.com"
+      }
+    ],
+    "cryptoCoinsNews": [
+      {
+        "articles": [
+          {
+            "title": "First Bitcoin Capital Responds to SEC Suspension",
+            "url": "https://www.cryptocoinsnews.com/first-bitcoin-capital-responds-sec-suspension/"
+          },
+          {
+            "title": "Monero, Dash Prices Soar as Bitcoin Slips Below $4,300",
+            "url": "https://www.cryptocoinsnews.com/monero-dash-prices-soar-bitcoin-slips-4300/"
+          },
+          {
+            "title": "Bitcoin ETF Now More Likelier than Ever, Says Bloomberg Analyst",
+            "url": "https://www.cryptocoinsnews.com/bitcoin-etf-now-likely-bloomberg-analyst-says/"
+          },
+          {
+            "title": "Why Bitcoin’s Price Isn’t A Bubble",
+            "url": "https://www.cryptocoinsnews.com/bitcoins-price-isnt-bubble/"
+          },
+          {
+            "title": ""
+          },
+          {
+            "title": ""
+          },
+          {
+            "title": ""
+          },
+          {
+            "title": ""
+          },
+          {
+            "title": "Estcoin: Estonia Could Soon Launch Its Own Digital Currency",
+            "url": "https://www.cryptocoinsnews.com/estcoin-estonia-could-soon-launch-its-own-digital-currency/"
+          },
+          {
+            "title": "(+) ICO Analysis: Enigma",
+            "url": "https://hacked.com/ico-analysis-enigma/"
+          },
+          {
+            "title": "Vietnam is Preparing to Legalize Bitcoin",
+            "url": "https://www.cryptocoinsnews.com/vietnam-preparing-to-legalize-bitcoin/"
+          },
+          {
+            "title": "Tokens Released, Tierion TNT IOU Trading Is Open",
+            "url": "https://www.cryptocoinsnews.com/tokens-released-tierion-tnt-iou-trading-is-open/"
+          },
+          {
+            "title": "Russia’s First Deputy PM Supports a State Cryptocurrency",
+            "url": "https://www.cryptocoinsnews.com/russias-first-deputy-pm-supports-state-cryptocurrency/"
+          },
+          {
+            "title": "Monero Price Just Pierced $100: Here’s What’s Fueling This Record Rally",
+            "url": "https://www.cryptocoinsnews.com/monero-price-just-pierced-100-heres-whats-fueling-record-rally/"
+          },
+          {
+            "title": "Bitwala Refuses to Follow SegWit2x Fork without Core Dev Support",
+            "url": "https://www.cryptocoinsnews.com/bitwala-refuses-follow-segwit2x-fork-without-core-dev-support/"
+          },
+          {
+            "title": "Why Did Litecoin Hit $50 For the First Time in August?",
+            "url": "https://www.cryptocoinsnews.com/why-did-litecoin-hit-50-for-the-first-time-in-august/"
+          },
+          {
+            "title": "(+) Estonia Proposes to Launch its Own Cryptocurrency",
+            "url": "https://hacked.com/estonia-proposes-launch-cryptocurrency/"
+          },
+          {
+            "title": "Bitcoin Price Targets $4,400 Despite Dipping Hashrate",
+            "url": "https://www.cryptocoinsnews.com/bitcoin-price-targets-4400-despite-dipping-hashrate/"
+          },
+          {
+            "title": "ICOs, the New Investment Tool in Venture Funds’ Chest",
+            "url": "https://www.cryptocoinsnews.com/icos-the-new-investment-tool-in-venture-funds-chest/"
+          },
+          {
+            "title": "OneCoin Labelled Pyramid Scheme, Fined €2.6 Million in Italy",
+            "url": "https://www.cryptocoinsnews.com/onecoin-labelled-pyramid-scheme-fined-e2-6-million-italy/"
+          },
+          {
+            "title": "AbjCoin: The Cryptocurrency Set to Pioneer Blockchain Technology In Africa",
+            "url": "https://www.cryptocoinsnews.com/abjcoin-cryptocurrency-set-pioneer-blockchain-technology-africa/"
+          },
+          {
+            "title": "Monetha Signs Partnership Deal with Dominant Baltic Online Retailer",
+            "url": "https://www.cryptocoinsnews.com/monetha-signs-partnership-deal-dominant-baltic-online-retailer/"
+          },
+          {
+            "title": "UTRUST Brings Consumer Protections to Cryptocurrencies, Announces Pre ICO",
+            "url": "https://www.cryptocoinsnews.com/utrust-brings-consumer-protections-cryptocurrencies-announces-pre-ico/"
+          },
+          {
+            "title": "DOVU, Blockchain Powered Mobility, Backed by InMotion Ventures, Powered by Jaguar Land Rover",
+            "url": "https://www.cryptocoinsnews.com/dovu-blockchain-powered-mobility-backed-inmotion-ventures-powered-jaguar-land-rover/"
+          }
+        ],
+        "source": "cryptoinsider.com"
+      }
+    ],
     "cryptoInsider": [
       {
         "articles": [
@@ -52,29 +174,6 @@
           }
         ],
         "source": "cryptoinsider.com"
-      }
-    ],
-    "coinDesk": [
-      {
-        "articles": [
-          {
-            "title": "Ethereum's 'Metropolis' Upgrade Could Still Be Months Away                                        ",
-            "url": "https://www.coindesk.com/ethereums-metropolis-upgrade-still-months-away/"
-          },
-          {
-            "title": "Bitcoin Prices Rise But Fall Short of All-Time High",
-            "url": "https://www.coindesk.com/bitcoin-prices-rise-fall-short-time-high/"
-          },
-          {
-            "title": "China's New Fundraising Rules Could Lead to ICO Investigations",
-            "url": "https://www.coindesk.com/chinas-new-fundraising-rules-lead-ico-investigations/"
-          },
-          {
-            "title": "Insightful ICO? Telecom Giant Telenor Wants to Disrupt Media with Tokens",
-            "url": "https://www.coindesk.com/insightful-ico-telecom-giant-telenor-wants-to-disrupt-media-with-tokens/"
-          }
-        ],
-        "source": "coindesk.com"
       }
     ]
   }
