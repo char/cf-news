@@ -17,7 +17,7 @@ getCryptoCoinsNews = () => {
       if (err) {
         reject(err);
       } else {
-        page.source = 'cryptoinsider.com';
+        page.source = 'cryptocoinsnews.com';
         resolve(page);
       }
     });
