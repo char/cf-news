@@ -38,6 +38,12 @@
         "source": "coindesk.com"
       }
     ],
+    "coinTelegraph": [
+      {
+        "articles": [],
+        "source": "cointelegraph.com"
+      }
+    ],
     "cryptoCoinsNews": [
       {
         "articles": [
@@ -134,7 +140,106 @@
             "url": "https://www.cryptocoinsnews.com/dovu-blockchain-powered-mobility-backed-inmotion-ventures-powered-jaguar-land-rover/"
           }
         ],
-        "source": "cryptoinsider.com"
+        "source": "cryptocoinsnews.com"
+      }
+    ],
+    "coinJournal": [
+      {
+        "articles": [
+          {
+            "title": "Ethereum-Based Invoice Finance Platform Hive Raises Over US$8 Million",
+            "url": "https://coinjournal.net/ethereum-invoice-finance-platform-hive-us8-million/"
+          },
+          {
+            "title": "India Continues to Ponder Bitcoin Regulations as Cybercrime Soars",
+            "url": "https://coinjournal.net/india-continues-ponder-bitcoin-regulations-cybercrime-soars/"
+          },
+          {
+            "title": "BitTorrent Creator Bram Cohen: Bitcoin Miners are Butthurt Over SegWit",
+            "url": "https://coinjournal.net/bittorrent-creator-bram-cohen-bitcoin-miners-butthurt-segwit/"
+          },
+          {
+            "title": "Op-Ed: Bitcoin Passed $4,000, but What’s the Real Reason Why?",
+            "url": "https://coinjournal.net/price-watch-bitcoin-passed-4000-whats-real-reason/"
+          },
+          {
+            "title": "Bitcoin, Ether Prices Rise Pushes Crypto Market Cap Above US$150B",
+            "url": "https://coinjournal.net/bitcoin-ether-prices-rise-pushes-crypto-market-cap-us150b/"
+          },
+          {
+            "title": "$44 Million in Ethereum Moved With $0.13 Fee, How Can Bitcoin...",
+            "url": "https://coinjournal.net/44-million-ethereum-moved-0-13-fee-can-bitcoin-reach-similar-scalability/"
+          },
+          {
+            "title": "Estonia Considers Launching Its Own Crypto Token Through An ICO",
+            "url": "https://coinjournal.net/estonia-estcoin-crypto-token-ico/"
+          },
+          {
+            "title": "Bitcoin Price Continues to Rise in Spite of Increased Competition",
+            "url": "https://coinjournal.net/bitcoin-price-continues-rise-spite-increased-competition/"
+          },
+          {
+            "title": "Enigma Blockchain Project Hacked; Supporters Defrauded Of US$500K In Ether",
+            "url": "https://coinjournal.net/enigma-hacked-us500k-ether/"
+          },
+          {
+            "title": "Thai Central Bank Meets With Ethereum Co-Founder Vitalik Buterin & OmiseGo",
+            "url": "https://coinjournal.net/thai-central-bank-meets-ethereum-co-founder-vitalik-buterin-omisego/"
+          },
+          {
+            "title": "Bitcoin: The Next Evolution in Remittances",
+            "url": "https://coinjournal.net/bitcoin-next-evolution-remittances/"
+          },
+          {
+            "title": "Ambrosus Aims For Greater Transparency In Food Retail With New Blockchain...",
+            "url": "https://coinjournal.net/ambrosus-aims-greater-transparency-food-retail-new-blockchain-p2p-marketplace/"
+          },
+          {
+            "title": "Blockchain Proptech Startup Propy Signs Deal With Ukraine Government",
+            "url": "https://coinjournal.net/blockchain-proptech-startup-propy-signs-deal-ukraine-government/"
+          },
+          {
+            "title": "Swiss Private Bank to Add Support for Ether, Litecoin and Bitcoin...",
+            "url": "https://coinjournal.net/switzerland-falcon-private-bank-ether-litecoin-bitcoin-cash/"
+          },
+          {
+            "title": "REAL Announces Ethereum-Based Crowdfunding Platform For Real Estate Investment",
+            "url": "https://coinjournal.net/real-announces-blockchain-crowdfunding-platform-real-estate-investment/"
+          },
+          {
+            "title": "Bitcoin Surpassed $4,300 But 99.98% of World’s Capital is On The...",
+            "url": "https://coinjournal.net/bitcoin-surpassed-4300-99-98-worlds-capital-sidelines/"
+          },
+          {
+            "title": "HBO is Reportedly Buying $250,000 in Bitcoin to Pay Off Game...",
+            "url": "https://coinjournal.net/hbo-reportedly-buying-250000-bitcoin-pay-off-game-thrones-hacker/"
+          },
+          {
+            "title": "Japanese VCs Commit US$9M Investment to NEM-Based Blockchain Platform",
+            "url": "https://coinjournal.net/japanese-vcs-commit-us9m-investment-nem-based-blockchain-platform/"
+          },
+          {
+            "title": "Cryptocurrency Wallet Jaxx Announces Support for Cofound.it-Approved Tokens",
+            "url": "https://coinjournal.net/cryptocurrency-wallet-jaxx-announces-support-cofound-approved-tokens/"
+          },
+          {
+            "title": "Putin’s Advisor is Raising $100 Million to Rival China’s Bitcoin Mining...",
+            "url": "https://coinjournal.net/putin-ico-chinese-bitcoin-mining/"
+          },
+          {
+            "title": "Segregated Witness (SegWit) Locks In On Bitcoin",
+            "url": "https://coinjournal.net/segregated-witness-segwit-locks-bitcoin-price-hits-new-time-high/"
+          },
+          {
+            "title": "Eleven Banks Develop DLT-Based Trade Finance App",
+            "url": "https://coinjournal.net/eleven-banks-develop-dlt-based-trade-finance-app/"
+          },
+          {
+            "title": "A Complete Guide to Bitcoin Cash: Supporting Exchanges, Wallets, Trading Advice",
+            "url": "https://coinjournal.net/complete-guide-bitcoin-cash-supporting-exchanges-wallets-trading-advice/"
+          }
+        ],
+        "source": "coinjournal.net"
       }
     ],
     "cryptoInsider": [

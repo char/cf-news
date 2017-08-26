@@ -4,6 +4,10 @@ const fs = require('fs');
 const getCoinDesk = require('./Scrape/coin-desk');
 const getCryptoInsider = require('./Scrape/crypto-insider');
 const getCryptoCoinsNews = require('./Scrape/crypto-coins-news');
+const getCoinTelegraph = require('./Scrape/coin-telegraph');
+const getCoinJournal = require('./Scrape/coin-journal');
+
+console.log('[' + new Date().toUTCString() + ']');
 
 let sourceIterator = 0;
 
@@ -111,6 +115,7 @@ const writeName = 'articles.json';
                     } else {
                       sourceIterator = 0;
                       console.log('NewsAPI JSON saved to', writeName);
+                      resolve();
                     }
                   }
                 );
@@ -174,24 +179,6 @@ const writeName = 'articles.json';
               }
             }
           );
-        } else {
-          const json = {
-            mainArticles: {
-              coinDesk: [page],
-            },
-          };
-          fs.writeFile(
-            writeName,
-            JSON.stringify(json, null, 2),
-            (err) => {
-              if (err) {
-                console.error(err);
-              } else {
-                sourceIterator = 0;
-                console.log('JSON saved to', writeName);
-              }
-            }
-          );
         }
       });
     } catch (error) {
@@ -218,24 +205,6 @@ const writeName = 'articles.json';
               } else {
                 sourceIterator = 0;
                 console.log('CryptoInsider JSON saved to', writeName);
-              }
-            }
-          );
-        } else {
-          const json = {
-            mainArticles: {
-              cryptoInsider: [page],
-            },
-          };
-          fs.writeFile(
-            writeName,
-            JSON.stringify(json, null, 2),
-            (err) => {
-              if (err) {
-                console.error(err);
-              } else {
-                sourceIterator = 0;
-                console.log('JSON saved to', writeName);
               }
             }
           );
@@ -268,12 +237,23 @@ const writeName = 'articles.json';
               }
             }
           );
-        } else {
-          const json = {
-            mainArticles: {
-              cryptoInsider: [page],
-            },
-          };
+        }
+      });
+    } catch (error) {
+
+    }
+  })();
+
+  // Coin Telegraph
+  (async () => {
+    try {
+      const page = await getCoinTelegraph();
+      fs.readFile('./' + writeName, 'utf8', (err, data) => {
+        if (err) { console.error(err); return; }
+        if (data) {
+          let json = JSON.parse(data);
+          json.mainArticles.coinTelegraph = [page];
+
           fs.writeFile(
             writeName,
             JSON.stringify(json, null, 2),
@@ -282,7 +262,36 @@ const writeName = 'articles.json';
                 console.error(err);
               } else {
                 sourceIterator = 0;
-                console.log('JSON saved to', writeName);
+                console.log('CoinTelegraph JSON saved to', writeName);
+              }
+            }
+          );
+        }
+      });
+    } catch (error) {
+
+    }
+  })();
+
+  // Coin Journal
+  (async () => {
+    try {
+      const page = await getCoinJournal();
+      fs.readFile('./' + writeName, 'utf8', (err, data) => {
+        if (err) { console.error(err); return; }
+        if (data) {
+          let json = JSON.parse(data);
+          json.mainArticles.coinJournal = [page];
+
+          fs.writeFile(
+            writeName,
+            JSON.stringify(json, null, 2),
+            (err) => {
+              if (err) {
+                console.error(err);
+              } else {
+                sourceIterator = 0;
+                console.log('CoinJournal JSON saved to', writeName);
               }
             }
           );
