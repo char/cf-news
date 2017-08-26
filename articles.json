@@ -1,15 +1,81 @@
-[
-    {
+{
+  "mainArticles": {
+    "newsAPI": [
+      {
         "articles": [
-            {
-                "author": "",
-                "title": "AI uses bitcoin trail to find and help sex-trafficking victims",
-                "description": "Thousands of escorts advertise on websites like Backpage, not always by choice. Machine learning can now identify ads posted by traffickers, and locate them",
-                "url": "https://www.newscientist.com/article/2145355-ai-uses-bitcoin-trail-to-find-and-help-sex-trafficking-victims/",
-                "urlToImage": "https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/08/24182539/rexfeatures_8987660g.jpg",
-                "publishedAt": "2017-08-24T00:00:00Z"
-            }
+          {
+            "author": "",
+            "title": "AI uses bitcoin trail to find and help sex-trafficking victims",
+            "description": "Thousands of escorts advertise on websites like Backpage, not always by choice. Machine learning can now identify ads posted by traffickers, and locate them",
+            "url": "https://www.newscientist.com/article/2145355-ai-uses-bitcoin-trail-to-find-and-help-sex-trafficking-victims/",
+            "urlToImage": "https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/08/24182539/rexfeatures_8987660g.jpg",
+            "publishedAt": "2017-08-24T00:00:00Z"
+          }
         ],
         "source": "new-scientist"
-    }
-]
+      }
+    ],
+    "cryptoInsider": [
+      {
+        "articles": [
+          {
+            "title": "Major domestic conglomerates match Japan’s blockchain drive",
+            "url": "https://cryptoinsider.com/major-domestic-conglomerates-matching-japanese-governments-blockchain-drive/"
+          },
+          {
+            "title": "Viberate bringing live music to the blockchain",
+            "url": "https://cryptoinsider.com/viberate-bringing-live-music-to-the-blockchain/"
+          },
+          {
+            "title": "From Tiigrihüpe to Estcoin – The digital evolution of “Europe’s Silicon Valley”",
+            "url": "https://cryptoinsider.com/estcoin-the-digital-evolution-of-europe-silicon-valley/"
+          },
+          {
+            "title": "Could blockchain startups change our everyday routine in big ways?",
+            "url": "https://cryptoinsider.com/could-blockchain-startups-change-our-routine/"
+          },
+          {
+            "title": "Replay attacks explained",
+            "url": "https://cryptoinsider.com/replay-attacks-explained/"
+          },
+          {
+            "title": "Daily Roundup – August 23, 2017",
+            "url": "https://cryptoinsider.com/daily-roundup-august-23-2017/"
+          },
+          {
+            "title": "Interview with blockchain DJ Deadly Buda on Musicoin",
+            "url": "https://cryptoinsider.com/interview-blockchain-dj-deadly-buda-musicoin/"
+          },
+          {
+            "title": "Civic – blockchain solution to combat growing cybercrime industry?",
+            "url": "https://cryptoinsider.com/civic-blockchain-solution-combat-cybercrime/"
+          }
+        ],
+        "source": "cryptoinsider.com"
+      }
+    ],
+    "coinDesk": [
+      {
+        "articles": [
+          {
+            "title": "Ethereum's 'Metropolis' Upgrade Could Still Be Months Away                                        ",
+            "url": "https://www.coindesk.com/ethereums-metropolis-upgrade-still-months-away/"
+          },
+          {
+            "title": "Bitcoin Prices Rise But Fall Short of All-Time High",
+            "url": "https://www.coindesk.com/bitcoin-prices-rise-fall-short-time-high/"
+          },
+          {
+            "title": "China's New Fundraising Rules Could Lead to ICO Investigations",
+            "url": "https://www.coindesk.com/chinas-new-fundraising-rules-lead-ico-investigations/"
+          },
+          {
+            "title": "Insightful ICO? Telecom Giant Telenor Wants to Disrupt Media with Tokens",
+            "url": "https://www.coindesk.com/insightful-ico-telecom-giant-telenor-wants-to-disrupt-media-with-tokens/"
+          }
+        ],
+        "source": "coindesk.com"
+      }
+    ]
+  }
+}

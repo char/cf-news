@@ -1,6 +1,9 @@
 const request = require('request');
 const fs = require('fs');
 
+const getCoinDesk = require('./Scrape/coin-desk');
+const getCryptoInsider = require('./Scrape/crypto-insider');
+
 let sourceIterator = 0;
 
 const getSources = () => {
@@ -65,8 +68,6 @@ const getArticles = (source) => {
           if (articles.length > 0) {
             sourceIterator += 1;
             resolve(articles);
-          } else {
-            reject('articles length <= 0');
           }
         } else {
           reject('articles is null or undefined: ' + typeof articles);
@@ -76,29 +77,108 @@ const getArticles = (source) => {
   });
 }
 
-
+const writeName = 'articles.json';
+// NewsAPI
 (async () => {
-  let rArticles = [];
-
   try {
+    let rArticles = [];
     const sources = await getSources();
 
-    console.log('for loop');
+    fs.readFile('./' + writeName, 'utf8', async (err, data) => {
+      if (err) { console.error(err); return; }
+      await Promise.all(sources.map(async (s) => {
+        try {
+          let i = 0;
+          const articles = await getArticles(s);
+          if (articles.length > 0) {
+            rArticles.push({articles: articles, source: s});
+            i += 1;
+          }
 
-    await Promise.all(sources.map(async (s) => {
-      let i = 0;
-      const articles = await getArticles(s);
-      if (articles.length > 0) {
-        rArticles.push({articles: articles, source: s});
-        console.log('articles length: ' + articles.length);
-        i += 1;
-      }
+          if (i == sourceIterator) {
+            if (data) {
+              let json = JSON.parse(data);
+              json.mainArticles.newsAPI = rArticles;
 
-      if (i == sourceIterator) {
-        const writeName = 'articles.json';
+              fs.writeFile(
+                writeName,
+                JSON.stringify(json, null, 4),
+                (err) => {
+                  if (err) {
+                    console.error(err);
+                  } else {
+                    sourceIterator = 0;
+                    console.log('NewsAPI JSON saved to', writeName);
+                  }
+                }
+              );
+
+              return;
+            } else {
+              const json = {
+                mainArticles: {
+                  newsAPI: rArticles,
+                },
+              };
+              fs.writeFile(
+                writeName,
+                JSON.stringify(json, null, 2),
+                (err) => {
+                  if (err) {
+                    console.error(err);
+                  } else {
+                    sourceIterator = 0;
+                    console.log('JSON saved to', writeName);
+                  }
+                }
+              );
+            }
+          }
+        } catch (error) {
+          if (error == 'articles length <= 0') {
+            return;
+          } else {
+            console.error(error);
+          }
+        }
+      }));
+    });
+  } catch (error) {
+    console.error(error);
+  }
+})();
+
+// Coin Desk
+(async () => {
+  try {
+    const page = await getCoinDesk();
+    fs.readFile('./' + writeName, 'utf8', (err, data) => {
+      if (err) { console.error(err); return; }
+      if (data) {
+        let json = JSON.parse(data);
+        json.mainArticles.coinDesk = [page];
+
         fs.writeFile(
           writeName,
-          JSON.stringify(rArticles, null, 4),
+          JSON.stringify(json, null, 2),
+          (err) => {
+            if (err) {
+              console.error(err);
+            } else {
+              sourceIterator = 0;
+              console.log('Coindesk JSON saved to', writeName);
+            }
+          }
+        );
+      } else {
+        const json = {
+          mainArticles: {
+            coinDesk: [page],
+          },
+        };
+        fs.writeFile(
+          writeName,
+          JSON.stringify(json, null, 2),
           (err) => {
             if (err) {
               console.error(err);
@@ -108,11 +188,56 @@ const getArticles = (source) => {
             }
           }
         );
-
-        return;
       }
-    }));
+    });
   } catch (error) {
-    console.error(error);
+
+  }
+})();
+
+// Crypto Insider
+(async () => {
+  try {
+    const page = await getCryptoInsider();
+    fs.readFile('./' + writeName, 'utf8', (err, data) => {
+      if (err) { console.error(err); return; }
+      if (data) {
+        let json = JSON.parse(data);
+        json.mainArticles.cryptoInsider = [page];
+
+        fs.writeFile(
+          writeName,
+          JSON.stringify(json, null, 2),
+          (err) => {
+            if (err) {
+              console.error(err);
+            } else {
+              sourceIterator = 0;
+              console.log('CryptoInsider JSON saved to', writeName);
+            }
+          }
+        );
+      } else {
+        const json = {
+          mainArticles: {
+            cryptoInsider: [page],
+          },
+        };
+        fs.writeFile(
+          writeName,
+          JSON.stringify(json, null, 2),
+          (err) => {
+            if (err) {
+              console.error(err);
+            } else {
+              sourceIterator = 0;
+              console.log('JSON saved to', writeName);
+            }
+          }
+        );
+      }
+    });
+  } catch (error) {
+
   }
 })();
