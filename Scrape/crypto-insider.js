@@ -11,13 +11,16 @@ getCryptoInsider = () => {
             selector: 'a',
             attr: 'href',
           },
+          source: {
+            selector: '.post-title a',
+            convert: x => 'cryptoinsider.com',
+          },
         },
       },
     }, (err, page) => {
       if (err) {
         reject(err);
       } else {
-        page.source = 'cryptoinsider.com';
         resolve(page);
       }
     });

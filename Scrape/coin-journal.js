@@ -11,13 +11,16 @@ getCoinJournal = () => {
             selector: 'a',
             attr: 'href',
           },
+          source: {
+            selector: '.entry-title',
+            convert: x => 'coinjournal.net',
+          },
         },
       },
     }, (err, page) => {
       if (err) {
         reject(err);
       } else {
-        page.source = 'coinjournal.net';
         resolve(page);
       }
     });

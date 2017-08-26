@@ -20,28 +20,30 @@
         "articles": [
           {
             "title": "Blockchain's 4 Biggest Assumptions                                        ",
-            "url": "https://www.coindesk.com/blockchains-4-biggest-assumptions/"
+            "url": "https://www.coindesk.com/blockchains-4-biggest-assumptions/",
+            "source": "coindesk.com"
           },
           {
             "title": "Risk or Reward: What It Takes for an Exchange to Cash In on a New Currency?",
-            "url": "https://www.coindesk.com/risk-reward-takes-exchange-cash-new-currency/"
+            "url": "https://www.coindesk.com/risk-reward-takes-exchange-cash-new-currency/",
+            "source": "coindesk.com"
           },
           {
             "title": "Ethereum's 'Metropolis' Upgrade Could Still Be Months Away",
-            "url": "https://www.coindesk.com/ethereums-metropolis-upgrade-still-months-away/"
+            "url": "https://www.coindesk.com/ethereums-metropolis-upgrade-still-months-away/",
+            "source": "coindesk.com"
           },
           {
             "title": "China's New Fundraising Rules Could Lead to ICO Investigations",
-            "url": "https://www.coindesk.com/chinas-new-fundraising-rules-lead-ico-investigations/"
+            "url": "https://www.coindesk.com/chinas-new-fundraising-rules-lead-ico-investigations/",
+            "source": "coindesk.com"
           }
-        ],
-        "source": "coindesk.com"
+        ]
       }
     ],
     "coinTelegraph": [
       {
-        "articles": [],
-        "source": "cointelegraph.com"
+        "articles": []
       }
     ],
     "cryptoCoinsNews": [
@@ -49,98 +51,121 @@
         "articles": [
           {
             "title": "First Bitcoin Capital Responds to SEC Suspension",
-            "url": "https://www.cryptocoinsnews.com/first-bitcoin-capital-responds-sec-suspension/"
+            "url": "https://www.cryptocoinsnews.com/first-bitcoin-capital-responds-sec-suspension/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "Monero, Dash Prices Soar as Bitcoin Slips Below $4,300",
-            "url": "https://www.cryptocoinsnews.com/monero-dash-prices-soar-bitcoin-slips-4300/"
+            "url": "https://www.cryptocoinsnews.com/monero-dash-prices-soar-bitcoin-slips-4300/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "Bitcoin ETF Now More Likelier than Ever, Says Bloomberg Analyst",
-            "url": "https://www.cryptocoinsnews.com/bitcoin-etf-now-likely-bloomberg-analyst-says/"
+            "url": "https://www.cryptocoinsnews.com/bitcoin-etf-now-likely-bloomberg-analyst-says/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "Why Bitcoin’s Price Isn’t A Bubble",
-            "url": "https://www.cryptocoinsnews.com/bitcoins-price-isnt-bubble/"
+            "url": "https://www.cryptocoinsnews.com/bitcoins-price-isnt-bubble/",
+            "source": "cryptocoinsnews.com"
           },
           {
-            "title": ""
+            "title": "",
+            "source": "cryptocoinsnews.com"
           },
           {
-            "title": ""
+            "title": "",
+            "source": "cryptocoinsnews.com"
           },
           {
-            "title": ""
+            "title": "",
+            "source": "cryptocoinsnews.com"
           },
           {
-            "title": ""
+            "title": "",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "Estcoin: Estonia Could Soon Launch Its Own Digital Currency",
-            "url": "https://www.cryptocoinsnews.com/estcoin-estonia-could-soon-launch-its-own-digital-currency/"
+            "url": "https://www.cryptocoinsnews.com/estcoin-estonia-could-soon-launch-its-own-digital-currency/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "(+) ICO Analysis: Enigma",
-            "url": "https://hacked.com/ico-analysis-enigma/"
+            "url": "https://hacked.com/ico-analysis-enigma/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "Vietnam is Preparing to Legalize Bitcoin",
-            "url": "https://www.cryptocoinsnews.com/vietnam-preparing-to-legalize-bitcoin/"
+            "url": "https://www.cryptocoinsnews.com/vietnam-preparing-to-legalize-bitcoin/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "Tokens Released, Tierion TNT IOU Trading Is Open",
-            "url": "https://www.cryptocoinsnews.com/tokens-released-tierion-tnt-iou-trading-is-open/"
+            "url": "https://www.cryptocoinsnews.com/tokens-released-tierion-tnt-iou-trading-is-open/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "Russia’s First Deputy PM Supports a State Cryptocurrency",
-            "url": "https://www.cryptocoinsnews.com/russias-first-deputy-pm-supports-state-cryptocurrency/"
+            "url": "https://www.cryptocoinsnews.com/russias-first-deputy-pm-supports-state-cryptocurrency/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "Monero Price Just Pierced $100: Here’s What’s Fueling This Record Rally",
-            "url": "https://www.cryptocoinsnews.com/monero-price-just-pierced-100-heres-whats-fueling-record-rally/"
+            "url": "https://www.cryptocoinsnews.com/monero-price-just-pierced-100-heres-whats-fueling-record-rally/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "Bitwala Refuses to Follow SegWit2x Fork without Core Dev Support",
-            "url": "https://www.cryptocoinsnews.com/bitwala-refuses-follow-segwit2x-fork-without-core-dev-support/"
+            "url": "https://www.cryptocoinsnews.com/bitwala-refuses-follow-segwit2x-fork-without-core-dev-support/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "Why Did Litecoin Hit $50 For the First Time in August?",
-            "url": "https://www.cryptocoinsnews.com/why-did-litecoin-hit-50-for-the-first-time-in-august/"
+            "url": "https://www.cryptocoinsnews.com/why-did-litecoin-hit-50-for-the-first-time-in-august/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "(+) Estonia Proposes to Launch its Own Cryptocurrency",
-            "url": "https://hacked.com/estonia-proposes-launch-cryptocurrency/"
+            "url": "https://hacked.com/estonia-proposes-launch-cryptocurrency/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "Bitcoin Price Targets $4,400 Despite Dipping Hashrate",
-            "url": "https://www.cryptocoinsnews.com/bitcoin-price-targets-4400-despite-dipping-hashrate/"
+            "url": "https://www.cryptocoinsnews.com/bitcoin-price-targets-4400-despite-dipping-hashrate/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "ICOs, the New Investment Tool in Venture Funds’ Chest",
-            "url": "https://www.cryptocoinsnews.com/icos-the-new-investment-tool-in-venture-funds-chest/"
+            "url": "https://www.cryptocoinsnews.com/icos-the-new-investment-tool-in-venture-funds-chest/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "OneCoin Labelled Pyramid Scheme, Fined €2.6 Million in Italy",
-            "url": "https://www.cryptocoinsnews.com/onecoin-labelled-pyramid-scheme-fined-e2-6-million-italy/"
+            "url": "https://www.cryptocoinsnews.com/onecoin-labelled-pyramid-scheme-fined-e2-6-million-italy/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "AbjCoin: The Cryptocurrency Set to Pioneer Blockchain Technology In Africa",
-            "url": "https://www.cryptocoinsnews.com/abjcoin-cryptocurrency-set-pioneer-blockchain-technology-africa/"
+            "url": "https://www.cryptocoinsnews.com/abjcoin-cryptocurrency-set-pioneer-blockchain-technology-africa/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "Monetha Signs Partnership Deal with Dominant Baltic Online Retailer",
-            "url": "https://www.cryptocoinsnews.com/monetha-signs-partnership-deal-dominant-baltic-online-retailer/"
+            "url": "https://www.cryptocoinsnews.com/monetha-signs-partnership-deal-dominant-baltic-online-retailer/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "UTRUST Brings Consumer Protections to Cryptocurrencies, Announces Pre ICO",
-            "url": "https://www.cryptocoinsnews.com/utrust-brings-consumer-protections-cryptocurrencies-announces-pre-ico/"
+            "url": "https://www.cryptocoinsnews.com/utrust-brings-consumer-protections-cryptocurrencies-announces-pre-ico/",
+            "source": "cryptocoinsnews.com"
           },
           {
             "title": "DOVU, Blockchain Powered Mobility, Backed by InMotion Ventures, Powered by Jaguar Land Rover",
-            "url": "https://www.cryptocoinsnews.com/dovu-blockchain-powered-mobility-backed-inmotion-ventures-powered-jaguar-land-rover/"
+            "url": "https://www.cryptocoinsnews.com/dovu-blockchain-powered-mobility-backed-inmotion-ventures-powered-jaguar-land-rover/",
+            "source": "cryptocoinsnews.com"
           }
-        ],
-        "source": "cryptocoinsnews.com"
+        ]
       }
     ],
     "coinJournal": [
@@ -148,98 +173,120 @@
         "articles": [
           {
             "title": "Ethereum-Based Invoice Finance Platform Hive Raises Over US$8 Million",
-            "url": "https://coinjournal.net/ethereum-invoice-finance-platform-hive-us8-million/"
+            "url": "https://coinjournal.net/ethereum-invoice-finance-platform-hive-us8-million/",
+            "source": "coinjournal.net"
           },
           {
             "title": "India Continues to Ponder Bitcoin Regulations as Cybercrime Soars",
-            "url": "https://coinjournal.net/india-continues-ponder-bitcoin-regulations-cybercrime-soars/"
+            "url": "https://coinjournal.net/india-continues-ponder-bitcoin-regulations-cybercrime-soars/",
+            "source": "coinjournal.net"
           },
           {
             "title": "BitTorrent Creator Bram Cohen: Bitcoin Miners are Butthurt Over SegWit",
-            "url": "https://coinjournal.net/bittorrent-creator-bram-cohen-bitcoin-miners-butthurt-segwit/"
+            "url": "https://coinjournal.net/bittorrent-creator-bram-cohen-bitcoin-miners-butthurt-segwit/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Op-Ed: Bitcoin Passed $4,000, but What’s the Real Reason Why?",
-            "url": "https://coinjournal.net/price-watch-bitcoin-passed-4000-whats-real-reason/"
+            "url": "https://coinjournal.net/price-watch-bitcoin-passed-4000-whats-real-reason/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Bitcoin, Ether Prices Rise Pushes Crypto Market Cap Above US$150B",
-            "url": "https://coinjournal.net/bitcoin-ether-prices-rise-pushes-crypto-market-cap-us150b/"
+            "url": "https://coinjournal.net/bitcoin-ether-prices-rise-pushes-crypto-market-cap-us150b/",
+            "source": "coinjournal.net"
           },
           {
             "title": "$44 Million in Ethereum Moved With $0.13 Fee, How Can Bitcoin...",
-            "url": "https://coinjournal.net/44-million-ethereum-moved-0-13-fee-can-bitcoin-reach-similar-scalability/"
+            "url": "https://coinjournal.net/44-million-ethereum-moved-0-13-fee-can-bitcoin-reach-similar-scalability/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Estonia Considers Launching Its Own Crypto Token Through An ICO",
-            "url": "https://coinjournal.net/estonia-estcoin-crypto-token-ico/"
+            "url": "https://coinjournal.net/estonia-estcoin-crypto-token-ico/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Bitcoin Price Continues to Rise in Spite of Increased Competition",
-            "url": "https://coinjournal.net/bitcoin-price-continues-rise-spite-increased-competition/"
+            "url": "https://coinjournal.net/bitcoin-price-continues-rise-spite-increased-competition/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Enigma Blockchain Project Hacked; Supporters Defrauded Of US$500K In Ether",
-            "url": "https://coinjournal.net/enigma-hacked-us500k-ether/"
+            "url": "https://coinjournal.net/enigma-hacked-us500k-ether/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Thai Central Bank Meets With Ethereum Co-Founder Vitalik Buterin & OmiseGo",
-            "url": "https://coinjournal.net/thai-central-bank-meets-ethereum-co-founder-vitalik-buterin-omisego/"
+            "url": "https://coinjournal.net/thai-central-bank-meets-ethereum-co-founder-vitalik-buterin-omisego/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Bitcoin: The Next Evolution in Remittances",
-            "url": "https://coinjournal.net/bitcoin-next-evolution-remittances/"
+            "url": "https://coinjournal.net/bitcoin-next-evolution-remittances/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Ambrosus Aims For Greater Transparency In Food Retail With New Blockchain...",
-            "url": "https://coinjournal.net/ambrosus-aims-greater-transparency-food-retail-new-blockchain-p2p-marketplace/"
+            "url": "https://coinjournal.net/ambrosus-aims-greater-transparency-food-retail-new-blockchain-p2p-marketplace/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Blockchain Proptech Startup Propy Signs Deal With Ukraine Government",
-            "url": "https://coinjournal.net/blockchain-proptech-startup-propy-signs-deal-ukraine-government/"
+            "url": "https://coinjournal.net/blockchain-proptech-startup-propy-signs-deal-ukraine-government/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Swiss Private Bank to Add Support for Ether, Litecoin and Bitcoin...",
-            "url": "https://coinjournal.net/switzerland-falcon-private-bank-ether-litecoin-bitcoin-cash/"
+            "url": "https://coinjournal.net/switzerland-falcon-private-bank-ether-litecoin-bitcoin-cash/",
+            "source": "coinjournal.net"
           },
           {
             "title": "REAL Announces Ethereum-Based Crowdfunding Platform For Real Estate Investment",
-            "url": "https://coinjournal.net/real-announces-blockchain-crowdfunding-platform-real-estate-investment/"
+            "url": "https://coinjournal.net/real-announces-blockchain-crowdfunding-platform-real-estate-investment/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Bitcoin Surpassed $4,300 But 99.98% of World’s Capital is On The...",
-            "url": "https://coinjournal.net/bitcoin-surpassed-4300-99-98-worlds-capital-sidelines/"
+            "url": "https://coinjournal.net/bitcoin-surpassed-4300-99-98-worlds-capital-sidelines/",
+            "source": "coinjournal.net"
           },
           {
             "title": "HBO is Reportedly Buying $250,000 in Bitcoin to Pay Off Game...",
-            "url": "https://coinjournal.net/hbo-reportedly-buying-250000-bitcoin-pay-off-game-thrones-hacker/"
+            "url": "https://coinjournal.net/hbo-reportedly-buying-250000-bitcoin-pay-off-game-thrones-hacker/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Japanese VCs Commit US$9M Investment to NEM-Based Blockchain Platform",
-            "url": "https://coinjournal.net/japanese-vcs-commit-us9m-investment-nem-based-blockchain-platform/"
+            "url": "https://coinjournal.net/japanese-vcs-commit-us9m-investment-nem-based-blockchain-platform/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Cryptocurrency Wallet Jaxx Announces Support for Cofound.it-Approved Tokens",
-            "url": "https://coinjournal.net/cryptocurrency-wallet-jaxx-announces-support-cofound-approved-tokens/"
+            "url": "https://coinjournal.net/cryptocurrency-wallet-jaxx-announces-support-cofound-approved-tokens/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Putin’s Advisor is Raising $100 Million to Rival China’s Bitcoin Mining...",
-            "url": "https://coinjournal.net/putin-ico-chinese-bitcoin-mining/"
+            "url": "https://coinjournal.net/putin-ico-chinese-bitcoin-mining/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Segregated Witness (SegWit) Locks In On Bitcoin",
-            "url": "https://coinjournal.net/segregated-witness-segwit-locks-bitcoin-price-hits-new-time-high/"
+            "url": "https://coinjournal.net/segregated-witness-segwit-locks-bitcoin-price-hits-new-time-high/",
+            "source": "coinjournal.net"
           },
           {
             "title": "Eleven Banks Develop DLT-Based Trade Finance App",
-            "url": "https://coinjournal.net/eleven-banks-develop-dlt-based-trade-finance-app/"
+            "url": "https://coinjournal.net/eleven-banks-develop-dlt-based-trade-finance-app/",
+            "source": "coinjournal.net"
           },
           {
             "title": "A Complete Guide to Bitcoin Cash: Supporting Exchanges, Wallets, Trading Advice",
-            "url": "https://coinjournal.net/complete-guide-bitcoin-cash-supporting-exchanges-wallets-trading-advice/"
+            "url": "https://coinjournal.net/complete-guide-bitcoin-cash-supporting-exchanges-wallets-trading-advice/",
+            "source": "coinjournal.net"
           }
-        ],
-        "source": "coinjournal.net"
+        ]
       }
     ],
     "cryptoInsider": [
@@ -247,38 +294,45 @@
         "articles": [
           {
             "title": "Major domestic conglomerates match Japan’s blockchain drive",
-            "url": "https://cryptoinsider.com/major-domestic-conglomerates-matching-japanese-governments-blockchain-drive/"
+            "url": "https://cryptoinsider.com/major-domestic-conglomerates-matching-japanese-governments-blockchain-drive/",
+            "source": "cryptoinsider.com"
           },
           {
             "title": "Viberate bringing live music to the blockchain",
-            "url": "https://cryptoinsider.com/viberate-bringing-live-music-to-the-blockchain/"
+            "url": "https://cryptoinsider.com/viberate-bringing-live-music-to-the-blockchain/",
+            "source": "cryptoinsider.com"
           },
           {
             "title": "From Tiigrihüpe to Estcoin – The digital evolution of “Europe’s Silicon Valley”",
-            "url": "https://cryptoinsider.com/estcoin-the-digital-evolution-of-europe-silicon-valley/"
+            "url": "https://cryptoinsider.com/estcoin-the-digital-evolution-of-europe-silicon-valley/",
+            "source": "cryptoinsider.com"
           },
           {
             "title": "Could blockchain startups change our everyday routine in big ways?",
-            "url": "https://cryptoinsider.com/could-blockchain-startups-change-our-routine/"
+            "url": "https://cryptoinsider.com/could-blockchain-startups-change-our-routine/",
+            "source": "cryptoinsider.com"
           },
           {
             "title": "Replay attacks explained",
-            "url": "https://cryptoinsider.com/replay-attacks-explained/"
+            "url": "https://cryptoinsider.com/replay-attacks-explained/",
+            "source": "cryptoinsider.com"
           },
           {
             "title": "Daily Roundup – August 23, 2017",
-            "url": "https://cryptoinsider.com/daily-roundup-august-23-2017/"
+            "url": "https://cryptoinsider.com/daily-roundup-august-23-2017/",
+            "source": "cryptoinsider.com"
           },
           {
             "title": "Interview with blockchain DJ Deadly Buda on Musicoin",
-            "url": "https://cryptoinsider.com/interview-blockchain-dj-deadly-buda-musicoin/"
+            "url": "https://cryptoinsider.com/interview-blockchain-dj-deadly-buda-musicoin/",
+            "source": "cryptoinsider.com"
           },
           {
             "title": "Civic – blockchain solution to combat growing cybercrime industry?",
-            "url": "https://cryptoinsider.com/civic-blockchain-solution-combat-cybercrime/"
+            "url": "https://cryptoinsider.com/civic-blockchain-solution-combat-cybercrime/",
+            "source": "cryptoinsider.com"
           }
-        ],
-        "source": "cryptoinsider.com"
+        ]
       }
     ]
   }

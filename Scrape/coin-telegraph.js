@@ -8,14 +8,15 @@ getCoinTelegraph = () => {
         data: {
           title: 'lol'
         },
+        source: {
+          selector: '.row',
+          convert: x => 'cointelegraph.com',
+        },
       },
     }, (err, page) => {
       if (err) {
         reject(err);
       } else {
-        console.log('TELEGPRAH: ');
-        console.log(page);
-        page.source = 'cointelegraph.com';
         resolve(page);
       }
     });

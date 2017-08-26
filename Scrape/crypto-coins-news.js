@@ -11,13 +11,16 @@ getCryptoCoinsNews = () => {
             selector: 'a',
             attr: 'href',
           },
+          source: {
+            selector: '.entry-title a',
+            convert: x => 'cryptocoinsnews.com',
+          },
         },
       },
     }, (err, page) => {
       if (err) {
         reject(err);
       } else {
-        page.source = 'cryptocoinsnews.com';
         resolve(page);
       }
     });

@@ -14,13 +14,16 @@ getCoinDesk = () => {
             selector: 'a',
             attr: 'href',
           },
+          source: {
+            selector: '.article-featured a',
+            convert: x => 'coindesk.com',
+          },
         },
       },
     }, (err, page) => {
       if (err) {
         reject(err);
       } else {
-        page.source = 'coindesk.com';
         resolve(page);
       }
     });
