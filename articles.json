@@ -41,14 +41,60 @@
         ]
       }
     ],
-    "coinTelegraph": [
+    "cryptoInsider": [
       {
-        "articles": []
+        "articles": [
+          {
+            "title": "Major domestic conglomerates match Japan’s blockchain drive",
+            "url": "https://cryptoinsider.com/major-domestic-conglomerates-matching-japanese-governments-blockchain-drive/",
+            "source": "cryptoinsider.com"
+          },
+          {
+            "title": "Viberate bringing live music to the blockchain",
+            "url": "https://cryptoinsider.com/viberate-bringing-live-music-to-the-blockchain/",
+            "source": "cryptoinsider.com"
+          },
+          {
+            "title": "From Tiigrihüpe to Estcoin – The digital evolution of “Europe’s Silicon Valley”",
+            "url": "https://cryptoinsider.com/estcoin-the-digital-evolution-of-europe-silicon-valley/",
+            "source": "cryptoinsider.com"
+          },
+          {
+            "title": "Could blockchain startups change our everyday routine in big ways?",
+            "url": "https://cryptoinsider.com/could-blockchain-startups-change-our-routine/",
+            "source": "cryptoinsider.com"
+          },
+          {
+            "title": "Replay attacks explained",
+            "url": "https://cryptoinsider.com/replay-attacks-explained/",
+            "source": "cryptoinsider.com"
+          },
+          {
+            "title": "Daily Roundup – August 23, 2017",
+            "url": "https://cryptoinsider.com/daily-roundup-august-23-2017/",
+            "source": "cryptoinsider.com"
+          },
+          {
+            "title": "Interview with blockchain DJ Deadly Buda on Musicoin",
+            "url": "https://cryptoinsider.com/interview-blockchain-dj-deadly-buda-musicoin/",
+            "source": "cryptoinsider.com"
+          },
+          {
+            "title": "Civic – blockchain solution to combat growing cybercrime industry?",
+            "url": "https://cryptoinsider.com/civic-blockchain-solution-combat-cybercrime/",
+            "source": "cryptoinsider.com"
+          }
+        ]
       }
     ],
     "cryptoCoinsNews": [
       {
         "articles": [
+          {
+            "title": "Storj Deflates < $1; Siacoin in Recovery?",
+            "url": "https://www.cryptocoinsnews.com/storj-deflates-1-siacoin-recovery/",
+            "source": "cryptocoinsnews.com"
+          },
           {
             "title": "First Bitcoin Capital Responds to SEC Suspension",
             "url": "https://www.cryptocoinsnews.com/first-bitcoin-capital-responds-sec-suspension/",
@@ -65,24 +111,24 @@
             "source": "cryptocoinsnews.com"
           },
           {
+            "title": "",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "",
+            "source": "cryptocoinsnews.com"
+          },
+          {
             "title": "Why Bitcoin’s Price Isn’t A Bubble",
             "url": "https://www.cryptocoinsnews.com/bitcoins-price-isnt-bubble/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "",
             "source": "cryptocoinsnews.com"
           },
           {
@@ -141,11 +187,6 @@
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "OneCoin Labelled Pyramid Scheme, Fined €2.6 Million in Italy",
-            "url": "https://www.cryptocoinsnews.com/onecoin-labelled-pyramid-scheme-fined-e2-6-million-italy/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
             "title": "AbjCoin: The Cryptocurrency Set to Pioneer Blockchain Technology In Africa",
             "url": "https://www.cryptocoinsnews.com/abjcoin-cryptocurrency-set-pioneer-blockchain-technology-africa/",
             "source": "cryptocoinsnews.com"
@@ -166,6 +207,11 @@
             "source": "cryptocoinsnews.com"
           }
         ]
+      }
+    ],
+    "coinTelegraph": [
+      {
+        "articles": []
       }
     ],
     "coinJournal": [
@@ -285,52 +331,6 @@
             "title": "A Complete Guide to Bitcoin Cash: Supporting Exchanges, Wallets, Trading Advice",
             "url": "https://coinjournal.net/complete-guide-bitcoin-cash-supporting-exchanges-wallets-trading-advice/",
             "source": "coinjournal.net"
-          }
-        ]
-      }
-    ],
-    "cryptoInsider": [
-      {
-        "articles": [
-          {
-            "title": "Major domestic conglomerates match Japan’s blockchain drive",
-            "url": "https://cryptoinsider.com/major-domestic-conglomerates-matching-japanese-governments-blockchain-drive/",
-            "source": "cryptoinsider.com"
-          },
-          {
-            "title": "Viberate bringing live music to the blockchain",
-            "url": "https://cryptoinsider.com/viberate-bringing-live-music-to-the-blockchain/",
-            "source": "cryptoinsider.com"
-          },
-          {
-            "title": "From Tiigrihüpe to Estcoin – The digital evolution of “Europe’s Silicon Valley”",
-            "url": "https://cryptoinsider.com/estcoin-the-digital-evolution-of-europe-silicon-valley/",
-            "source": "cryptoinsider.com"
-          },
-          {
-            "title": "Could blockchain startups change our everyday routine in big ways?",
-            "url": "https://cryptoinsider.com/could-blockchain-startups-change-our-routine/",
-            "source": "cryptoinsider.com"
-          },
-          {
-            "title": "Replay attacks explained",
-            "url": "https://cryptoinsider.com/replay-attacks-explained/",
-            "source": "cryptoinsider.com"
-          },
-          {
-            "title": "Daily Roundup – August 23, 2017",
-            "url": "https://cryptoinsider.com/daily-roundup-august-23-2017/",
-            "source": "cryptoinsider.com"
-          },
-          {
-            "title": "Interview with blockchain DJ Deadly Buda on Musicoin",
-            "url": "https://cryptoinsider.com/interview-blockchain-dj-deadly-buda-musicoin/",
-            "source": "cryptoinsider.com"
-          },
-          {
-            "title": "Civic – blockchain solution to combat growing cybercrime industry?",
-            "url": "https://cryptoinsider.com/civic-blockchain-solution-combat-cybercrime/",
-            "source": "cryptoinsider.com"
           }
         ]
       }

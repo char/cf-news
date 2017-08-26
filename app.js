@@ -158,7 +158,7 @@ const writeName = 'articles.json';
   // Wait for NewsAPI to scrape first to avoid overwriting
 })().then(() => {
   // Coin Desk
-  (async () => {
+  return new Promise(async (resolve, reject) => {
     try {
       const page = await getCoinDesk();
       fs.readFile('./' + writeName, 'utf8', (err, data) => {
@@ -173,9 +173,11 @@ const writeName = 'articles.json';
             (err) => {
               if (err) {
                 console.error(err);
+                reject(err);
               } else {
                 sourceIterator = 0;
                 console.log('Coindesk JSON saved to', writeName);
+                resolve();
               }
             }
           );
@@ -184,121 +186,180 @@ const writeName = 'articles.json';
     } catch (error) {
 
     }
-  })();
+  }).then(() => {
+    // Crypto Insider
+    return new Promise(async (resolve, reject) => {
+      try {
+        const page = await getCryptoInsider();
+        fs.readFile('./' + writeName, 'utf8', (err, data) => {
+          if (err) { console.error(err); return; }
+          if (data) {
+            let json = JSON.parse(data);
+            json.mainArticles.cryptoInsider = [page];
 
-  // Crypto Insider
-  (async () => {
-    try {
-      const page = await getCryptoInsider();
-      fs.readFile('./' + writeName, 'utf8', (err, data) => {
-        if (err) { console.error(err); return; }
-        if (data) {
-          let json = JSON.parse(data);
-          json.mainArticles.cryptoInsider = [page];
-
-          fs.writeFile(
-            writeName,
-            JSON.stringify(json, null, 2),
-            (err) => {
-              if (err) {
-                console.error(err);
-              } else {
-                sourceIterator = 0;
-                console.log('CryptoInsider JSON saved to', writeName);
+            fs.writeFile(
+              writeName,
+              JSON.stringify(json, null, 2),
+              (err) => {
+                if (err) {
+                  console.error(err);
+                  reject(err);
+                } else {
+                  sourceIterator = 0;
+                  console.log('CryptoInsider JSON saved to', writeName);
+                  resolve(0);
+                }
               }
-            }
-          );
-        }
-      });
-    } catch (error) {
+            );
+          }
+        });
+      } catch (error) {
 
-    }
-  })();
+      }
+    }).then(() => {
+      return new Promise(async (resolve, reject) => {
+        // Crypto Coins News
+          try {
+            const page = await getCryptoCoinsNews();
+            fs.readFile('./' + writeName, 'utf8', (err, data) => {
+              if (err) { console.error(err); return; }
+              if (data) {
+                let json = JSON.parse(data);
+                json.mainArticles.cryptoCoinsNews = [page];
 
-  // Crypto Coins News
-  (async () => {
-    try {
-      const page = await getCryptoCoinsNews();
-      fs.readFile('./' + writeName, 'utf8', (err, data) => {
-        if (err) { console.error(err); return; }
-        if (data) {
-          let json = JSON.parse(data);
-          json.mainArticles.cryptoCoinsNews = [page];
-
-          fs.writeFile(
-            writeName,
-            JSON.stringify(json, null, 2),
-            (err) => {
-              if (err) {
-                console.error(err);
-              } else {
-                sourceIterator = 0;
-                console.log('Crypto Coins News JSON saved to', writeName);
+                fs.writeFile(
+                  writeName,
+                  JSON.stringify(json, null, 2),
+                  (err) => {
+                    if (err) {
+                      console.error(err);
+                      reject(err);
+                    } else {
+                      sourceIterator = 0;
+                      console.log('Crypto Coins News JSON saved to', writeName);
+                      resolve();
+                    }
+                  }
+                );
               }
+            });
+          } catch (error) {
+
+          }
+      }).then(() => {
+        return new Promise(async (resolve, reject) => {
+          // Coin Telegraph
+            try {
+              const page = await getCoinTelegraph();
+              fs.readFile('./' + writeName, 'utf8', (err, data) => {
+                if (err) { console.error(err); return; }
+                if (data) {
+                  let json = JSON.parse(data);
+                  json.mainArticles.coinTelegraph = [page];
+
+                  fs.writeFile(
+                    writeName,
+                    JSON.stringify(json, null, 2),
+                    (err) => {
+                      if (err) {
+                        console.error(err);
+                        reject(err);
+                      } else {
+                        sourceIterator = 0;
+                        console.log('CoinTelegraph JSON saved to', writeName);
+                        resolve();
+                      }
+                    }
+                  );
+                }
+              });
+            } catch (error) {
+
             }
-          );
-        }
-      });
-    } catch (error) {
+        }).then(() => {
+          return new Promise(async (resolve, reject) => {
+            // Coin Journal
+            try {
+              const page = await getCoinJournal();
+              fs.readFile('./' + writeName, 'utf8', (err, data) => {
+                if (err) { console.error(err); return; }
+                if (data) {
+                  let json = JSON.parse(data);
+                  json.mainArticles.coinJournal = [page];
 
-    }
-  })();
+                  fs.writeFile(
+                    writeName,
+                    JSON.stringify(json, null, 2),
+                    (err) => {
+                      if (err) {
+                        console.error(err);
+                        reject(err);
+                      } else {
+                        sourceIterator = 0;
+                        console.log('CoinJournal JSON saved to', writeName);
+                        resolve();
+                      }
+                    }
+                  );
+                }
+              });
+            } catch (error) {
 
-  // Coin Telegraph
-  (async () => {
-    try {
-      const page = await getCoinTelegraph();
-      fs.readFile('./' + writeName, 'utf8', (err, data) => {
-        if (err) { console.error(err); return; }
-        if (data) {
-          let json = JSON.parse(data);
-          json.mainArticles.coinTelegraph = [page];
+            }
+          });
+        }).then(() => {
+            console.log('[' + new Date().toUTCString() + ']');
+            fs.readFile('./' + writeName, 'utf8', (err, data) => {
+              if (err) { console.log(err); return; }
+              if (data) {
+                let displayArticles = [];
+                let json = JSON.parse(data);
+                const main = json.mainArticles;
+                Object.keys(main).forEach((key) => {
+                  if (key == 'newsAPI') { return; }
+                  const keyA = main[key][0].articles;
+                  if (keyA) {
+                    for (let i=0; i<keyA.length; i++) {
+                      if (i == 6) {
+                        break;
+                      } else {
+                        if (keyA[i].title !== '') {
+                          displayArticles.push(keyA[i]);
+                        }
+                      }
+                    }
+                  }
+                });
 
-          fs.writeFile(
-            writeName,
-            JSON.stringify(json, null, 2),
-            (err) => {
-              if (err) {
-                console.error(err);
-              } else {
-                sourceIterator = 0;
-                console.log('CoinTelegraph JSON saved to', writeName);
+                function shuffleArray(array) {
+                  for (var i = array.length - 1; i > 0; i--) {
+                    var j = Math.floor(Math.random() * (i + 1));
+                    var temp = array[i];
+                    array[i] = array[j];
+                    array[j] = temp;
+                  }
+
+                  return array;
+                }
+
+                displayArticles = shuffleArray(displayArticles);
+                const write = 'display-articles.json';
+                fs.writeFile(
+                  write,
+                  JSON.stringify(displayArticles, null, 2),
+                  (err) => {
+                    if (err) {
+                      console.error(err);
+                    } else {
+                      sourceIterator = 0;
+                      console.log('Saved top 5s to', write);
+                    }
+                  }
+                );
               }
-            }
-          );
-        }
+            });
+        });
       });
-    } catch (error) {
-
-    }
-  })();
-
-  // Coin Journal
-  (async () => {
-    try {
-      const page = await getCoinJournal();
-      fs.readFile('./' + writeName, 'utf8', (err, data) => {
-        if (err) { console.error(err); return; }
-        if (data) {
-          let json = JSON.parse(data);
-          json.mainArticles.coinJournal = [page];
-
-          fs.writeFile(
-            writeName,
-            JSON.stringify(json, null, 2),
-            (err) => {
-              if (err) {
-                console.error(err);
-              } else {
-                sourceIterator = 0;
-                console.log('CoinJournal JSON saved to', writeName);
-              }
-            }
-          );
-        }
-      });
-    } catch (error) {
-
-    }
-  })();
+    });
+  });
 });
