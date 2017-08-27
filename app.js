@@ -437,7 +437,7 @@ const doEverything = () => {
 app.use(cors());
 
 app.get('/', (req, res) => {
-  res.writeHead(200, {'Content-Type': 'text/plain'});
+  res.setHeader(200, {'Content-Type': 'text/plain'});
   fs.readFile('./' + 'display-articles.json', 'utf8', (err, data) => {
     if (err) { console.error(error); return; }
     if (data) {
