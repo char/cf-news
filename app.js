@@ -87,7 +87,7 @@ const getArticles = (source) => {
 const doEverything = () => {
   const writeName = 'articles.json';
   // NewsAPI
-  (async function() {
+  (async () => {
     return new Promise(async (resolve, reject) => {
       try {
         let rArticles = [];
