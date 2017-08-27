@@ -10,8 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.4",
     "babel-register": "^6.26.0",
+    "cron": "^1.2.1",
+    "express": "^4.15.4",
     "fs": "0.0.1-security",
     "request": "^2.81.0",
     "scrape-it": "^3.3.2"

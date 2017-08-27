@@ -2,6 +2,7 @@ const request = require('request');
 const fs = require('fs');
 const express = require('express');
 const app = new express();
+const CronJob = require('cron').CronJob;
 
 const getCoinDesk = require('./Scrape/coin-desk');
 const getCryptoInsider = require('./Scrape/crypto-insider');
@@ -445,3 +446,14 @@ app.get('/', (req, res) => {
 const port = 6501;
 app.listen(port);
 console.log('[' + new Date().toUTCString() + '] listening on port:', port);
+
+const job = new CronJob('0 0 5 * * *', () => {
+  console.log('time ran');
+  doEverything();
+}, () => {
+  console.log('job stopped');
+},
+  false,
+  'America/Los_Angeles'
+);
+job.start();

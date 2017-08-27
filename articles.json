@@ -4,15 +4,15 @@
       {
         "articles": [
           {
-            "author": null,
-            "title": "Bitcoin Energy Consumption Index - Digiconomist",
-            "description": "The Bitcoin Energy Consumption Index provides the latest estimate of the total energy consumption of the Bitcoin network.",
-            "url": "https://digiconomist.net/bitcoin-energy-consumption",
-            "urlToImage": "https://digiconomist.net/wp-content/uploads/2016/11/power.jpg",
-            "publishedAt": null
+            "author": "",
+            "title": "AI uses bitcoin trail to find and help sex-trafficking victims",
+            "description": "Thousands of escorts advertise on websites like Backpage, not always by choice. Machine learning can now identify ads posted by traffickers, and locate them",
+            "url": "https://www.newscientist.com/article/2145355-ai-uses-bitcoin-trail-to-find-and-help-sex-trafficking-victims/",
+            "urlToImage": "https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/08/24182539/rexfeatures_8987660g.jpg",
+            "publishedAt": "2017-08-24T00:00:00Z"
           }
         ],
-        "source": "hacker-news"
+        "source": "new-scientist"
       }
     ],
     "coinDesk": [
@@ -564,63 +564,63 @@
             "source": "crypto-news.net"
           },
           {
-            "title": "Mitigating Vulnerabilities In Blockchain Security",
-            "url": "https://www.crypto-news.net/mitigating-vulnerabilities-in-blockchain-security/",
+            "title": "Bitcoin Core 0.14.0 Released",
+            "url": "https://www.crypto-news.net/bitcoin-core-0-14-0-released/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Cryptocurrency Exchanges: Your Guide to Altcoin Trading",
-            "url": "https://www.crypto-news.net/cryptocurrency-exchanges-your-guide-to-altcoin-trading/",
+            "title": "Bank of Russia planning its own digital currency",
+            "url": "https://www.crypto-news.net/bank-of-russia-planning-its-own-digital-currency/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Bitcoin Price Approaching $2200",
-            "url": "https://www.crypto-news.net/bitcoin-price-approaching-2200/",
+            "title": "Litecoin",
+            "url": "https://www.crypto-news.net/litecoin/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Bitcoin Price Keeps Above $1000 in Spite of Selling Pressure",
-            "url": "https://www.crypto-news.net/bitcoin-price-keeps-above-1000-in-spite-of-selling-pressure/",
+            "title": "How bitcoin reached parity with gold",
+            "url": "https://www.crypto-news.net/gold-parity/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Mother of all battles – Banks: Bitcoin versus Google, Facebook, and Amazon",
-            "url": "https://www.crypto-news.net/mother-of-all-battles-banks-bitcoin-versus-google-facebook-and-amazon/",
+            "title": "Capital Requirements for Bitcoin Remittance Companies Lowered in South Korea",
+            "url": "https://www.crypto-news.net/capital-requirements-for-bitcoin-remittance-companies-lowered-in-south-korea/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Killing Bitcoin is Impossible",
-            "url": "https://www.crypto-news.net/killing-bitcoin-is-impossible/",
+            "title": "CoinDash – An Etoro like social crypto trading platform",
+            "url": "https://www.crypto-news.net/coindash-an-etoro-like-social-crypto-trading-platform/",
             "source": "crypto-news.net"
           },
           {
-            "title": "How to choose a wallet that’s right for you?",
-            "url": "https://www.crypto-news.net/how-to-choose-a-wallet-thats-right-for-you/",
+            "title": "Bitcoin Price Breaks Through Resistance With Price Nearing $1100",
+            "url": "https://www.crypto-news.net/bitcoin-price-breaks-through-resistance-with-price-nearing-1100/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Where to Get Free Bitcoin",
-            "url": "https://www.crypto-news.net/free-bitcoins/",
+            "title": "Bitcoin: Better Used as a Currency or as a Commodity?",
+            "url": "https://www.crypto-news.net/bitcoin-better-used-as-a-currency-or-as-a-commodity-as-the-price-rises/",
             "source": "crypto-news.net"
           },
           {
-            "title": "European Commission Gives Bitcoin/Blockchain Startups New Shot in the Arm",
-            "url": "https://www.crypto-news.net/european-commission-gives-bitcoinblockchain-startups-new-shot-in-the-arm/",
+            "title": "What fork? BTC as usual in Southeast Asia",
+            "url": "https://www.crypto-news.net/what-fork-btc-as-usual-in-southeast-asia/",
             "source": "crypto-news.net"
           },
           {
-            "title": "The United Nations pushes blockchain-based donation project",
-            "url": "https://www.crypto-news.net/the-united-nations-pushes-blockchain-based-donation-project/",
+            "title": "Hyperledger Project Booms with Chamber of Digital Commerce Partnership to Promote Blockchain Technology",
+            "url": "https://www.crypto-news.net/hyperledger-project-booms-with-chamber-of-digital-commerce-partnership-to-promote-blockchain-technology/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Bitcoin Price Recovers to $820 Levels",
-            "url": "https://www.crypto-news.net/bitcoin-price-recovers-to-820-levels/",
+            "title": "Bitcoin Price; Set to Climb Above $900?",
+            "url": "https://www.crypto-news.net/bitcoin-price-set-to-climb-above-900/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Bitcoin enters Top 5 most searched on Google",
-            "url": "https://www.crypto-news.net/bitcoin-enters-top-5-most-searched-on-google/",
+            "title": "Peercoin",
+            "url": "https://www.crypto-news.net/peercoin/",
             "source": "crypto-news.net"
           },
           {
