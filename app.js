@@ -3,6 +3,7 @@ const fs = require('fs');
 const express = require('express');
 const app = new express();
 const CronJob = require('cron').CronJob;
+const cors = require('cors');
 
 const getCoinDesk = require('./Scrape/coin-desk');
 const getCryptoInsider = require('./Scrape/crypto-insider');
@@ -433,10 +434,13 @@ const doEverything = () => {
   });
 }
 
+app.use(cors());
+
 app.get('/', (req, res) => {
   fs.readFile('./' + 'display-articles.json', 'utf8', (err, data) => {
     if (err) { console.error(error); return; }
     if (data) {
+      res.writeHead(200, {'Content-Type': 'text/plain'});
       const json = JSON.parse(data);
       res.json(json);
     }
