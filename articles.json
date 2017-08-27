@@ -4,15 +4,15 @@
       {
         "articles": [
           {
-            "author": "",
-            "title": "AI uses bitcoin trail to find and help sex-trafficking victims",
-            "description": "Thousands of escorts advertise on websites like Backpage, not always by choice. Machine learning can now identify ads posted by traffickers, and locate them",
-            "url": "https://www.newscientist.com/article/2145355-ai-uses-bitcoin-trail-to-find-and-help-sex-trafficking-victims/",
-            "urlToImage": "https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/08/24182539/rexfeatures_8987660g.jpg",
-            "publishedAt": "2017-08-24T00:00:00Z"
+            "author": null,
+            "title": "Bitcoin Energy Consumption Index - Digiconomist",
+            "description": "The Bitcoin Energy Consumption Index provides the latest estimate of the total energy consumption of the Bitcoin network.",
+            "url": "https://digiconomist.net/bitcoin-energy-consumption",
+            "urlToImage": "https://digiconomist.net/wp-content/uploads/2016/11/power.jpg",
+            "publishedAt": null
           }
         ],
-        "source": "new-scientist"
+        "source": "hacker-news"
       }
     ],
     "coinDesk": [
@@ -91,6 +91,16 @@
       {
         "articles": [
           {
+            "title": "(+) Trade Recommendation: IOTA",
+            "url": "https://hacked.com/trade-recommendation-iota-2/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "Vinny Lingham Says Core Dev Threatened Him For NYA Support",
+            "url": "https://www.cryptocoinsnews.com/vinny-lingham-says-core-dev-threatened-nya-support/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
             "title": "Storj Deflates < $1; Siacoin in Recovery?",
             "url": "https://www.cryptocoinsnews.com/storj-deflates-1-siacoin-recovery/",
             "source": "cryptocoinsnews.com"
@@ -101,6 +111,22 @@
             "source": "cryptocoinsnews.com"
           },
           {
+            "title": "",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "",
+            "source": "cryptocoinsnews.com"
+          },
+          {
             "title": "Monero, Dash Prices Soar as Bitcoin Slips Below $4,300",
             "url": "https://www.cryptocoinsnews.com/monero-dash-prices-soar-bitcoin-slips-4300/",
             "source": "cryptocoinsnews.com"
@@ -108,22 +134,6 @@
           {
             "title": "Bitcoin ETF Now More Likelier than Ever, Says Bloomberg Analyst",
             "url": "https://www.cryptocoinsnews.com/bitcoin-etf-now-likely-bloomberg-analyst-says/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "",
             "source": "cryptocoinsnews.com"
           },
           {
@@ -174,16 +184,6 @@
           {
             "title": "(+) Estonia Proposes to Launch its Own Cryptocurrency",
             "url": "https://hacked.com/estonia-proposes-launch-cryptocurrency/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "Bitcoin Price Targets $4,400 Despite Dipping Hashrate",
-            "url": "https://www.cryptocoinsnews.com/bitcoin-price-targets-4400-despite-dipping-hashrate/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "ICOs, the New Investment Tool in Venture Funds’ Chest",
-            "url": "https://www.cryptocoinsnews.com/icos-the-new-investment-tool-in-venture-funds-chest/",
             "source": "cryptocoinsnews.com"
           },
           {
@@ -333,6 +333,367 @@
             "source": "coinjournal.net"
           }
         ]
+      }
+    ],
+    "cryptoNews": [
+      {
+        "articles": [
+          {
+            "title": "Australian Financial Reforms to Regulate Digital Currencies",
+            "url": "https://www.crypto-news.net/australian-financial-reforms-to-regulate-digital-currencies/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Swiss Bank is Looking to sell BCH, LTC and ETH to Customers",
+            "url": "https://www.crypto-news.net/swiss-bank-is-looking-to-sell-bch-ltc-and-eth-to-customers/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "The National Bank of Ukraine talks about the legality of Bitcoin",
+            "url": "https://www.crypto-news.net/the-national-bank-of-ukraine-talks-about-the-legality-of-bitcoin/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "The Peculiar Connection Between Ethereum and South Korea",
+            "url": "https://www.crypto-news.net/the-peculiar-connection-between-ethereum-and-south-korea/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Censorship in Crowdfunding Services and How Bitcoin Could Help",
+            "url": "https://www.crypto-news.net/censorship-in-crowdfunding-services-and-how-bitcoin-could-help/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Swiss Bank is Looking to sell BCH, LTC and ETH to Customers",
+            "url": "https://www.crypto-news.net/swiss-bank-is-looking-to-sell-bch-ltc-and-eth-to-customers/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Enterprise Ethereum Alliance Expands Legal Industry Working Group",
+            "url": "https://www.crypto-news.net/enterprise-ethereum-alliance-expands-legal-industry-working-group/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "The Peculiar Connection Between Ethereum and South Korea",
+            "url": "https://www.crypto-news.net/the-peculiar-connection-between-ethereum-and-south-korea/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "State Sponsorship",
+            "url": "https://www.crypto-news.net/state-sponsorship/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Overstock.com Becomes First Major Retailer to Accept Altcoins",
+            "url": "https://www.crypto-news.net/overstock-com-becomes-first-major-retailer-to-accept-altcoins/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Swiss Bank is Looking to sell BCH, LTC and ETH to Customers",
+            "url": "https://www.crypto-news.net/swiss-bank-is-looking-to-sell-bch-ltc-and-eth-to-customers/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Enterprise Ethereum Alliance Expands Legal Industry Working Group",
+            "url": "https://www.crypto-news.net/enterprise-ethereum-alliance-expands-legal-industry-working-group/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "State Sponsorship",
+            "url": "https://www.crypto-news.net/state-sponsorship/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Overstock.com Becomes First Major Retailer to Accept Altcoins",
+            "url": "https://www.crypto-news.net/overstock-com-becomes-first-major-retailer-to-accept-altcoins/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Bitcoin Stronger Than Ever, Gains Market Share Over Competitors",
+            "url": "https://www.crypto-news.net/bitcoin-stronger-than-ever-gains-market-share-over-competitors/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Neo, Sia and Peercoin: Trading, Holding & Mining",
+            "url": "https://www.crypto-news.net/neo-sia-and-peercoin-trading-holding-mining/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Major Events Following the Chainsplit on August 1st",
+            "url": "https://www.crypto-news.net/major-events-following-the-chainsplit-on-august-1st/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "What a Wall Street Analyst Thinks Would Keep Bitcoin’s Boom Going",
+            "url": "https://www.crypto-news.net/what-a-wall-street-analyst-thinks-would-keep-bitcoins-boom-going/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "August 1st: How to Prepare for the Worst",
+            "url": "https://www.crypto-news.net/august-1st-how-to-prepare-for-the-worst/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Bitcoin & Climate Change",
+            "url": "https://www.crypto-news.net/bitcoin-and-climate-change/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "How Europe’s Gambling Regulations favor Bitcoin",
+            "url": "https://www.crypto-news.net/how-europes-gambling-regulations-favor-bitcoin/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Kibo Platforms’ Beta Version Be Launched in the Beginning of May",
+            "url": "https://www.crypto-news.net/kibo-platforms-beta-version-launched-may/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "The Physical Bitcoin Casino Controversy",
+            "url": "https://www.crypto-news.net/the-physical-bitcoin-casino-controversy/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Crypto-Games.net approaches impressive 1 billion dice bets",
+            "url": "https://www.crypto-news.net/crypto-games-net-approaches-impressive-1-billion-dice-bets/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "When Blockchain and Decentralization Disrupt Gambling",
+            "url": "https://www.crypto-news.net/when-blockchain-and-decentralization-disrupt-gambling/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "The Peculiar Connection Between Ethereum and South Korea",
+            "url": "https://www.crypto-news.net/the-peculiar-connection-between-ethereum-and-south-korea/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Bitcoin Keeps Rising Above $3500, Reaching New All Time Highs",
+            "url": "https://www.crypto-news.net/bitcoin-keeps-rising-above-3500-reaching-new-all-time-highs/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Bitcoin Stronger Than Ever, Gains Market Share Over Competitors",
+            "url": "https://www.crypto-news.net/bitcoin-stronger-than-ever-gains-market-share-over-competitors/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Neo, Sia and Peercoin: Trading, Holding & Mining",
+            "url": "https://www.crypto-news.net/neo-sia-and-peercoin-trading-holding-mining/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Major Events Following the Chainsplit on August 1st",
+            "url": "https://www.crypto-news.net/major-events-following-the-chainsplit-on-august-1st/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Transactions",
+            "url": "https://www.crypto-news.net/transactions/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Bitcoin Master Guide",
+            "url": "https://www.crypto-news.net/bitcoin-master-guide/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Trading with Bitcoin",
+            "url": "https://www.crypto-news.net/trading-with-bitcoin/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Bitcoin Mining",
+            "url": "https://www.crypto-news.net/bitcoin-mining-2/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Blocks",
+            "url": "https://www.crypto-news.net/blocks/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Unpublished Satoshi emails reveal early Bitcoin insight",
+            "url": "https://www.crypto-news.net/unpublished-satoshi-emails-reveal-early-bitcoin-insight/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Bitcoin Stronger Than Ever, Gains Market Share Over Competitors",
+            "url": "https://www.crypto-news.net/bitcoin-stronger-than-ever-gains-market-share-over-competitors/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Major Events Following the Chainsplit on August 1st",
+            "url": "https://www.crypto-news.net/major-events-following-the-chainsplit-on-august-1st/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Bitcoin’s Growing Recognition from Financial Institutions",
+            "url": "https://www.crypto-news.net/bitcoins-growing-recognition-from-financial-institutions/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "SEC: DAO Tokens are Securities, Subject to Federal Regulations",
+            "url": "https://www.crypto-news.net/sec-dao-tokens-are-securities-subject-to-federal-regulations/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Australian Financial Reforms to Regulate Digital Currencies",
+            "url": "https://www.crypto-news.net/australian-financial-reforms-to-regulate-digital-currencies/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Swiss Bank is Looking to sell BCH, LTC and ETH to Customers",
+            "url": "https://www.crypto-news.net/swiss-bank-is-looking-to-sell-bch-ltc-and-eth-to-customers/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Ties.Network Announces Token Generation Event (TGE)",
+            "url": "https://www.crypto-news.net/ties-network-announces-token-generation-event-tge/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "The National Bank of Ukraine talks about the legality of Bitcoin",
+            "url": "https://www.crypto-news.net/the-national-bank-of-ukraine-talks-about-the-legality-of-bitcoin/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Enterprise Ethereum Alliance Expands Legal Industry Working Group",
+            "url": "https://www.crypto-news.net/enterprise-ethereum-alliance-expands-legal-industry-working-group/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Mitigating Vulnerabilities In Blockchain Security",
+            "url": "https://www.crypto-news.net/mitigating-vulnerabilities-in-blockchain-security/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Cryptocurrency Exchanges: Your Guide to Altcoin Trading",
+            "url": "https://www.crypto-news.net/cryptocurrency-exchanges-your-guide-to-altcoin-trading/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Bitcoin Price Approaching $2200",
+            "url": "https://www.crypto-news.net/bitcoin-price-approaching-2200/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Bitcoin Price Keeps Above $1000 in Spite of Selling Pressure",
+            "url": "https://www.crypto-news.net/bitcoin-price-keeps-above-1000-in-spite-of-selling-pressure/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Mother of all battles – Banks: Bitcoin versus Google, Facebook, and Amazon",
+            "url": "https://www.crypto-news.net/mother-of-all-battles-banks-bitcoin-versus-google-facebook-and-amazon/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Killing Bitcoin is Impossible",
+            "url": "https://www.crypto-news.net/killing-bitcoin-is-impossible/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "How to choose a wallet that’s right for you?",
+            "url": "https://www.crypto-news.net/how-to-choose-a-wallet-thats-right-for-you/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Where to Get Free Bitcoin",
+            "url": "https://www.crypto-news.net/free-bitcoins/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "European Commission Gives Bitcoin/Blockchain Startups New Shot in the Arm",
+            "url": "https://www.crypto-news.net/european-commission-gives-bitcoinblockchain-startups-new-shot-in-the-arm/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "The United Nations pushes blockchain-based donation project",
+            "url": "https://www.crypto-news.net/the-united-nations-pushes-blockchain-based-donation-project/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Bitcoin Price Recovers to $820 Levels",
+            "url": "https://www.crypto-news.net/bitcoin-price-recovers-to-820-levels/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Bitcoin enters Top 5 most searched on Google",
+            "url": "https://www.crypto-news.net/bitcoin-enters-top-5-most-searched-on-google/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Australian Financial Reforms to Regulate Digital Currencies",
+            "url": "https://www.crypto-news.net/australian-financial-reforms-to-regulate-digital-currencies/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Swiss Bank is Looking to sell BCH, LTC and ETH to Customers",
+            "url": "https://www.crypto-news.net/swiss-bank-is-looking-to-sell-bch-ltc-and-eth-to-customers/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Ties.Network Announces Token Generation Event (TGE)",
+            "url": "https://www.crypto-news.net/ties-network-announces-token-generation-event-tge/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "The National Bank of Ukraine talks about the legality of Bitcoin",
+            "url": "https://www.crypto-news.net/the-national-bank-of-ukraine-talks-about-the-legality-of-bitcoin/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Enterprise Ethereum Alliance Expands Legal Industry Working Group",
+            "url": "https://www.crypto-news.net/enterprise-ethereum-alliance-expands-legal-industry-working-group/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "The Peculiar Connection Between Ethereum and South Korea",
+            "url": "https://www.crypto-news.net/the-peculiar-connection-between-ethereum-and-south-korea/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Viberate shakes up music industry with its vibe token crowdsale",
+            "url": "https://www.crypto-news.net/viberate-shakes-up-music-industry-with-its-vibe-token-crowdsale/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Censorship in Crowdfunding Services and How Bitcoin Could Help",
+            "url": "https://www.crypto-news.net/censorship-in-crowdfunding-services-and-how-bitcoin-could-help/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "State Sponsorship",
+            "url": "https://www.crypto-news.net/state-sponsorship/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "CarTaxi – the “Uber” of car towing",
+            "url": "https://www.crypto-news.net/cartaxi-the-uber-of-car-towing-an-ethereum-based-platform-becoming-the-1-st-worldwide-towing-aggregator/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Australian Financial Reforms to Regulate Digital Currencies",
+            "url": "https://www.crypto-news.net/australian-financial-reforms-to-regulate-digital-currencies/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Swiss Bank is Looking to sell BCH, LTC and ETH to Customers",
+            "url": "https://www.crypto-news.net/swiss-bank-is-looking-to-sell-bch-ltc-and-eth-to-customers/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Ties.Network Announces Token Generation Event (TGE)",
+            "url": "https://www.crypto-news.net/ties-network-announces-token-generation-event-tge/",
+            "source": "crypto-news.net"
+          }
+        ]
+      }
+    ],
+    "ethNews": [
+      {
+        "articles": []
       }
     ]
   }
