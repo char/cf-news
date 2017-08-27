@@ -442,7 +442,7 @@ app.get('/', (req, res) => {
     if (err) { console.error(error); return; }
     if (data) {
       const json = JSON.parse(data);
-      res.json(json);
+      return res.json(json);
     }
   });
 });
