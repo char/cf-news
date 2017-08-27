@@ -381,6 +381,7 @@ const doEverything = () => {
                 if (err) { console.log(err); return; }
                 if (data) {
                   let displayArticles = [];
+                  let urls = [];
                   let json = JSON.parse(data);
                   const main = json.mainArticles;
                   Object.keys(main).forEach((key) => {
@@ -391,8 +392,9 @@ const doEverything = () => {
                         if (i == 8) {
                           break;
                         } else {
-                          if (keyA[i].title !== '') {
+                          if (keyA[i].title !== '' && urls.indexOf(keyA[i].url) < 0) {
                             displayArticles.push(keyA[i]);
+                            urls.push(keyA[i].url);
                           }
                         }
                       }
