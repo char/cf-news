@@ -12,6 +12,7 @@ const getCoinTelegraph = require('./Scrape/coin-telegraph');
 const getCoinJournal = require('./Scrape/coin-journal');
 const getCryptoNews = require('./Scrape/crypto-news');
 const getEthNews = require('./Scrape/eth-news');
+const getBitcoinMagazine = require('./Scrape/bitcoin-magazine');
 
 let sourceIterator = 0;
 
@@ -376,6 +377,36 @@ const doEverything = () => {
               }
             });
           }).then(() => {
+            return new Promise(async (resolve, reject) => {
+              try {
+                const page = await getBitcoinMagazine();
+                fs.readFile('./' + writeName, 'utf8', (err, data) => {
+                  if (err) { console.error(err); return; }
+                  if (data) {
+                    let json = JSON.parse(data);
+                    json.mainArticles.bitcoinMagazine = [page];
+
+                    fs.writeFile(
+                      writeName,
+                      JSON.stringify(json, null, 2),
+                      (err) => {
+                        if (err) {
+                          console.error(err);
+                          reject(err);
+                        } else {
+                          sourceIterator = 0;
+                          console.log('BitcoinMagazine JSON saved to', writeName);
+                          resolve();
+                        }
+                      }
+                    );
+                  }
+                });
+              } catch (error) {
+
+              }
+            })
+          }).then(() => {
               console.log('[' + new Date().toUTCString() + ']');
               fs.readFile('./' + writeName, 'utf8', (err, data) => {
                 if (err) { console.log(err); return; }
@@ -463,3 +494,4 @@ const job = new CronJob('0 0 5 * * *', () => {
   'America/Los_Angeles'
 );
 job.start();
+//doEverything();
