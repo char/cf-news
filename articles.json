@@ -4,38 +4,38 @@
       {
         "articles": [
           {
-            "author": "Evelyn Cheng",
-            "title": "Bitcoin's nearly five-fold climb in 2017 looks very similar to tech bubble surge",
-            "description": "When charted, bitcoin's rapid gains resemble how stocks surged into the tech bubble before collapsing.",
-            "url": "https://www.cnbc.com/2017/08/31/bitcons-nearly-five-fold-climb-in-2017-looks-very-similar-to-tech-bubble-surge.html",
-            "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/07/10/104577904-GettyImages-475483835.1910x1000.jpg",
-            "publishedAt": "2017-08-31T22:27:09Z"
+            "author": "derogab",
+            "title": "derogab/coingraphs",
+            "description": "coingraphs - Coingraphs is an hackable cryptocoin graph builder.",
+            "url": "https://github.com/derogab/coingraphs",
+            "urlToImage": "https://avatars3.githubusercontent.com/u/4183824?v=4&s=400",
+            "publishedAt": null
           }
         ],
-        "source": "cnbc"
+        "source": "hacker-news"
       }
     ],
     "coinDesk": [
       {
         "articles": [
           {
-            "title": "'Game of Skill': US Markets Tech Provider Launches Bitcoin Betting Game                                        ",
-            "url": "https://www.coindesk.com/game-skill-us-markets-tech-provider-launches-bitcoin-betting-game/",
+            "title": "Blockstack Today: 5 Apps Already Being Built on the Decentralized Web                                        ",
+            "url": "https://www.coindesk.com/building-blockstack-five-firms-show-us-just-platform-capable/",
             "source": "coindesk.com"
           },
           {
-            "title": "Illinois Launches Blockchain Pilot to Digitize Birth Certificates",
-            "url": "https://www.coindesk.com/illinois-launches-blockchain-pilot-digitize-birth-certificates/",
+            "title": "Report: China's Regulators Close to Taking Action Against ICOs",
+            "url": "https://www.coindesk.com/report-chinas-regulators-close-taking-action-icos/",
             "source": "coindesk.com"
           },
           {
-            "title": "F2Pool Reneges: Bitcoin Pool Pulls Segwit2x Support Over Hard Fork",
-            "url": "https://www.coindesk.com/f2pool-reneges-mining-pool-pulls-segwit2x-support-hard-fork/",
+            "title": "Bitcoin Drops Below $5,000 as Crypto Markets See $13 Billion Sell-Off",
+            "url": "https://www.coindesk.com/bitcoin-drops-5000-crypto-markets-see-13-billion-sell-off/",
             "source": "coindesk.com"
           },
           {
-            "title": "'Misunderstanding': Vitalik Buterin to Create New Entity for Russian Bank Deal",
-            "url": "https://www.coindesk.com/misunderstanding-vitalik-buterin-create-new-entity-russian-bank-deal/",
+            "title": "Inevitable Bust? GPU Makers See Crypto Mining as Short-Term Sales Boost",
+            "url": "https://www.coindesk.com/inevitable-bust-gpu-makers-see-crypto-mining-short-term-sales-boost/",
             "source": "coindesk.com"
           }
         ]
@@ -44,6 +44,11 @@
     "cryptoInsider": [
       {
         "articles": [
+          {
+            "title": "A look into the Bitcoin, Ethereum and Blockchain Super Conference",
+            "url": "https://cryptoinsider.com/bitcoin-ethereum-and-blockchain-super-conference/",
+            "source": "cryptoinsider.com"
+          },
           {
             "title": "Daily Roundup – August 31, 2017",
             "url": "https://cryptoinsider.com/daily-roundup-august-31-2017/",
@@ -80,11 +85,6 @@
             "source": "cryptoinsider.com"
           },
           {
-            "title": "Floating Island Project targets Fall 2017 for ICO",
-            "url": "https://cryptoinsider.com/floating-island-project-target-fall-2017-ico/",
-            "source": "cryptoinsider.com"
-          },
-          {
             "title": "",
             "source": "cryptoinsider.com"
           },
@@ -103,27 +103,23 @@
       {
         "articles": [
           {
-            "title": "Litecoin Price Hits $74 to Shatter All-Time High",
-            "url": "https://www.cryptocoinsnews.com/litecoin-price-hits-74-shatter-time-high/",
+            "title": "Bitcoin Price Hits Record $5,000 Traders Initiate Sell-Off as Price Drops $400",
+            "url": "https://www.cryptocoinsnews.com/bitcoin-price-hits-record-5000-traders-initiate-sell-off/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Bitcoin Cash Hashrate Plunges as Price, Mining Profitability Wane",
-            "url": "https://www.cryptocoinsnews.com/bitcoin-cash-hashrate-plunges-as-price-mining-profitability-wane/",
+            "title": "Modum ICO Raises $4.2 Million in 10 Minutes",
+            "url": "https://www.cryptocoinsnews.com/modum-ico-raises-4-2-million-in-10-minutes/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Six Global Banks Join UBS’ Digital Currency Project; Aims to ‘Go Live’ in 2018",
-            "url": "https://www.cryptocoinsnews.com/six-global-banks-join-ubs-digital-currency-project-aims-go-live-2018/",
+            "title": "Chinese Regulators Issue ICO Warning",
+            "url": "https://www.cryptocoinsnews.com/chinese-regulators-issue-ico-warning/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "(+) ICO Rating Reduction: Reassessing SONM",
-            "url": "https://hacked.com/ico-rating-reduction-reassessing-sonm/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "",
+            "title": "Revolutionizing the Cannabis industry with Blockchain technology",
+            "url": "https://www.cryptocoinsnews.com/revolutionizing-cannabis-industry-blockchain-technology/",
             "source": "cryptocoinsnews.com"
           },
           {
@@ -139,83 +135,87 @@
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Wrestler John Cena Posts about Bitcoin to 7 Million Instagram Followers",
-            "url": "https://www.cryptocoinsnews.com/john-cena-posts-about-bitcoin-on-instagram/",
+            "title": "",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Football Superstar Luis Suarez Pumps Ethereum Prediction Market Stox",
-            "url": "https://www.cryptocoinsnews.com/football-star-luis-suarez-pumps-stox-prediction-market-alpha/",
+            "title": "(+) ICO Analysis: Paragon",
+            "url": "https://hacked.com/ico-analysis-paragon/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "What’s Up With the Paragon ICO?",
-            "url": "https://www.cryptocoinsnews.com/whats-up-with-the-paragon-ico/",
+            "title": "Bitcoin Price Nears $5,000; YTD Growth Exceeds 400%",
+            "url": "https://www.cryptocoinsnews.com/bitcoin-price-nears-5000-ytd-growth-exceeds-400/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "(+) ICO Analysis: Monetha",
-            "url": "https://hacked.com/ico-analysis-monetha/",
+            "title": "Embattled Bitcoin Exchange BTC-E Back Online, with Limited Availability",
+            "url": "https://www.cryptocoinsnews.com/embattled-bitcoin-exchange-btc-e-back-online-with-limited-availability/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Get Paid in Crypto for your Bandwidth! Privatix Develops Marketplace for Unused Traffic; ICO Coming",
-            "url": "https://www.cryptocoinsnews.com/privatix-marketplace/",
+            "title": "Ethereum Classic Price Jumps Past $20 During 23% Climb",
+            "url": "https://www.cryptocoinsnews.com/ethereum-classic-price-jumps-past-20-during-23-climb/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "(+) Trade Recommendation: Lisk",
-            "url": "https://hacked.com/trade-recommendation-lisk/",
+            "title": "Bitcoin Price Sets New All-Time High Approaching $4,900",
+            "url": "https://www.cryptocoinsnews.com/bitcoin-sets-new-all-time-high-as-it-approaches-4900/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Record $4,739 Bitcoin Price Lifts Market to $170 Billion",
-            "url": "https://www.cryptocoinsnews.com/record-4711-bitcoin-price-lifts-market-170-billion/",
+            "title": "AMD GPUs Sells Out in 5 Minutes, Gamers Livid at Crypto Miners",
+            "url": "https://www.cryptocoinsnews.com/amd-gpus-sells-5-minutes-gamers-livid-crypto-miners/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Newsflash: Bitcoin Price Climbs to New All-Time High Beyond $4,700",
-            "url": "https://www.cryptocoinsnews.com/newsflash-bitcoin-price-climbs-new-time-high-beyond-4700/",
+            "title": "(+) ICO Analysis: Enjin Coin",
+            "url": "https://hacked.com/ico-analysis-enjin-coin/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Russian State-Owned Bank VEB Joins Ethereum in Long-Term Partnership",
-            "url": "https://www.cryptocoinsnews.com/russian-state-owned-bank-veb-joins-ethereum-long-term-partnership/",
+            "title": "$175 Billion: Record Bitcoin Price Lifts Crypto Market Cap to New Heights",
+            "url": "https://www.cryptocoinsnews.com/175-billion-record-bitcoin-price-lifts-crypto-market-cap-new-heights/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Live Music Marketplace Viberate Announces Crowdsale with a Live DJ Performance",
-            "url": "https://www.cryptocoinsnews.com/live-music-marketplace-viberate-announces-crowdsale-with-a-live-dj-performance/",
+            "title": "Swiss Govt-Backed Ambrosus Raises $30 Million Ahead of ICO",
+            "url": "https://www.cryptocoinsnews.com/swiss-govt-backed-ambrosus-raises-30-million-ahead-ico/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Hong Kong and Dubai Financial Regulators Enter FinTech Pact",
-            "url": "https://www.cryptocoinsnews.com/hong-kong-dubai-financial-regulators-enter-fintech-pact/",
+            "title": "Shipping Logistics Firm Completes Successful Blockchain Pilot",
+            "url": "https://www.cryptocoinsnews.com/shipping-logistics-firm-completes-successful-blockchain-pilot/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "(+) Asian Market Update: Asian Equities Mixed on Positive Economic Data from the US, Geopolitical Tensions",
-            "url": "https://hacked.com/asian-market-update-thursday-asian-equities-mixed-positive-economic-data-us-geopolitical-tensions/",
+            "title": "Solar DAO Taps Blockchain to Expand Solar Energy Plants Worldwide; ICO Begins",
+            "url": "https://www.cryptocoinsnews.com/solar-dao-taps-blockchain-expand-solar-energy-plants-worldwide-ico-begins/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "EX-CODE – the Most Convenient Payment Method on EXMO",
-            "url": "https://www.cryptocoinsnews.com/ex-code-convenient-payment-method-exmo/",
+            "title": "(+) Asian Market Update – Friday: Asian Stocks Rose on Regional Manufacturing Data",
+            "url": "https://hacked.com/asian-market-update-friday-asian-stocks-rose-on-regional-manufacturing-data/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Pally Reaches ICO Pre-sale Target in Minutes",
-            "url": "https://www.cryptocoinsnews.com/pally-reaches-ico-pre-sale-target-minutes/",
+            "title": "NANO Mining Token: Easy and Efficient Mining",
+            "url": "https://www.cryptocoinsnews.com/nano-mining-token-easy-efficient-mining/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Blockchain startup BitClave Announces Crowdsale for its Decentralized Search Ecosystem",
-            "url": "https://www.cryptocoinsnews.com/blockchain-startup-bitclave-announces-crowdsale-decentralized-search-ecosystem/",
+            "title": "BitJob Announces Partnerships with Leading Academic Institutions",
+            "url": "https://www.cryptocoinsnews.com/bitjob-announces-partnerships-leading-academic-institutions/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Snovio, Lead Generation and Sourcing Platform, Has Been Released",
-            "url": "https://www.cryptocoinsnews.com/snovio-lead-generation-sourcing-platform-released/",
+            "title": "EventChain ICO – SmartTickets Platform Designed to Eliminate Centralized Re-Sale Using Blockchain",
+            "url": "https://www.cryptocoinsnews.com/eventchain-ico-smarttickets-platform-designed-eliminate-centralized-re-sale-using-blockchain/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "Lunyr Joins the Enterprise Ethereum Alliance (EEA)",
+            "url": "https://www.cryptocoinsnews.com/lunyr-joins-enterprise-ethereum-alliance-eea/",
             "source": "cryptocoinsnews.com"
           }
         ]
@@ -229,6 +229,11 @@
     "coinJournal": [
       {
         "articles": [
+          {
+            "title": "Blockchain Platform Polymath to Take “Securities Tokens” Mainstream",
+            "url": "https://coinjournal.net/blockchain-platform-polymath-take-securities-tokens-mainstream/",
+            "source": "coinjournal.net"
+          },
           {
             "title": "Aragon “Transparency Framework” Aims to Set Industry Standards for Crowdfunded Projects",
             "url": "https://coinjournal.net/aragon-transparency-framework-aims-set-industry-standards-crowdfunded-projects/",
@@ -338,11 +343,6 @@
             "title": "Bitcoin Surpassed $4,300 But 99.98% of World’s Capital is On The...",
             "url": "https://coinjournal.net/bitcoin-surpassed-4300-99-98-worlds-capital-sidelines/",
             "source": "coinjournal.net"
-          },
-          {
-            "title": "HBO is Reportedly Buying $250,000 in Bitcoin to Pay Off Game...",
-            "url": "https://coinjournal.net/hbo-reportedly-buying-250000-bitcoin-pay-off-game-thrones-hacker/",
-            "source": "coinjournal.net"
           }
         ]
       }
@@ -401,6 +401,11 @@
             "source": "crypto-news.net"
           },
           {
+            "title": "China’s Largest Private Conglomerate Makes Major Investment in Blockchain Startup",
+            "url": "https://www.crypto-news.net/chinas-largest-private-conglomerate-makes-major-investment-in-blockchain-startup/",
+            "source": "crypto-news.net"
+          },
+          {
             "title": "Point-Of-Sale Services Moving Quickly to Make Cryptocurrency Mainstream",
             "url": "https://www.crypto-news.net/point-of-sale-services-moving-quickly-to-make-cryptocurrency-mainstream/",
             "source": "crypto-news.net"
@@ -418,11 +423,6 @@
           {
             "title": "Enterprise Ethereum Alliance Expands Legal Industry Working Group",
             "url": "https://www.crypto-news.net/enterprise-ethereum-alliance-expands-legal-industry-working-group/",
-            "source": "crypto-news.net"
-          },
-          {
-            "title": "State Sponsorship",
-            "url": "https://www.crypto-news.net/state-sponsorship/",
             "source": "crypto-news.net"
           },
           {
@@ -551,6 +551,11 @@
             "source": "crypto-news.net"
           },
           {
+            "title": "China’s Largest Private Conglomerate Makes Major Investment in Blockchain Startup",
+            "url": "https://www.crypto-news.net/chinas-largest-private-conglomerate-makes-major-investment-in-blockchain-startup/",
+            "source": "crypto-news.net"
+          },
+          {
             "title": "Point-Of-Sale Services Moving Quickly to Make Cryptocurrency Mainstream",
             "url": "https://www.crypto-news.net/point-of-sale-services-moving-quickly-to-make-cryptocurrency-mainstream/",
             "source": "crypto-news.net"
@@ -571,68 +576,68 @@
             "source": "crypto-news.net"
           },
           {
-            "title": "Bitcoin Has Competition as Remittance Companies Begin to Diversify",
-            "url": "https://www.crypto-news.net/bitcoin-has-competition-as-remittance-companies-begin-to-diversify/",
+            "title": "The United States Reigns Supreme in the Bitcoin ATM Industry",
+            "url": "https://www.crypto-news.net/the-united-states-reigns-supreme-in-the-bitcoin-atm-industry/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Bitcoin ETFs – A comprehensive introduction",
-            "url": "https://www.crypto-news.net/bitcoin-etf/",
+            "title": "Factom Receives Grant from Gates Foundation for Medical Record Development",
+            "url": "https://www.crypto-news.net/factom-receives-grant-from-gates-foundation-for-medical-record-development/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Things that Bitcoin Exchanges Never Tell Consumers about Fees",
-            "url": "https://www.crypto-news.net/things-that-bitcoin-exchanges-never-tell-consumers-about-fees/",
+            "title": "Hong Kong Central Bank: The Great Potentials of Blockchain Technology",
+            "url": "https://www.crypto-news.net/hong-kong-central-bank-the-great-potentials-of-blockchain-technology/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Post Austria Partners with BitPanda to Offer Bitcoin Purchases",
-            "url": "https://www.crypto-news.net/post-austria-partners-with-bitpanda-to-offer-bitcoin-purchases/",
+            "title": "What are Bitcoin hash functions?",
+            "url": "https://www.crypto-news.net/what-are-bitcoin-hash-functions/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Ethereum Hard Fork",
-            "url": "https://www.crypto-news.net/ethereum-hard-fork/",
+            "title": "Ledger Nano – Hardware Wallet Review",
+            "url": "https://www.crypto-news.net/ledger-nano-harware-wallet-review/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Why is the Blockchain important?",
-            "url": "https://www.crypto-news.net/why-is-the-blockchain-important/",
+            "title": "Bitcoin Price Looms around $765 Support Levels",
+            "url": "https://www.crypto-news.net/bitcoin-price-looms-around-765-support-levels/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Bitcoin Price Recovers Above $800 Levels",
-            "url": "https://www.crypto-news.net/bitcoin-price-recovers-above-800-levels/",
+            "title": "What is Bitcoin?",
+            "url": "https://www.crypto-news.net/what-is-bitcoin/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Bitcoin price falling further below $800 throughout the weekend",
-            "url": "https://www.crypto-news.net/bitcoin-price-falling-further-below-800-throughout-the-weekend/",
+            "title": "Bitcoin Price Corrects After Brief Run Above $1100",
+            "url": "https://www.crypto-news.net/bitcoin-price-corrects-after-brief-run-above-1100/",
             "source": "crypto-news.net"
           },
           {
-            "title": "The Correct Way of Computing Mining Profitability",
-            "url": "https://www.crypto-news.net/the-correct-way-of-computing-mining-profitability/",
+            "title": "Alt Coin Race Part 1",
+            "url": "https://www.crypto-news.net/alt-coin-race-part-1/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Bitcoin Price Rising Above $1400 After New All Time High",
-            "url": "https://www.crypto-news.net/bitcoin-price-rising-above-1400-after-new-all-time-high/",
+            "title": "What is Bitcoin?",
+            "url": "https://www.crypto-news.net/what-is-bitcoin/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Bitcoin Price Keeps Recovering from Drops Bellow $775 Levels",
-            "url": "https://www.crypto-news.net/bitcoin-price-keeps-recovering-from-drops-bellow-775-levels/",
+            "title": "Testing trading plans",
+            "url": "https://www.crypto-news.net/testing-trading-plans/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Bitcoin Price Takes Off; Flirts All Time Highs",
-            "url": "https://www.crypto-news.net/bitcoin-price-takes-off-flirts-all-time-highs/",
+            "title": "Japan Expects 20,000 Merchants Accepting Bitcoin in 2017",
+            "url": "https://www.crypto-news.net/japan-20k-btc-merchants/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Blockchain: Why a Trust-Less System is the Most Trustable System",
-            "url": "https://www.crypto-news.net/blockchain-why-a-trust-less-system-is-the-most-trustable-system/",
+            "title": "China’s Largest Private Conglomerate Makes Major Investment in Blockchain Startup",
+            "url": "https://www.crypto-news.net/chinas-largest-private-conglomerate-makes-major-investment-in-blockchain-startup/",
             "source": "crypto-news.net"
           },
           {
@@ -681,8 +686,8 @@
             "source": "crypto-news.net"
           },
           {
-            "title": "Ties.Network Announces Token Generation Event (TGE)",
-            "url": "https://www.crypto-news.net/ties-network-announces-token-generation-event-tge/",
+            "title": "China’s Largest Private Conglomerate Makes Major Investment in Blockchain Startup",
+            "url": "https://www.crypto-news.net/chinas-largest-private-conglomerate-makes-major-investment-in-blockchain-startup/",
             "source": "crypto-news.net"
           },
           {
@@ -693,11 +698,6 @@
           {
             "title": "Estonia Planning to Issue a National Cryptocurrency",
             "url": "https://www.crypto-news.net/estonia-planning-to-issue-a-national-cryptocurrency/",
-            "source": "crypto-news.net"
-          },
-          {
-            "title": "Modum.io AG announces its ITO starting September 1, 2017",
-            "url": "https://www.crypto-news.net/modum-io-ag-announces-its-ito-starting-september-1-2017/",
             "source": "crypto-news.net"
           }
         ]
@@ -712,8 +712,8 @@
       {
         "articles": [
           {
-            "title": "Particl Market: A Private, Decentralized Online Sales Platform",
-            "url": "https://bitcoinmagazine.com/partners/particl-market-private-decentralized-online-sales-platform/",
+            "title": "One Week Into SegWit, Hardware Wallets Lead the Pack in Slow-But-Sure Roll Out",
+            "url": "https://bitcoinmagazine.com/sections/adoption/",
             "source": "bitcoinmagazine.com"
           },
           {
@@ -722,23 +722,23 @@
             "source": "bitcoinmagazine.com"
           },
           {
-            "title": "Bitcoin Price Analysis: Watching World Events and “Three Pushes to a High”",
-            "url": "https://bitcoinmagazine.com/sections/investing/",
+            "title": "Miners Are Leaving Money on the Table to Mine Bitcoin Cash: This Could Explain Why",
+            "url": "https://bitcoinmagazine.com/sections/mining/",
             "source": "bitcoinmagazine.com"
           },
           {
-            "title": "Blockchain in Trucking Alliance Seeks to Revolutionize the Transport Industry",
-            "url": "https://bitcoinmagazine.com/sections/adoption/",
+            "title": "Banking on Bitcoin Available on Netflix: A Good Intro to Bitcoin in Need of a Sequel",
+            "url": "https://bitcoinmagazine.com/sections/adoption-community/",
             "source": "bitcoinmagazine.com"
           },
           {
-            "title": "Miners Are Milking Bcash’s Difficulty Adjustments (and Why This Is a Problem)",
-            "url": "https://bitcoinmagazine.com/sections/technical/",
+            "title": "Israel Securities Authority to Form Committee to Oversee and Regulate ICOs",
+            "url": "https://bitcoinmagazine.com/sections/regulation/",
             "source": "bitcoinmagazine.com"
           },
           {
-            "title": "Ether Price Analysis: Bullish Momentum Seems to Be Waning",
-            "url": "https://bitcoinmagazine.com/sections/investing/",
+            "title": "Op Ed: Planning an ICO in Canada? Here are 10 Regulatory Points to Ponder",
+            "url": "https://bitcoinmagazine.com/sections/op-ed/",
             "source": "bitcoinmagazine.com"
           }
         ]

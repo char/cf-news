@@ -420,7 +420,7 @@ const doEverything = () => {
                     const keyA = main[key][0].articles;
                     if (keyA) {
                       for (let i=0; i<keyA.length; i++) {
-                        if (i == 8) {
+                        if (i == 5) {
                           break;
                         } else {
                           if (keyA[i].title !== '' && urls.indexOf(keyA[i].url) < 0) {
