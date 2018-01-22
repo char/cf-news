@@ -19,7 +19,7 @@ getEthNews = () => {
       },
     }, (err, page) => {
       if (err) {
-        reject(err);
+        resolve(err);
       } else {
         resolve(page);
       }

@@ -179,7 +179,7 @@ const doEverything = () => {
               (err) => {
                 if (err) {
                   console.error(err);
-                  reject(err);
+                  resolve(err);
                 } else {
                   sourceIterator = 0;
                   console.log('Coindesk JSON saved to', writeName);
@@ -209,7 +209,7 @@ const doEverything = () => {
                 (err) => {
                   if (err) {
                     console.error(err);
-                    reject(err);
+                    resolve(err);
                   } else {
                     sourceIterator = 0;
                     console.log('CryptoInsider JSON saved to', writeName);
@@ -239,7 +239,7 @@ const doEverything = () => {
                     (err) => {
                       if (err) {
                         console.error(err);
-                        reject(err);
+                        resolve(err);
                       } else {
                         sourceIterator = 0;
                         console.log('Crypto Coins News JSON saved to', writeName);
@@ -269,7 +269,7 @@ const doEverything = () => {
                       (err) => {
                         if (err) {
                           console.error(err);
-                          reject(err);
+                          resolve(err);
                         } else {
                           sourceIterator = 0;
                           console.log('CoinTelegraph JSON saved to', writeName);
@@ -299,7 +299,7 @@ const doEverything = () => {
                       (err) => {
                         if (err) {
                           console.error(err);
-                          reject(err);
+                          resolve(err);
                         } else {
                           sourceIterator = 0;
                           console.log('CoinJournal JSON saved to', writeName);
@@ -330,7 +330,7 @@ const doEverything = () => {
                       (err) => {
                         if (err) {
                           console.error(err);
-                          reject(err);
+                          resolve(err);
                         } else {
                           sourceIterator = 0;
                           console.log('Crypto-News JSON saved to', writeName);
@@ -362,7 +362,7 @@ const doEverything = () => {
                       (err) => {
                         if (err) {
                           console.error(err);
-                          reject(err);
+                          resolve(err);
                         } else {
                           sourceIterator = 0;
                           console.log('EthNews JSON saved to', writeName);
@@ -392,7 +392,7 @@ const doEverything = () => {
                       (err) => {
                         if (err) {
                           console.error(err);
-                          reject(err);
+                          resolve(err);
                         } else {
                           sourceIterator = 0;
                           console.log('BitcoinMagazine JSON saved to', writeName);

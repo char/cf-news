@@ -2,6 +2,7 @@ const scrapeIt = require('scrape-it');
 
 getCryptoInsider = () => {
   return new Promise((resolve, reject) => {
+    console.log('yooooo');
     scrapeIt('https://www.cryptoinsider.com/', {
       articles: {
         listItem: '.post-title',
@@ -18,8 +19,9 @@ getCryptoInsider = () => {
         },
       },
     }, (err, page) => {
+      console.log('yoooo', err);
       if (err) {
-        reject(err);
+        resolve(err);
       } else {
         resolve(page);
       }

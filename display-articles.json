@@ -1,127 +1,102 @@
 [
   {
-    "title": "Point-Of-Sale Services Moving Quickly to Make Cryptocurrency Mainstream",
-    "url": "https://www.crypto-news.net/point-of-sale-services-moving-quickly-to-make-cryptocurrency-mainstream/",
+    "title": "RepuX and the Future of Blockchain-Based Data Sharing",
+    "url": "https://bitcoinmagazine.com/articles/repux-and-future-blockchain-based-data-sharing/",
+    "source": "bitcoinmagazine.com"
+  },
+  {
+    "title": "Contortions for Compliance: Life Under New York's BitLicense",
+    "url": "https://www.coindesk.com/contortions-compliance-life-new-yorks-bitlicense/",
+    "source": "coindesk.com"
+  },
+  {
+    "title": "Cryptocurrency Exchange Shutdown Unrealistic: South Korean Finance Official",
+    "url": "https://coinjournal.net/cryptocurrency-exchange-shutdown-unrealistic-south-korean-finance-official/",
+    "source": "coinjournal.net"
+  },
+  {
+    "title": "KFC Canada Teams Up with Bitpay to Launch Bitcoin Bucket",
+    "url": "http://www.crypto-news.net/kfc-canada-teams-up-with-bitpay-to-launch-bitcoin-bucket/",
     "source": "crypto-news.net"
   },
   {
-    "title": "Swiss Bank is Looking to sell BCH, LTC and ETH to Customers",
-    "url": "https://www.crypto-news.net/swiss-bank-is-looking-to-sell-bch-ltc-and-eth-to-customers/",
-    "source": "crypto-news.net"
-  },
-  {
-    "title": "Banking on Bitcoin Available on Netflix: A Good Intro to Bitcoin in Need of a Sequel",
+    "title": "Decentralizing the Sharing Economy With Blockchain Technology",
     "url": "https://bitcoinmagazine.com/sections/adoption-community/",
     "source": "bitcoinmagazine.com"
   },
   {
-    "title": "Australian Financial Reforms to Regulate Digital Currencies",
-    "url": "https://www.crypto-news.net/australian-financial-reforms-to-regulate-digital-currencies/",
-    "source": "crypto-news.net"
-  },
-  {
-    "title": "Nxt Launches ‘Blockchain Creation Kit’",
-    "url": "https://coinjournal.net/nxt-launches-blockchain-creation-kit/",
+    "title": "Op-Ed: Bitcoin’s High Fees are Forcing Companies to Optimize Their Interactions with the Blockchain, And That’s a Good Thing",
+    "url": "https://coinjournal.net/op-ed-bitcoins-high-fees-forcing-companies-optimize-interactions-blockchain-thats-good-thing/",
     "source": "coinjournal.net"
   },
   {
-    "title": "Miners Are Leaving Money on the Table to Mine Bitcoin Cash: This Could Explain Why",
-    "url": "https://bitcoinmagazine.com/sections/mining/",
-    "source": "bitcoinmagazine.com"
-  },
-  {
-    "title": "Israel Securities Authority to Form Committee to Oversee and Regulate ICOs",
-    "url": "https://bitcoinmagazine.com/sections/regulation/",
-    "source": "bitcoinmagazine.com"
-  },
-  {
-    "title": "Bitcoin Price Hits Record $5,000 Traders Initiate Sell-Off as Price Drops $400",
-    "url": "https://www.cryptocoinsnews.com/bitcoin-price-hits-record-5000-traders-initiate-sell-off/",
+    "title": "Cryptocurrecy Market Suffers Minor Correction, Ripple and Cardano Down 10%",
+    "url": "https://www.ccn.com/cryptocurrecy-market-suffers-minor-correction-ripple-cardano-10/",
     "source": "cryptocoinsnews.com"
   },
   {
-    "title": "Estonian Government Considering Raising Bitcoin For its Sovereign Wealth Fund",
-    "url": "https://coinjournal.net/estonian-government-considering-raising-bitcoin-sovereign-wealth-fund/",
-    "source": "coinjournal.net"
+    "title": "Public Blockchains' Lure Will Become Irresistible for Enterprises in 2018",
+    "url": "https://www.coindesk.com/public-blockchains-lure-will-become-irresistible-enterprises-2018/",
+    "source": "coindesk.com"
   },
   {
-    "title": "Bitcoin Has Competition as Remittance Companies Begin to Diversify",
-    "url": "https://www.crypto-news.net/bitcoin-has-competition-as-remittance-companies-begin-to-diversify/",
+    "title": "South Korea’s Second Largest Bank Supports Cryptocurrency Exchanges, Traders Relieved",
+    "url": "https://www.ccn.com/south-koreas-second-largest-bank-supports-cryptocurrency-exchanges-traders-relieved/",
+    "source": "cryptocoinsnews.com"
+  },
+  {
+    "title": "Bull Run or Just Bull? Take CoinDesk's State of Blockchain Sentiment Survey",
+    "url": "https://www.coindesk.com/bull-run-just-bull-take-coindesks-state-blockchain-sentiment-survey/",
+    "source": "coindesk.com"
+  },
+  {
+    "title": "The SEC Clarifies its Position on Cryptocurrencies and ICOs",
+    "url": "http://www.crypto-news.net/the-sec-clarifies-its-position-on-cryptocurrencies-and-icos/",
     "source": "crypto-news.net"
   },
   {
-    "title": "Daily Roundup – August 31, 2017",
-    "url": "https://cryptoinsider.com/daily-roundup-august-31-2017/",
-    "source": "cryptoinsider.com"
+    "title": "Codex Unveils Blockchain Protocol For Arts And Collectibles Traceability",
+    "url": "https://coinjournal.net/codex-unveils-blockchain-protocol-arts-collectibles-traceability/",
+    "source": "coinjournal.net"
   },
   {
-    "title": "Report: China's Regulators Close to Taking Action Against ICOs",
-    "url": "https://www.coindesk.com/report-chinas-regulators-close-taking-action-icos/",
-    "source": "coindesk.com"
-  },
-  {
-    "title": "Chinese Regulators Issue ICO Warning",
-    "url": "https://www.cryptocoinsnews.com/chinese-regulators-issue-ico-warning/",
-    "source": "cryptocoinsnews.com"
-  },
-  {
-    "title": "Blockstack Today: 5 Apps Already Being Built on the Decentralized Web                                        ",
-    "url": "https://www.coindesk.com/building-blockstack-five-firms-show-us-just-platform-capable/",
-    "source": "coindesk.com"
-  },
-  {
-    "title": "Revolutionizing the Cannabis industry with Blockchain technology",
-    "url": "https://www.cryptocoinsnews.com/revolutionizing-cannabis-industry-blockchain-technology/",
-    "source": "cryptocoinsnews.com"
-  },
-  {
-    "title": "Digital identification: pros and cons of deanonymization",
-    "url": "https://cryptoinsider.com/digital-identification-pros-and-cons-of-deanonymization/",
-    "source": "cryptoinsider.com"
-  },
-  {
-    "title": "KICKICO Launching KC Token Sale, Crowdfunding Platform and Prize",
-    "url": "https://bitcoinmagazine.com/partners/kickico-launching-kc-token-sale-crowdfunding-platform-and-prize/",
+    "title": "Cornell IC3 Researchers Propose Solution to Bitcoin’s Multisig “Paralysis” Problem",
+    "url": "https://bitcoinmagazine.com/sections/technical/",
     "source": "bitcoinmagazine.com"
   },
   {
-    "title": "Blockchain.info Enables Support for Ethereum",
-    "url": "https://www.crypto-news.net/blockchain-info-enables-support-for-ethereum/",
+    "title": "Dash Announces New Business Partnerships And US$300K R&D Initiative With Arizona State University",
+    "url": "https://coinjournal.net/dash-announces-new-business-partnerships-us300k-rd-initiative-arizona-state-university/",
+    "source": "coinjournal.net"
+  },
+  {
+    "title": "ZED Network Eyes US$600B Remittance Market With Stellar-Powered Payments Platform",
+    "url": "https://coinjournal.net/zed-network-eyes-us600m-remittance-market-stellar-powered-payments-platform/",
+    "source": "coinjournal.net"
+  },
+  {
+    "title": "Cryptocurrency Market Crash: South Korea Could Enforce Crypto Ban",
+    "url": "http://www.crypto-news.net/cryptocurrency-market-crash-south-korea-could-enforce-crypto-ban/",
     "source": "crypto-news.net"
   },
   {
-    "title": "A look into the Bitcoin, Ethereum and Blockchain Super Conference",
-    "url": "https://cryptoinsider.com/bitcoin-ethereum-and-blockchain-super-conference/",
-    "source": "cryptoinsider.com"
-  },
-  {
-    "title": "The evolution of bitcoin privacy: the good, bad, and exaggerated",
-    "url": "https://cryptoinsider.com/evolution-bitcoin-privacy-good-bad-exaggerated/",
-    "source": "cryptoinsider.com"
-  },
-  {
-    "title": "Modum ICO Raises $4.2 Million in 10 Minutes",
-    "url": "https://www.cryptocoinsnews.com/modum-ico-raises-4-2-million-in-10-minutes/",
-    "source": "cryptocoinsnews.com"
-  },
-  {
-    "title": "Bitcoin Drops Below $5,000 as Crypto Markets See $13 Billion Sell-Off",
-    "url": "https://www.coindesk.com/bitcoin-drops-5000-crypto-markets-see-13-billion-sell-off/",
+    "title": "Opening Hyperledger: Consortium to Create Experimental Labs for Startups",
+    "url": "https://www.coindesk.com/opening-hyperledger-consortium-create-experimental-labs-startups/",
     "source": "coindesk.com"
   },
   {
-    "title": "One Week Into SegWit, Hardware Wallets Lead the Pack in Slow-But-Sure Roll Out",
-    "url": "https://bitcoinmagazine.com/sections/adoption/",
+    "title": "Schnorr Signatures – Another step after SegWit",
+    "url": "http://www.crypto-news.net/schnorr-signatures-another-step-after-segwit/",
+    "source": "crypto-news.net"
+  },
+  {
+    "title": "Two New Services Could Help Investors Rate Cryptocurrencies",
+    "url": "https://bitcoinmagazine.com/sections/investing/",
     "source": "bitcoinmagazine.com"
   },
   {
-    "title": "Daily Roundup – August 30, 2017",
-    "url": "https://cryptoinsider.com/daily-roundup-august-30-2017/",
-    "source": "cryptoinsider.com"
-  },
-  {
-    "title": "Aragon “Transparency Framework” Aims to Set Industry Standards for Crowdfunded Projects",
-    "url": "https://coinjournal.net/aragon-transparency-framework-aims-set-industry-standards-crowdfunded-projects/",
-    "source": "coinjournal.net"
+    "title": "Ethereum’s Founders Make Bold Claims About the Future of the Platform",
+    "url": "http://www.crypto-news.net/ethereums-founders-make-bold-claims-about-the-future-of-the-platform/",
+    "source": "crypto-news.net"
   }
 ]
