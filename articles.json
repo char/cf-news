@@ -4,98 +4,38 @@
       {
         "articles": [
           {
-            "author": "Becky Peterson",
-            "title": "The founder of litecoin, a cryptocurrency that has gained 650% in 7 months, told us he's worried about all the scams in the nascent market",
-            "description": "Litecoin founder Charlie Lee shared his...",
-            "url": "http://uk.businessinsider.com/litecoin-founder-charlie-lee-on-bitcoin-and-the-cryptocurrency-bubble-2018-1",
-            "urlToImage": "http://static1.businessinsider.com/image/5a612924a24444d0008b4616-1190-625/the-founder-of-litecoin-a-cryptocurrency-that-has-gained-650-in-7-months-told-us-hes-worried-about-all-the-scams-in-the-nascent-market.jpg",
-            "publishedAt": "2018-01-21T13:30:00Z"
-          },
-          {
-            "author": "Will Martin",
-            "title": "DEUTSCHE BANK: Correlation between bitcoin and Wall Street's 'Fear Index' is increasing 'dramatically'",
-            "description": "Cryptocurrencies are increasingly correlated...",
-            "url": "http://uk.businessinsider.com/bitcoin-price-wall-street-volatility-index-correlation-deutsche-bank-2018-1",
-            "urlToImage": "http://static4.businessinsider.com/image/5a62244b7101ad159e22fbd7-1190-625/deutsche-bank-correlation-between-bitcoin-and-wall-streets-fear-index-is-increasing-dramatically.jpg",
-            "publishedAt": "2018-01-21T09:44:00Z"
+            "author": "Graham Rapier",
+            "title": "Bitcoin is slumping back down toward $10,000",
+            "description": "Bitcoin is down 7%, trading around $10,700...",
+            "url": "http://uk.businessinsider.com/bitcoin-price-is-slumping-back-down-towards-10000-2018-1",
+            "urlToImage": "http://static5.uk.businessinsider.com/image/5a65f4b4ec1ade2ace416fcd-1190-625/bitcoin-is-slumping-back-down-toward-10000.jpg",
+            "publishedAt": "2018-01-22T14:26:32Z"
           }
         ],
         "source": "business-insider-uk"
-      },
-      {
-        "articles": [
-          {
-            "author": "Stephanie Landsman",
-            "title": "90% of bitcoin's value could get wiped out, Wall Street veteran Peter Boockvar warns",
-            "description": "Wall Street Veteran Peter Boockvar predicts an epic crash will hit the cryptocurrency market.",
-            "url": "https://www.cnbc.com/2018/01/19/bitcoin-could-lose-90-percent-of-its-value-wall-st-veteran-boockvar-warns.html",
-            "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/19/104955954-GettyImages-482331761.1910x1000.jpg",
-            "publishedAt": "2018-01-21T22:00:06Z"
-          }
-        ],
-        "source": "cnbc"
-      },
-      {
-        "articles": [
-          {
-            "author": "Swapna Krishna",
-            "title": "US regulators charge three bitcoin operators with fraud",
-            "description": "After a tumble in value, three bitcoin operators have now been charged with fraud by US regulators.",
-            "url": "https://www.engadget.com/2018/01/19/cftc-charges-three-cryptocurrency-operators/",
-            "urlToImage": "https://o.aolcdn.com/images/dims?thumbnail=1200%2C630&quality=80&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F28346e695a895adc03657f2e073c68c2%2F206045969%2Fbitcoin-ed.jpg&client=cbc79c14efcebee57402&signature=f1d68eda9b3bf3fab2499523fdcf8df212d2edfe",
-            "publishedAt": "2018-01-19T16:22:00Z"
-          }
-        ],
-        "source": "engadget"
-      },
-      {
-        "articles": [
-          {
-            "author": null,
-            "title": "Bitcoin’s Lightning Network Upgrade Gets Some Hands-On Testing",
-            "description": "",
-            "url": "http://fortune.com/2018/01/21/bitcoin-lightning-network-upgrade/",
-            "urlToImage": "https://fortunedotcom.files.wordpress.com/2017/02/gettyimages-479743214.jpg",
-            "publishedAt": "2018-01-21T20:28:39Z"
-          }
-        ],
-        "source": "fortune"
-      },
-      {
-        "articles": [
-          {
-            "author": "Subhan Nadeem",
-            "title": "Why a Bitcoin future will always end up in centralization",
-            "description": "Let’s imagine Bitcoin has accomplished the unthinkable — it's become the one true currency used for peer-to-peer payments around the world.\r\nIn this Bitcoin Valhalla, let’s ...",
-            "url": "https://thenextweb.com/syndication/2018/01/21/bitcoin-future-will-always-end-centralization/",
-            "urlToImage": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/01/1_Rsm8MvM_kJ_06Prr1zn3cA-social.jpeg",
-            "publishedAt": "2018-01-20T15:07:28Z"
-          }
-        ],
-        "source": "the-next-web"
       }
     ],
     "coinDesk": [
       {
         "articles": [
           {
-            "title": "Opening Hyperledger: Consortium to Create Experimental Labs for Startups",
-            "url": "https://www.coindesk.com/opening-hyperledger-consortium-create-experimental-labs-startups/",
+            "title": "What a Facebook Blockchain Token Might Look Like",
+            "url": "https://www.coindesk.com/facebook-blockchain-token-might-look-like/",
             "source": "coindesk.com"
           },
           {
-            "title": "Contortions for Compliance: Life Under New York's BitLicense",
-            "url": "https://www.coindesk.com/contortions-compliance-life-new-yorks-bitlicense/",
+            "title": "Korean Crypto Exchange Korbit Halting Deposits from Non-Citizens",
+            "url": "https://www.coindesk.com/korean-crypto-exchange-korbit-halting-deposits-from-non-citizens/",
             "source": "coindesk.com"
           },
           {
-            "title": "Public Blockchains' Lure Will Become Irresistible for Enterprises in 2018",
-            "url": "https://www.coindesk.com/public-blockchains-lure-will-become-irresistible-enterprises-2018/",
+            "title": "IMF Calls for International Cooperation on Cryptocurrencies",
+            "url": "https://www.coindesk.com/imf-calls-for-international-cooperation-on-cryptocurrencies/",
             "source": "coindesk.com"
           },
           {
-            "title": "Bull Run or Just Bull? Take CoinDesk's State of Blockchain Sentiment Survey",
-            "url": "https://www.coindesk.com/bull-run-just-bull-take-coindesks-state-blockchain-sentiment-survey/",
+            "title": "Don't HODL, BUIDL: How Blockchain Tech Will Add Value in 2018",
+            "url": "https://www.coindesk.com/dont-hodl-buidl-blockchain-tech-will-add-value-2018/",
             "source": "coindesk.com"
           }
         ]
@@ -1446,6 +1386,61 @@
             "source": "cryptocoinsnews.com"
           },
           {
+            "title": "Instant, Fee- Free Bitcoin Payments: The Lightning Network Just Had Its ‘Pizza Transaction’",
+            "url": "https://www.ccn.com/instant-fee-free-bitcoin-payments-lightning-network-just-pizza-transaction/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "Cryptocurrency Market Falls Again as Ripple, Bitcoin Cash, et al. Fall by 10%",
+            "url": "https://www.ccn.com/cryptocurrency-market-falls-ripple-bitcoin-cash-et-al-fall-10/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "Tax Day Looms for Bitcoin Investors",
+            "url": "https://www.ccn.com/tax-day-looms-for-bitcoin-investors/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "IMF Urges International Cooperation on Cryptocurrency Regulation",
+            "url": "https://www.ccn.com/imf-urges-international-cooperation-cryptocurrency-regulation/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "A Decentralized Future: Japan’s Biggest Energy Giant Invests in Ethereum Blockchain Startup",
+            "url": "https://www.ccn.com/decentralized-future-japans-biggest-energy-giant-invests-ethereum-blockchain-startup/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "Cryptocurrency Crash Indicative of the Significance of the Asian Market",
+            "url": "https://www.ccn.com/cryptocurrency-crash-indicative-significance-asian-market/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "India’s Tax Authority Sends Notices to ‘Tens of Thousands’ of Cryptocurrency Traders: Report",
+            "url": "https://www.ccn.com/indias-tax-man-sends-notices-tens-thousands-cryptocurrency-traders-report/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "Emptied IOTA Wallets: Hackers Steal Millions Using Malicious Seed Generators",
+            "url": "https://www.ccn.com/a-number-of-iota-wallets-emptied-by-hackers-due-to-online-seed-generators/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "New Crypto-Investor Psychology – Where Did These High Caps on High-Supply Coins Come From?",
+            "url": "https://www.ccn.com/new-crypto-investor-psychology-where-did-these-high-caps-on-high-supply-coins-come-from/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "A Case for Decentralized Cryptocurrency Exchanges",
+            "url": "https://www.ccn.com/case-decentralized-cryptocurrency-exchanges/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "(+) Tron Rebounds 100% From Last Week’s Low Amid Controversy",
+            "url": "https://hacked.com/tron-rebounds-100-from-last-week-amid-controversy/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
             "title": "South Korea’s Second Largest Bank Supports Cryptocurrency Exchanges, Traders Relieved",
             "url": "https://www.ccn.com/south-koreas-second-largest-bank-supports-cryptocurrency-exchanges-traders-relieved/",
             "source": "cryptocoinsnews.com"
@@ -1471,58 +1466,8 @@
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Korbit: Non-Koreans Prohibited from KRW Deposits at All Domestic Cryptocurrency Exchanges",
-            "url": "https://www.ccn.com/korbit-non-koreans-prohibited-krw-deposits-domestic-cryptocurrency-exchanges/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "Greg Maxwell Resigns from Blockstream to Focus on ‘Deep Protocol Work’",
-            "url": "https://www.ccn.com/greg-maxwell-resigns-from-blockstream-to-focus-on-deep-protocol-work/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "More Retail Investors Coming? Bitcoin Investment Trust Sees 91-to-1 Stock Split",
-            "url": "https://www.ccn.com/91-to-1-stock-split-of-bitcoin-investment-trust-more-retail-investors-are-coming/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "(+) Ethereum Wannabes Face Big Challenge",
-            "url": "https://hacked.com/ethereum-wannabes-face-big-challenge/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "Bitcoin Price Gains 10% as Cryptocurrency Market Continues to Recover",
-            "url": "https://www.ccn.com/bitcoin-price-gains-10-cryptocurrency-market-continues-recover/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "‘Bitcoin Bank’ Denies Policy Change on International Cryptocurrency Wire Transfers",
-            "url": "https://www.ccn.com/metropolitan-bank-denies-policy-change-on-international-cryptocurrency-related-wire-transfers/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "Venezuela to Issue Petro Cryptocurrency through Token Sale, Plans Tax Deals to Bolster Adoption",
-            "url": "https://www.ccn.com/venezuela-issue-petro-cryptocurrency-token-sale-plans-tax-deals-bolster-adoption/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "Bitcoin Mining Isn’t an ‘Environmental Armageddon’ : Credit Suisse Report",
-            "url": "https://www.ccn.com/bitcoin-mining-isnt-environmental-armageddon-credit-suisse-report/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "CFTC Files Fraud Suits Against Cryptocurrency Investment Schemes",
-            "url": "https://www.ccn.com/cftc-files-fraud-suits-cryptocurrency-investment-schemes/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "Bitcoin Will ‘Totally Collapse,” Even if it Takes 100 Years: Nobel Prize Winner",
-            "url": "https://www.ccn.com/bitcoin-will-totally-collapse-even-takes-100-years-nobel-prize-winner/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "MMA Title Contender Rory MacDonald Talks Dash Sponsorship Ahead of Bellator 192",
-            "url": "https://www.ccn.com/mma-title-contender-rory-macdonald-talks-dash-sponsorship-ahead-bellator-192/",
+            "title": "Coinvest",
+            "url": "https://hacked.com/ico-analysis-coinvest/",
             "source": "cryptocoinsnews.com"
           },
           {
@@ -1541,23 +1486,8 @@
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Zenome",
-            "url": "https://hacked.com/ico-analysis-zenome/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "India’s Biggest Bitcoin Exchanges See Bank Accounts Frozen: Report",
-            "url": "https://www.ccn.com/indian-cryptocurrency-exchanges-disrupted-over-widespread-issue-of-frozen-bank-accounts/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "South Korea’s Second Largest Bank Supports Cryptocurrency Exchanges, Traders Relieved",
-            "url": "https://www.ccn.com/south-koreas-second-largest-bank-supports-cryptocurrency-exchanges-traders-relieved/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "Cryptocurrecy Market Suffers Minor Correction, Ripple and Cardano Down 10%",
-            "url": "https://www.ccn.com/cryptocurrecy-market-suffers-minor-correction-ripple-cardano-10/",
+            "title": "Emptied IOTA Wallets: Hackers Steal Millions Using Malicious Seed Generators",
+            "url": "https://www.ccn.com/a-number-of-iota-wallets-emptied-by-hackers-due-to-online-seed-generators/",
             "source": "cryptocoinsnews.com"
           },
           {
@@ -1566,8 +1496,18 @@
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Bitcoin Futures: A Way to Control Cryptocurrency Markets?",
-            "url": "https://www.ccn.com/bitcoin-futures-way-control-cryptocurrency-markets/",
+            "title": "Cryptocurrency Market Falls Again as Ripple, Bitcoin Cash, et al. Fall by 10%",
+            "url": "https://www.ccn.com/cryptocurrency-market-falls-ripple-bitcoin-cash-et-al-fall-10/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "A Decentralized Future: Japan’s Biggest Energy Giant Invests in Ethereum Blockchain Startup",
+            "url": "https://www.ccn.com/decentralized-future-japans-biggest-energy-giant-invests-ethereum-blockchain-startup/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "India’s Tax Authority Sends Notices to ‘Tens of Thousands’ of Cryptocurrency Traders: Report",
+            "url": "https://www.ccn.com/indias-tax-man-sends-notices-tens-thousands-cryptocurrency-traders-report/",
             "source": "cryptocoinsnews.com"
           }
         ]
@@ -1582,12 +1522,27 @@
       {
         "articles": [
           {
-            "title": "Op-Ed: Bitcoin’s High Fees are Forcing Companies to Optimize Their Interactions with the Blockchain, And That’s a Good Thing",
+            "title": "South Korea’s Government is Reportedly Planning to Hit Cryptocurrency Exchanges with Tax Bills",
+            "url": "https://coinjournal.net/south-koreas-government-reportedly-planning-hit-cryptocurrency-exchanges-tax-bills/",
+            "source": "coinjournal.net"
+          },
+          {
+            "title": "South Korea Cryptocurrency Ban FUD Has Shown Importance of Decentralized Exchanges",
+            "url": "https://coinjournal.net/south-korea-cryptocurrency-ban-fud-shown-importance-decentralized-exchanges/",
+            "source": "coinjournal.net"
+          },
+          {
+            "title": "OriginTrail Raises US$22.5M For Supply Chains Blockchain Protocol",
+            "url": "https://coinjournal.net/origintrail-raises-us22-5m-supply-chains-blockchain-protocol/",
+            "source": "coinjournal.net"
+          },
+          {
+            "title": "Op-Ed: Bitcoin’s High Fees are Forcing Companies to Optimize Their Interactions...",
             "url": "https://coinjournal.net/op-ed-bitcoins-high-fees-forcing-companies-optimize-interactions-blockchain-thats-good-thing/",
             "source": "coinjournal.net"
           },
           {
-            "title": "Dash Announces New Business Partnerships And US$300K R&D Initiative With Arizona State University",
+            "title": "Dash Announces New Business Partnerships And US$300K R&D Initiative With Arizona...",
             "url": "https://coinjournal.net/dash-announces-new-business-partnerships-us300k-rd-initiative-arizona-state-university/",
             "source": "coinjournal.net"
           },
@@ -1679,21 +1634,6 @@
           {
             "title": "Founders Fund Unveils US$15-20 Million Investment in Bitcoin; Price Rises 13%",
             "url": "https://coinjournal.net/founders-fund-unveils-us15-20-million-investment-bitcoin-price-rises-13/",
-            "source": "coinjournal.net"
-          },
-          {
-            "title": "Ethereum Creator Vitalik Buterin: Focus Less on Profit, More on Achievements",
-            "url": "https://coinjournal.net/ethereum-creator-vitalik-buterin-focus-less-profit-achievements/",
-            "source": "coinjournal.net"
-          },
-          {
-            "title": "Greek Universities Join Pilot Project to Put Diplomas on a Blockchain",
-            "url": "https://coinjournal.net/greek-universities-join-pilot-project-put-diplomas-blockchain/",
-            "source": "coinjournal.net"
-          },
-          {
-            "title": "Plasma Can Save Ethereum From CryptoKitty Level Congestion",
-            "url": "https://coinjournal.net/plasma-can-save-ethereum-cryptokitty-level-congestion/",
             "source": "coinjournal.net"
           }
         ]
@@ -1903,6 +1843,11 @@
             "source": "crypto-news.net"
           },
           {
+            "title": "Betting on Blockchain with Dragon Inc.",
+            "url": "http://www.crypto-news.net/betting-on-blockchain-with-dragon-inc/",
+            "source": "crypto-news.net"
+          },
+          {
             "title": "Will Russia Ever Embrace the Crypto-Ruble?",
             "url": "http://www.crypto-news.net/will-russia-ever-embrace-the-crypto-ruble/",
             "source": "crypto-news.net"
@@ -1920,11 +1865,6 @@
           {
             "title": "Interview with Filament’s CEO",
             "url": "http://www.crypto-news.net/interview-with-filaments-ceo/",
-            "source": "crypto-news.net"
-          },
-          {
-            "title": "Novusphere – A Distributed Content Platform (Review)",
-            "url": "http://www.crypto-news.net/censorfree-p2p-novusphere-blockchain-research-review/",
             "source": "crypto-news.net"
           },
           {
@@ -1968,23 +1908,28 @@
             "source": "crypto-news.net"
           },
           {
-            "title": "US Pharmacies to get Regulated on Ethereum.",
-            "url": "http://www.crypto-news.net/us-pharmacies-to-get-regulated-on-ethereum/",
+            "title": "Ripple and American Express Announce Partnership for Cross Border Payments",
+            "url": "http://www.crypto-news.net/ripple-and-american-express-announce-partnership-for-cross-border-payments/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Ethereum’s 2017 Roadmap",
-            "url": "http://www.crypto-news.net/ethereums-2017-roadmap/",
+            "title": "What does Ethereum’s Proof of Stake algorithm mean for miners?",
+            "url": "http://www.crypto-news.net/what-does-ethereums-proof-of-stake-algorithm-mean-for-miners/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Ethereum Flash Crash",
-            "url": "http://www.crypto-news.net/ethereum-flash-crash/",
+            "title": "Censorship in Crowdfunding Services and How Bitcoin Could Help",
+            "url": "http://www.crypto-news.net/censorship-in-crowdfunding-services-and-how-bitcoin-could-help/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Satoshi Roundtable Review",
-            "url": "http://www.crypto-news.net/satoshi-roundtable-review/",
+            "title": "ICO, Banking, Energy, Healthcare, Retail and E-Gov as the Blockchain Trendiest Areas to be Discussed at Blockchain Conference Abu Dhabi",
+            "url": "http://www.crypto-news.net/ico-banking-energy-healthcare-retail-and-e-gov-as-the-blockchain-trendiest-areas-to-be-discussed-at-blockchain-conference-abu-dhabi/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Betting on Blockchain with Dragon Inc.",
+            "url": "http://www.crypto-news.net/betting-on-blockchain-with-dragon-inc/",
             "source": "crypto-news.net"
           },
           {
@@ -2033,8 +1978,8 @@
             "source": "crypto-news.net"
           },
           {
-            "title": "Ethereum’s Founders Make Bold Claims About the Future of the Platform",
-            "url": "http://www.crypto-news.net/ethereums-founders-make-bold-claims-about-the-future-of-the-platform/",
+            "title": "Betting on Blockchain with Dragon Inc.",
+            "url": "http://www.crypto-news.net/betting-on-blockchain-with-dragon-inc/",
             "source": "crypto-news.net"
           },
           {
@@ -2045,11 +1990,6 @@
           {
             "title": "Schnorr Signatures – Another step after SegWit",
             "url": "http://www.crypto-news.net/schnorr-signatures-another-step-after-segwit/",
-            "source": "crypto-news.net"
-          },
-          {
-            "title": "Security Concerns after Two Major Cryptocurrency Exchange Incidents",
-            "url": "http://www.crypto-news.net/security-concerns-after-two-major-cryptocurrency-exchange-incidents/",
             "source": "crypto-news.net"
           }
         ]
@@ -2064,13 +2004,23 @@
       {
         "articles": [
           {
-            "title": "Two New Services Could Help Investors Rate Cryptocurrencies",
-            "url": "https://bitcoinmagazine.com/sections/investing/",
+            "title": "Op Ed: Here’s What Paul Krugman Got Wrong in His Bitcoin Tweetstorm",
+            "url": "https://bitcoinmagazine.com/sections/op-ed/",
             "source": "bitcoinmagazine.com"
           },
           {
             "title": "RepuX and the Future of Blockchain-Based Data Sharing",
             "url": "https://bitcoinmagazine.com/articles/repux-and-future-blockchain-based-data-sharing/",
+            "source": "bitcoinmagazine.com"
+          },
+          {
+            "title": "Helbiz: the Blockchain AirBnB for Transportation",
+            "url": "https://bitcoinmagazine.com/articles/helbiz-blockchain-airbnb-transportation/",
+            "source": "bitcoinmagazine.com"
+          },
+          {
+            "title": "Two New Services Could Help Investors Rate Cryptocurrencies",
+            "url": "https://bitcoinmagazine.com/sections/investing/",
             "source": "bitcoinmagazine.com"
           },
           {
@@ -2081,16 +2031,6 @@
           {
             "title": "Decentralizing the Sharing Economy With Blockchain Technology",
             "url": "https://bitcoinmagazine.com/sections/adoption-community/",
-            "source": "bitcoinmagazine.com"
-          },
-          {
-            "title": "Blockstream Releases Lightning Charge, Launches Test E-Commerce Store",
-            "url": "https://bitcoinmagazine.com/sections/technical/",
-            "source": "bitcoinmagazine.com"
-          },
-          {
-            "title": "“Bitcoin Laundering” Study: Where Do Criminals Turn to Mask Illicit Cryptoassets?",
-            "url": "https://bitcoinmagazine.com/sections/dark-web/",
             "source": "bitcoinmagazine.com"
           }
         ]

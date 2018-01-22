@@ -1,88 +1,13 @@
 [
   {
-    "title": "RepuX and the Future of Blockchain-Based Data Sharing",
-    "url": "https://bitcoinmagazine.com/articles/repux-and-future-blockchain-based-data-sharing/",
-    "source": "bitcoinmagazine.com"
-  },
-  {
-    "title": "Contortions for Compliance: Life Under New York's BitLicense",
-    "url": "https://www.coindesk.com/contortions-compliance-life-new-yorks-bitlicense/",
-    "source": "coindesk.com"
-  },
-  {
-    "title": "Cryptocurrency Exchange Shutdown Unrealistic: South Korean Finance Official",
-    "url": "https://coinjournal.net/cryptocurrency-exchange-shutdown-unrealistic-south-korean-finance-official/",
-    "source": "coinjournal.net"
-  },
-  {
-    "title": "KFC Canada Teams Up with Bitpay to Launch Bitcoin Bucket",
-    "url": "http://www.crypto-news.net/kfc-canada-teams-up-with-bitpay-to-launch-bitcoin-bucket/",
-    "source": "crypto-news.net"
-  },
-  {
-    "title": "Decentralizing the Sharing Economy With Blockchain Technology",
-    "url": "https://bitcoinmagazine.com/sections/adoption-community/",
-    "source": "bitcoinmagazine.com"
-  },
-  {
-    "title": "Op-Ed: Bitcoin’s High Fees are Forcing Companies to Optimize Their Interactions with the Blockchain, And That’s a Good Thing",
-    "url": "https://coinjournal.net/op-ed-bitcoins-high-fees-forcing-companies-optimize-interactions-blockchain-thats-good-thing/",
-    "source": "coinjournal.net"
-  },
-  {
-    "title": "Cryptocurrecy Market Suffers Minor Correction, Ripple and Cardano Down 10%",
-    "url": "https://www.ccn.com/cryptocurrecy-market-suffers-minor-correction-ripple-cardano-10/",
-    "source": "cryptocoinsnews.com"
-  },
-  {
-    "title": "Public Blockchains' Lure Will Become Irresistible for Enterprises in 2018",
-    "url": "https://www.coindesk.com/public-blockchains-lure-will-become-irresistible-enterprises-2018/",
-    "source": "coindesk.com"
-  },
-  {
-    "title": "South Korea’s Second Largest Bank Supports Cryptocurrency Exchanges, Traders Relieved",
-    "url": "https://www.ccn.com/south-koreas-second-largest-bank-supports-cryptocurrency-exchanges-traders-relieved/",
-    "source": "cryptocoinsnews.com"
-  },
-  {
-    "title": "Bull Run or Just Bull? Take CoinDesk's State of Blockchain Sentiment Survey",
-    "url": "https://www.coindesk.com/bull-run-just-bull-take-coindesks-state-blockchain-sentiment-survey/",
-    "source": "coindesk.com"
-  },
-  {
-    "title": "The SEC Clarifies its Position on Cryptocurrencies and ICOs",
-    "url": "http://www.crypto-news.net/the-sec-clarifies-its-position-on-cryptocurrencies-and-icos/",
-    "source": "crypto-news.net"
-  },
-  {
-    "title": "Codex Unveils Blockchain Protocol For Arts And Collectibles Traceability",
-    "url": "https://coinjournal.net/codex-unveils-blockchain-protocol-arts-collectibles-traceability/",
-    "source": "coinjournal.net"
-  },
-  {
     "title": "Cornell IC3 Researchers Propose Solution to Bitcoin’s Multisig “Paralysis” Problem",
     "url": "https://bitcoinmagazine.com/sections/technical/",
     "source": "bitcoinmagazine.com"
   },
   {
-    "title": "Dash Announces New Business Partnerships And US$300K R&D Initiative With Arizona State University",
-    "url": "https://coinjournal.net/dash-announces-new-business-partnerships-us300k-rd-initiative-arizona-state-university/",
+    "title": "Op-Ed: Bitcoin’s High Fees are Forcing Companies to Optimize Their Interactions...",
+    "url": "https://coinjournal.net/op-ed-bitcoins-high-fees-forcing-companies-optimize-interactions-blockchain-thats-good-thing/",
     "source": "coinjournal.net"
-  },
-  {
-    "title": "ZED Network Eyes US$600B Remittance Market With Stellar-Powered Payments Platform",
-    "url": "https://coinjournal.net/zed-network-eyes-us600m-remittance-market-stellar-powered-payments-platform/",
-    "source": "coinjournal.net"
-  },
-  {
-    "title": "Cryptocurrency Market Crash: South Korea Could Enforce Crypto Ban",
-    "url": "http://www.crypto-news.net/cryptocurrency-market-crash-south-korea-could-enforce-crypto-ban/",
-    "source": "crypto-news.net"
-  },
-  {
-    "title": "Opening Hyperledger: Consortium to Create Experimental Labs for Startups",
-    "url": "https://www.coindesk.com/opening-hyperledger-consortium-create-experimental-labs-startups/",
-    "source": "coindesk.com"
   },
   {
     "title": "Schnorr Signatures – Another step after SegWit",
@@ -90,13 +15,93 @@
     "source": "crypto-news.net"
   },
   {
-    "title": "Two New Services Could Help Investors Rate Cryptocurrencies",
-    "url": "https://bitcoinmagazine.com/sections/investing/",
-    "source": "bitcoinmagazine.com"
+    "title": "OriginTrail Raises US$22.5M For Supply Chains Blockchain Protocol",
+    "url": "https://coinjournal.net/origintrail-raises-us22-5m-supply-chains-blockchain-protocol/",
+    "source": "coinjournal.net"
+  },
+  {
+    "title": "Korean Crypto Exchange Korbit Halting Deposits from Non-Citizens",
+    "url": "https://www.coindesk.com/korean-crypto-exchange-korbit-halting-deposits-from-non-citizens/",
+    "source": "coindesk.com"
+  },
+  {
+    "title": "Dash Announces New Business Partnerships And US$300K R&D Initiative With Arizona...",
+    "url": "https://coinjournal.net/dash-announces-new-business-partnerships-us300k-rd-initiative-arizona-state-university/",
+    "source": "coinjournal.net"
+  },
+  {
+    "title": "What a Facebook Blockchain Token Might Look Like",
+    "url": "https://www.coindesk.com/facebook-blockchain-token-might-look-like/",
+    "source": "coindesk.com"
   },
   {
     "title": "Ethereum’s Founders Make Bold Claims About the Future of the Platform",
     "url": "http://www.crypto-news.net/ethereums-founders-make-bold-claims-about-the-future-of-the-platform/",
     "source": "crypto-news.net"
+  },
+  {
+    "title": "South Korea Cryptocurrency Ban FUD Has Shown Importance of Decentralized Exchanges",
+    "url": "https://coinjournal.net/south-korea-cryptocurrency-ban-fud-shown-importance-decentralized-exchanges/",
+    "source": "coinjournal.net"
+  },
+  {
+    "title": "IMF Calls for International Cooperation on Cryptocurrencies",
+    "url": "https://www.coindesk.com/imf-calls-for-international-cooperation-on-cryptocurrencies/",
+    "source": "coindesk.com"
+  },
+  {
+    "title": "Cryptocurrency Market Crash: South Korea Could Enforce Crypto Ban",
+    "url": "http://www.crypto-news.net/cryptocurrency-market-crash-south-korea-could-enforce-crypto-ban/",
+    "source": "crypto-news.net"
+  },
+  {
+    "title": "Don't HODL, BUIDL: How Blockchain Tech Will Add Value in 2018",
+    "url": "https://www.coindesk.com/dont-hodl-buidl-blockchain-tech-will-add-value-2018/",
+    "source": "coindesk.com"
+  },
+  {
+    "title": "RepuX and the Future of Blockchain-Based Data Sharing",
+    "url": "https://bitcoinmagazine.com/articles/repux-and-future-blockchain-based-data-sharing/",
+    "source": "bitcoinmagazine.com"
+  },
+  {
+    "title": "Op Ed: Here’s What Paul Krugman Got Wrong in His Bitcoin Tweetstorm",
+    "url": "https://bitcoinmagazine.com/sections/op-ed/",
+    "source": "bitcoinmagazine.com"
+  },
+  {
+    "title": "Cryptocurrency Market Falls Again as Ripple, Bitcoin Cash, et al. Fall by 10%",
+    "url": "https://www.ccn.com/cryptocurrency-market-falls-ripple-bitcoin-cash-et-al-fall-10/",
+    "source": "cryptocoinsnews.com"
+  },
+  {
+    "title": "KFC Canada Teams Up with Bitpay to Launch Bitcoin Bucket",
+    "url": "http://www.crypto-news.net/kfc-canada-teams-up-with-bitpay-to-launch-bitcoin-bucket/",
+    "source": "crypto-news.net"
+  },
+  {
+    "title": "South Korea’s Government is Reportedly Planning to Hit Cryptocurrency Exchanges with Tax Bills",
+    "url": "https://coinjournal.net/south-koreas-government-reportedly-planning-hit-cryptocurrency-exchanges-tax-bills/",
+    "source": "coinjournal.net"
+  },
+  {
+    "title": "The SEC Clarifies its Position on Cryptocurrencies and ICOs",
+    "url": "http://www.crypto-news.net/the-sec-clarifies-its-position-on-cryptocurrencies-and-icos/",
+    "source": "crypto-news.net"
+  },
+  {
+    "title": "Instant, Fee- Free Bitcoin Payments: The Lightning Network Just Had Its ‘Pizza Transaction’",
+    "url": "https://www.ccn.com/instant-fee-free-bitcoin-payments-lightning-network-just-pizza-transaction/",
+    "source": "cryptocoinsnews.com"
+  },
+  {
+    "title": "Two New Services Could Help Investors Rate Cryptocurrencies",
+    "url": "https://bitcoinmagazine.com/sections/investing/",
+    "source": "bitcoinmagazine.com"
+  },
+  {
+    "title": "Helbiz: the Blockchain AirBnB for Transportation",
+    "url": "https://bitcoinmagazine.com/articles/helbiz-blockchain-airbnb-transportation/",
+    "source": "bitcoinmagazine.com"
   }
 ]
