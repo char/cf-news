@@ -480,7 +480,7 @@ app.get('/', (req, res) => {
   });
 });
 
-const port = 6501;
+const port = process.env.PORT || 6501;
 app.listen(port);
 console.log('[' + new Date().toUTCString() + '] listening on port:', port);
 
