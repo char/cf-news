@@ -444,7 +444,7 @@ const doEverything = () => {
                   }
 
                   displayArticles = shuffleArray(displayArticles).slice(0, 25);
-                  console.log(displayArticles.length);
+                  console.log('Set', displayArticles.length, 'display articles.');
                   const write = 'display-articles.json';
                   fs.writeFile(
                     write,
@@ -485,7 +485,7 @@ app.listen(port);
 console.log('[' + new Date().toUTCString() + '] listening on port:', port);
 
 const job = new CronJob('0 0 5 * * *', () => {
-  console.log('time ran');
+  console.log('It is 5am. Getting articles...');
   doEverything();
 }, () => {
   console.log('job stopped');
