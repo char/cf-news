@@ -4,38 +4,103 @@
       {
         "articles": [
           {
-            "author": "Graham Rapier",
-            "title": "Bitcoin is slumping back down toward $10,000",
-            "description": "Bitcoin is down 7%, trading around $10,700...",
-            "url": "http://uk.businessinsider.com/bitcoin-price-is-slumping-back-down-towards-10000-2018-1",
-            "urlToImage": "http://static5.uk.businessinsider.com/image/5a65f4b4ec1ade2ace416fcd-1190-625/bitcoin-is-slumping-back-down-toward-10000.jpg",
-            "publishedAt": "2018-01-22T14:26:32Z"
+            "author": "Matthew Leising, Edward Robinson",
+            "title": "Ripple Wants XRP to Be Bitcoin for Banks. If Only the Banks Wanted It",
+            "description": "The blockchain company’s plan to create a global payments system for banks got swept up in the crypto craze.",
+            "url": "http://www.bloomberg.com/news/articles/2018-01-25/ripple-wants-xrp-to-be-bitcoin-for-banks-if-only-the-banks-wanted-it",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYY.6D_FYyu0/v0/1200x630.jpg",
+            "publishedAt": "2018-01-25T10:01:09Z"
+          }
+        ],
+        "source": "bloomberg"
+      },
+      {
+        "articles": [
+          {
+            "author": "Beth Mole",
+            "title": "With Google, Bitcoins, and USPS, Feds realize it’s stupid easy to buy fentanyl",
+            "description": "Simple search led investigators to sales of $766 million worth of fentanyl.",
+            "url": "https://arstechnica.com/tech-policy/2018/01/feds-crack-illegal-drug-shipments-from-china-by-googling-fentanyl-for-sale/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2018/01/GettyImages-609942782-760x380.jpg",
+            "publishedAt": "2018-01-25T20:31:43+00:00"
+          }
+        ],
+        "source": "ars-technica"
+      },
+      {
+        "articles": [
+          {
+            "author": "Rob Price",
+            "title": "CRYPTO CLAWS: Katy Perry is getting on the bitcoin bandwagon with cryptocurrency nail paint",
+            "description": "Pop-star Katy Perry is getting is getting on...",
+            "url": "http://uk.businessinsider.com/katy-perry-instagram-photo-cryptocurrency-nail-paint-2018-1",
+            "urlToImage": "http://static1.businessinsider.com/image/5a6a12c9178425320f8b4635-1190-625/crypto-claws-katy-perry-is-getting-on-the-bitcoin-bandwagon-with-cryptocurrency-nail-paint.jpg",
+            "publishedAt": "2018-01-25T18:22:16Z"
           }
         ],
         "source": "business-insider-uk"
+      },
+      {
+        "articles": [
+          {
+            "author": "Kellie Ell",
+            "title": "Cryptocurrency 'Oracle' Lingham thinks bitcoin cash will outpace actual bitcoin in the future",
+            "description": "The \"Bitcoin Oracle\" predicts a greater need for bitcoin cash, or peer-to-peer cash, than traditional bitcoin in the future.",
+            "url": "https://www.cnbc.com/2018/01/25/vinny-lingham-thinks-bitcoin-cash-will-outpace-bitcoin-in-the-future.html",
+            "urlToImage": "https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2018/01/19/104955954-GettyImages-482331761.1910x1000.jpg",
+            "publishedAt": "2018-01-26T00:12:01Z"
+          }
+        ],
+        "source": "cnbc"
+      },
+      {
+        "articles": [
+          {
+            "author": "BBC News",
+            "title": "50 Cent discovers his Bitcoin millions",
+            "description": "The rapper forgot about an agreement to accept Bitcoin payment as part of a record deal.",
+            "url": "http://www.bbc.co.uk/news/business-42820246",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0519/production/_99750310_50-cent1.jpg",
+            "publishedAt": "2018-01-25T15:49:01Z"
+          }
+        ],
+        "source": "bbc-news"
+      },
+      {
+        "articles": [
+          {
+            "author": "Dymond Green",
+            "title": "Bye-bye, Bitcoin. It's all about bananacoins",
+            "description": "Who said there was no money in bananas?",
+            "url": "https://mashable.com/2018/01/25/banana-coin-cryptocurrency/",
+            "urlToImage": "https://i.amz.mshcdn.com/I_7KHWh4bdsHuA6-gp7VtvFUh1Y=/1200x630/2018%2F01%2F25%2F3a%2Fc1220783b11f413597748ab3f009a2e2.19a81.jpg",
+            "publishedAt": "2018-01-25T22:22:51Z"
+          }
+        ],
+        "source": "mashable"
       }
     ],
     "coinDesk": [
       {
         "articles": [
           {
-            "title": "What a Facebook Blockchain Token Might Look Like",
-            "url": "https://www.coindesk.com/facebook-blockchain-token-might-look-like/",
+            "title": "'Micro' Finance Giant Robinhood Makes Big Bet on Bitcoin Trading",
+            "url": "https://www.coindesk.com/micro-finance-giant-robinhood-makes-big-bet-on-bitcoin-trading/",
             "source": "coindesk.com"
           },
           {
-            "title": "Korean Crypto Exchange Korbit Halting Deposits from Non-Citizens",
-            "url": "https://www.coindesk.com/korean-crypto-exchange-korbit-halting-deposits-from-non-citizens/",
+            "title": "Bitcoin Startup BitGo to Buy Asset Custodian",
+            "url": "https://www.coindesk.com/bitgo-acquires-kingdom-trust/",
             "source": "coindesk.com"
           },
           {
-            "title": "IMF Calls for International Cooperation on Cryptocurrencies",
-            "url": "https://www.coindesk.com/imf-calls-for-international-cooperation-on-cryptocurrencies/",
+            "title": "Bitcoin Takes Davos Stage in Currency Panel Debate",
+            "url": "https://www.coindesk.com/bitcoin-takes-the-stage-at-davos-in-currency-panel-debate/",
             "source": "coindesk.com"
           },
           {
-            "title": "Don't HODL, BUIDL: How Blockchain Tech Will Add Value in 2018",
-            "url": "https://www.coindesk.com/dont-hodl-buidl-blockchain-tech-will-add-value-2018/",
+            "title": "May, Lagarde, Mnuchin: World Leaders Are Talking Crypto at Davos",
+            "url": "https://www.coindesk.com/may-lagarde-mnuching-davos-bitcoin-roundup/",
             "source": "coindesk.com"
           }
         ]
@@ -1386,83 +1451,93 @@
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Instant, Fee- Free Bitcoin Payments: The Lightning Network Just Had Its ‘Pizza Transaction’",
-            "url": "https://www.ccn.com/instant-fee-free-bitcoin-payments-lightning-network-just-pizza-transaction/",
+            "title": "“Bitcoin and Its Sisters” Seem like a Bubble, Says Nobel Prize Winner Richard Thaler",
+            "url": "https://www.ccn.com/bitcoin-sisters-seem-like-bubble-says-nobel-prize-winner-richard-thaler/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Cryptocurrency Market Falls Again as Ripple, Bitcoin Cash, et al. Fall by 10%",
-            "url": "https://www.ccn.com/cryptocurrency-market-falls-ripple-bitcoin-cash-et-al-fall-10/",
+            "title": "Robinhood Brings Free Cryptocurrency Trading to the Masses",
+            "url": "https://www.ccn.com/robinhood-brings-free-cryptocurrency-trading-masses/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Tax Day Looms for Bitcoin Investors",
-            "url": "https://www.ccn.com/tax-day-looms-for-bitcoin-investors/",
+            "title": "$39 Million Mobius ICO Sells Out in 2 Hours on Stellar, Not Ethereum",
+            "url": "https://www.ccn.com/mobius-closes-record-setting-stellar-supported-token-sale-after-2-hours/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "IMF Urges International Cooperation on Cryptocurrency Regulation",
-            "url": "https://www.ccn.com/imf-urges-international-cooperation-cryptocurrency-regulation/",
+            "title": "PhD Student Successfully Hacks a DNA Strand, Promptly Wins a Bitcoin",
+            "url": "https://www.ccn.com/phd-student-successfully-hacks-dna-wins-bitcoin/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "A Decentralized Future: Japan’s Biggest Energy Giant Invests in Ethereum Blockchain Startup",
-            "url": "https://www.ccn.com/decentralized-future-japans-biggest-energy-giant-invests-ethereum-blockchain-startup/",
+            "title": "$6 Million Ponzi: CFTC Charges “Gold-Backed” Crypto My Big Coin With Fraud",
+            "url": "https://www.ccn.com/cftc-charges-gold-backed-my-big-coin-with-6-mil-fraud/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Cryptocurrency Crash Indicative of the Significance of the Asian Market",
-            "url": "https://www.ccn.com/cryptocurrency-crash-indicative-significance-asian-market/",
+            "title": "Cardano, Stellar Prices Post Strong Returns as Market Makes Sluggish Advance",
+            "url": "https://www.ccn.com/cardano-stellar-prices-post-strong-returns-as-market-makes-sluggish-advance/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "India’s Tax Authority Sends Notices to ‘Tens of Thousands’ of Cryptocurrency Traders: Report",
-            "url": "https://www.ccn.com/indias-tax-man-sends-notices-tens-thousands-cryptocurrency-traders-report/",
+            "title": "UK Prime Minister Theresa May: We’ll Look into Bitcoin ‘Very Seriously’",
+            "url": "https://www.ccn.com/uk-prime-minister-theresa-may-well-look-bitcoin-seriously/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Emptied IOTA Wallets: Hackers Steal Millions Using Malicious Seed Generators",
-            "url": "https://www.ccn.com/a-number-of-iota-wallets-emptied-by-hackers-due-to-online-seed-generators/",
+            "title": "Steem Price Mounts 50% Rally After Ratings Firm Issues Bullish Grade",
+            "url": "https://www.ccn.com/steem-price-mounts-50-percent-rally-after-ratings-firm-issues-bullish-grade/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "New Crypto-Investor Psychology – Where Did These High Caps on High-Supply Coins Come From?",
-            "url": "https://www.ccn.com/new-crypto-investor-psychology-where-did-these-high-caps-on-high-supply-coins-come-from/",
+            "title": "A+ Mess: Controversial Weiss Cryptocurrency Ratings See DDoS Attacks, Fake Grading Leaks",
+            "url": "https://www.ccn.com/weiss-cryptocurrency-ratings-see-messy-inauguration-with-ddos-attack-fake-grading-leaks/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "A Case for Decentralized Cryptocurrency Exchanges",
-            "url": "https://www.ccn.com/case-decentralized-cryptocurrency-exchanges/",
+            "title": "Australia Bound? Brisbane Airport Accepts Cryptocurrencies in a World-First",
+            "url": "https://www.ccn.com/australia-bound-brisbane-airport-accepts-cryptocurrencies-world-first/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "(+) Tron Rebounds 100% From Last Week’s Low Amid Controversy",
-            "url": "https://hacked.com/tron-rebounds-100-from-last-week-amid-controversy/",
+            "title": "Nigerians Adopt Ingenious Ways to Ward Off Bitcoin Scams",
+            "url": "https://www.ccn.com/nigerians-adopt-ingenious-ways-to-ward-off-bitcoin-scams/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "South Korea’s Second Largest Bank Supports Cryptocurrency Exchanges, Traders Relieved",
-            "url": "https://www.ccn.com/south-koreas-second-largest-bank-supports-cryptocurrency-exchanges-traders-relieved/",
+            "title": "Major Cryptocurrencies Recover as Bitcoin, Ethereum, and Cardano Surge in Value",
+            "url": "https://www.ccn.com/major-cryptocurrencies-recover-bitcoin-ethereum-cardano-surge-value/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Cryptocurrecy Market Suffers Minor Correction, Ripple and Cardano Down 10%",
-            "url": "https://www.ccn.com/cryptocurrecy-market-suffers-minor-correction-ripple-cardano-10/",
+            "title": "Ripple Adds Two New Payments Providers for xRapid XRP Pilots",
+            "url": "https://www.ccn.com/ripple-announces-two-new-partnerships-with-financial-service-firms/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Bitcoin Futures: A Way to Control Cryptocurrency Markets?",
-            "url": "https://www.ccn.com/bitcoin-futures-way-control-cryptocurrency-markets/",
+            "title": "UBS Chairman Predicts Big Bitcoin Market Correction, Won’t Invest",
+            "url": "https://www.ccn.com/ubs-chairman-predicts-big-bitcoin-market-correction-wont-invest/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "India’s Biggest Bitcoin Exchanges See Bank Accounts Frozen: Report",
-            "url": "https://www.ccn.com/indian-cryptocurrency-exchanges-disrupted-over-widespread-issue-of-frozen-bank-accounts/",
+            "title": "This Swiss Commodity Fund is Launching its Own Cryptocurrency Backed by Metals",
+            "url": "https://www.ccn.com/tiberius-group-to-launch-new-cryptocurrency/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Fake News: Venezuela Rejects “False Information” on Petro Whitepaper",
-            "url": "https://www.ccn.com/fake-news-venezuela-rejects-false-information-petro-whitepaper/",
+            "title": "Cryptocurrency Exchange Coinbase Hits $1 Billion in Revenues, Rejects Investors: Report",
+            "url": "https://www.ccn.com/cryptocurrency-hits-1-billion-revenues-rejects-investors-report/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "A2B TAXI",
+            "url": "https://hacked.com/ico-analysis-a2b-taxi/",
+            "source": "cryptocoinsnews.com"
+          },
+          {
+            "title": "Play2Live",
+            "url": "https://hacked.com/ico-analysis-play2live/",
             "source": "cryptocoinsnews.com"
           },
           {
@@ -1476,38 +1551,28 @@
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Metronome",
-            "url": "https://hacked.com/ico-analysis-metronome/",
+            "title": "$39 Million Mobius ICO Sells Out in 2 Hours on Stellar, Not Ethereum",
+            "url": "https://www.ccn.com/mobius-closes-record-setting-stellar-supported-token-sale-after-2-hours/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Pinnacle Brilliance",
-            "url": "https://pinnacle-brilliance.com/",
+            "title": "UBS Chairman Predicts Big Bitcoin Market Correction, Won’t Invest",
+            "url": "https://www.ccn.com/ubs-chairman-predicts-big-bitcoin-market-correction-wont-invest/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Emptied IOTA Wallets: Hackers Steal Millions Using Malicious Seed Generators",
-            "url": "https://www.ccn.com/a-number-of-iota-wallets-emptied-by-hackers-due-to-online-seed-generators/",
+            "title": "Major Cryptocurrencies Recover as Bitcoin, Ethereum, and Cardano Surge in Value",
+            "url": "https://www.ccn.com/major-cryptocurrencies-recover-bitcoin-ethereum-cardano-surge-value/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "New Crypto-Investor Psychology – Where Did These High Caps on High-Supply Coins Come From?",
-            "url": "https://www.ccn.com/new-crypto-investor-psychology-where-did-these-high-caps-on-high-supply-coins-come-from/",
+            "title": "This Swiss Commodity Fund is Launching its Own Cryptocurrency Backed by Metals",
+            "url": "https://www.ccn.com/tiberius-group-to-launch-new-cryptocurrency/",
             "source": "cryptocoinsnews.com"
           },
           {
-            "title": "Cryptocurrency Market Falls Again as Ripple, Bitcoin Cash, et al. Fall by 10%",
-            "url": "https://www.ccn.com/cryptocurrency-market-falls-ripple-bitcoin-cash-et-al-fall-10/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "A Decentralized Future: Japan’s Biggest Energy Giant Invests in Ethereum Blockchain Startup",
-            "url": "https://www.ccn.com/decentralized-future-japans-biggest-energy-giant-invests-ethereum-blockchain-startup/",
-            "source": "cryptocoinsnews.com"
-          },
-          {
-            "title": "India’s Tax Authority Sends Notices to ‘Tens of Thousands’ of Cryptocurrency Traders: Report",
-            "url": "https://www.ccn.com/indias-tax-man-sends-notices-tens-thousands-cryptocurrency-traders-report/",
+            "title": "Ripple Adds Two New Payments Providers for xRapid XRP Pilots",
+            "url": "https://www.ccn.com/ripple-announces-two-new-partnerships-with-financial-service-firms/",
             "source": "cryptocoinsnews.com"
           }
         ]
@@ -1522,7 +1587,42 @@
       {
         "articles": [
           {
-            "title": "South Korea’s Government is Reportedly Planning to Hit Cryptocurrency Exchanges with Tax Bills",
+            "title": "UK Government Says Bitcoin Monitoring Should be Considered ‘Very Seriously’",
+            "url": "https://coinjournal.net/uk-government-says-bitcoin-monitoring-considered-seriously/",
+            "source": "coinjournal.net"
+          },
+          {
+            "title": "US-Based Cryptocurrency Exchange Lists Dash",
+            "url": "https://coinjournal.net/us-based-cryptocurrency-exchange-platform-lists-dash/",
+            "source": "coinjournal.net"
+          },
+          {
+            "title": "Russia’s Ministry of Finance Publishes Draft of Cryptocurrency Bill",
+            "url": "https://coinjournal.net/russias-ministry-finance-publishes-draft-cryptocurrency-bill/",
+            "source": "coinjournal.net"
+          },
+          {
+            "title": "New Blockchain Game Lets You Buy And Sell “Celebs Smart Contracts”",
+            "url": "https://coinjournal.net/ethereum-cryptocelebrities-game/",
+            "source": "coinjournal.net"
+          },
+          {
+            "title": "Nordea Bank Prohibits Employees From Trading Bitcoin, Previous Holders Allowed",
+            "url": "https://coinjournal.net/nordea-bank-prohibits-employees-trading-bitcoin-previous-holders-allowed/",
+            "source": "coinjournal.net"
+          },
+          {
+            "title": "Nasdaq CEO: ‘We Are Investigating the Idea of Bitcoin Futures",
+            "url": "https://coinjournal.net/nasdaq-ceo-investigating-idea-bitcoin-futures-contract/",
+            "source": "coinjournal.net"
+          },
+          {
+            "title": "Japanese Bitcoin Exchange BitFlyer Wins EU License",
+            "url": "https://coinjournal.net/japanese-bitcoin-exchange-bitflyer-wins-eu-license/",
+            "source": "coinjournal.net"
+          },
+          {
+            "title": "South Korea’s Government is Reportedly Planning to Hit Cryptocurrency Exchanges with...",
             "url": "https://coinjournal.net/south-koreas-government-reportedly-planning-hit-cryptocurrency-exchanges-tax-bills/",
             "source": "coinjournal.net"
           },
@@ -1600,41 +1700,6 @@
             "title": "South Korean Investor Brags About $24 Million Bitcoin Profit, Government Now...",
             "url": "https://coinjournal.net/south-korean-investor-brags-24-million-bitcoin-profit-government-now-chasing-taxes/",
             "source": "coinjournal.net"
-          },
-          {
-            "title": "Charlie Lee Wants to Test a New Solution for Bitcoin Fee...",
-            "url": "https://coinjournal.net/charlie-lee-wants-test-new-solution-bitcoin-fee-estimation-litecoin/",
-            "source": "coinjournal.net"
-          },
-          {
-            "title": "Ethereum Pioneer and Early Contributor Says ETH Could Triple in 2018",
-            "url": "https://coinjournal.net/ethereum-pioneer-early-contributor-says-eth-triple-2018/",
-            "source": "coinjournal.net"
-          },
-          {
-            "title": "South Korean Cryptocurrency Mania: Exchanges are Adding More Employees Than Banks",
-            "url": "https://coinjournal.net/south-korean-cryptocurrency-mania-exchanges-adding-employees-banks/",
-            "source": "coinjournal.net"
-          },
-          {
-            "title": "As Ethereum Surpasses $100 Billion, Can Powerful Decentralized Applications Justify its...",
-            "url": "https://coinjournal.net/ethereum-surpasses-100-billion-can-powerful-decentralized-applications-justify-market-cap/",
-            "source": "coinjournal.net"
-          },
-          {
-            "title": "New Partnership Brings Dash Cryptocurrency to 10,000 Retailers in Spain",
-            "url": "https://coinjournal.net/new-partnership-brings-dash-cryptocurrency-10000-retailers-spain/",
-            "source": "coinjournal.net"
-          },
-          {
-            "title": "Indian Policy Think Tank Develops Blockchain Proof-of-Concept",
-            "url": "https://coinjournal.net/indian-policy-think-tank-develops-blockchain-proof-concept/",
-            "source": "coinjournal.net"
-          },
-          {
-            "title": "Founders Fund Unveils US$15-20 Million Investment in Bitcoin; Price Rises 13%",
-            "url": "https://coinjournal.net/founders-fund-unveils-us15-20-million-investment-bitcoin-price-rises-13/",
-            "source": "coinjournal.net"
           }
         ]
       }
@@ -1642,6 +1707,16 @@
     "cryptoNews": [
       {
         "articles": [
+          {
+            "title": "The Rising Crypto Economy And Digital Payment Solutions",
+            "url": "http://www.crypto-news.net/the-rising-crypto-economy-and-digital-payment-solutions/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "As Public Interest Soars, Crypto Conferences Are Growing Rapidly Across The Globe",
+            "url": "http://www.crypto-news.net/as-public-interest-soars-crypto-conferences-are-growing-rapidly-across-the-globe/",
+            "source": "crypto-news.net"
+          },
           {
             "title": "Schnorr Signatures – Another step after SegWit",
             "url": "http://www.crypto-news.net/schnorr-signatures-another-step-after-segwit/",
@@ -1658,13 +1733,13 @@
             "source": "crypto-news.net"
           },
           {
-            "title": "Ethereum’s Founders Make Bold Claims About the Future of the Platform",
-            "url": "http://www.crypto-news.net/ethereums-founders-make-bold-claims-about-the-future-of-the-platform/",
+            "title": "Everything You Need to Know About the MetaMask Wallet",
+            "url": "http://www.crypto-news.net/everything-you-need-to-know-about-the-metamask-wallet/",
             "source": "crypto-news.net"
           },
           {
-            "title": "KFC Canada Teams Up with Bitpay to Launch Bitcoin Bucket",
-            "url": "http://www.crypto-news.net/kfc-canada-teams-up-with-bitpay-to-launch-bitcoin-bucket/",
+            "title": "As Public Interest Soars, Crypto Conferences Are Growing Rapidly Across The Globe",
+            "url": "http://www.crypto-news.net/as-public-interest-soars-crypto-conferences-are-growing-rapidly-across-the-globe/",
             "source": "crypto-news.net"
           },
           {
@@ -1683,13 +1758,18 @@
             "source": "crypto-news.net"
           },
           {
-            "title": "Atomic Swaps Advance",
-            "url": "http://www.crypto-news.net/atomic-swaps-advance/",
+            "title": "As Public Interest Soars, Crypto Conferences Are Growing Rapidly Across The Globe",
+            "url": "http://www.crypto-news.net/as-public-interest-soars-crypto-conferences-are-growing-rapidly-across-the-globe/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Legacy Tech Companies Are Moving Boldly Into the Blockchain Realm",
-            "url": "http://www.crypto-news.net/legacy-tech-companies-are-moving-boldly-into-the-blockchain-realm/",
+            "title": "BitConnect Market Crash Analysis",
+            "url": "http://www.crypto-news.net/bitconnect-market-crash-analysis/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Adamant.im Private & Decentralized Messenger",
+            "url": "http://www.crypto-news.net/adamant-im-private-decentralized-messenger/",
             "source": "crypto-news.net"
           },
           {
@@ -1700,21 +1780,6 @@
           {
             "title": "The SEC Clarifies its Position on Cryptocurrencies and ICOs",
             "url": "http://www.crypto-news.net/the-sec-clarifies-its-position-on-cryptocurrencies-and-icos/",
-            "source": "crypto-news.net"
-          },
-          {
-            "title": "Ethereum’s Founders Make Bold Claims About the Future of the Platform",
-            "url": "http://www.crypto-news.net/ethereums-founders-make-bold-claims-about-the-future-of-the-platform/",
-            "source": "crypto-news.net"
-          },
-          {
-            "title": "Could Maker’s DAI Stablecoin replace Tether?",
-            "url": "http://www.crypto-news.net/could-makers-dai-stablecoin-replace-tether/",
-            "source": "crypto-news.net"
-          },
-          {
-            "title": "US Pharmacies to get Regulated on Ethereum.",
-            "url": "http://www.crypto-news.net/us-pharmacies-to-get-regulated-on-ethereum/",
             "source": "crypto-news.net"
           },
           {
@@ -1843,28 +1908,28 @@
             "source": "crypto-news.net"
           },
           {
-            "title": "Betting on Blockchain with Dragon Inc.",
-            "url": "http://www.crypto-news.net/betting-on-blockchain-with-dragon-inc/",
+            "title": "International Blockchain Summit Moscow 2018",
+            "url": "http://www.crypto-news.net/international-blockchain-summit-moscow-2018/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Will Russia Ever Embrace the Crypto-Ruble?",
-            "url": "http://www.crypto-news.net/will-russia-ever-embrace-the-crypto-ruble/",
+            "title": "Everything You Need to Know About the MetaMask Wallet",
+            "url": "http://www.crypto-news.net/everything-you-need-to-know-about-the-metamask-wallet/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Schnorr Signatures – Another step after SegWit",
-            "url": "http://www.crypto-news.net/schnorr-signatures-another-step-after-segwit/",
+            "title": "The Rising Crypto Economy And Digital Payment Solutions",
+            "url": "http://www.crypto-news.net/the-rising-crypto-economy-and-digital-payment-solutions/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Security Concerns after Two Major Cryptocurrency Exchange Incidents",
-            "url": "http://www.crypto-news.net/security-concerns-after-two-major-cryptocurrency-exchange-incidents/",
+            "title": "As Public Interest Soars, Crypto Conferences Are Growing Rapidly Across The Globe",
+            "url": "http://www.crypto-news.net/as-public-interest-soars-crypto-conferences-are-growing-rapidly-across-the-globe/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Interview with Filament’s CEO",
-            "url": "http://www.crypto-news.net/interview-with-filaments-ceo/",
+            "title": "Play2Live Secures $7M in Private Pre-sale and Launches 24/7 Live Rebroadcasts of eSports Events",
+            "url": "http://www.crypto-news.net/play2live-secures-7m-in-private-investment-deals-and-launches-24-7-live-rebroadcasts-of-esports-events/",
             "source": "crypto-news.net"
           },
           {
@@ -1908,43 +1973,18 @@
             "source": "crypto-news.net"
           },
           {
-            "title": "Ripple and American Express Announce Partnership for Cross Border Payments",
-            "url": "http://www.crypto-news.net/ripple-and-american-express-announce-partnership-for-cross-border-payments/",
-            "source": "crypto-news.net"
-          },
-          {
-            "title": "What does Ethereum’s Proof of Stake algorithm mean for miners?",
-            "url": "http://www.crypto-news.net/what-does-ethereums-proof-of-stake-algorithm-mean-for-miners/",
-            "source": "crypto-news.net"
-          },
-          {
-            "title": "Censorship in Crowdfunding Services and How Bitcoin Could Help",
-            "url": "http://www.crypto-news.net/censorship-in-crowdfunding-services-and-how-bitcoin-could-help/",
-            "source": "crypto-news.net"
-          },
-          {
-            "title": "ICO, Banking, Energy, Healthcare, Retail and E-Gov as the Blockchain Trendiest Areas to be Discussed at Blockchain Conference Abu Dhabi",
-            "url": "http://www.crypto-news.net/ico-banking-energy-healthcare-retail-and-e-gov-as-the-blockchain-trendiest-areas-to-be-discussed-at-blockchain-conference-abu-dhabi/",
-            "source": "crypto-news.net"
-          },
-          {
-            "title": "Betting on Blockchain with Dragon Inc.",
-            "url": "http://www.crypto-news.net/betting-on-blockchain-with-dragon-inc/",
-            "source": "crypto-news.net"
-          },
-          {
-            "title": "Will Russia Ever Embrace the Crypto-Ruble?",
-            "url": "http://www.crypto-news.net/will-russia-ever-embrace-the-crypto-ruble/",
-            "source": "crypto-news.net"
-          },
-          {
             "title": "Schnorr Signatures – Another step after SegWit",
             "url": "http://www.crypto-news.net/schnorr-signatures-another-step-after-segwit/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Security Concerns after Two Major Cryptocurrency Exchange Incidents",
-            "url": "http://www.crypto-news.net/security-concerns-after-two-major-cryptocurrency-exchange-incidents/",
+            "title": "Bitcoin Stronger Than Ever, Gains Market Share Over Competitors",
+            "url": "http://www.crypto-news.net/bitcoin-stronger-than-ever-gains-market-share-over-competitors/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Crypto altruism on the rise",
+            "url": "http://www.crypto-news.net/crypto-altruism-on-the-rise/",
             "source": "crypto-news.net"
           },
           {
@@ -1953,28 +1993,38 @@
             "source": "crypto-news.net"
           },
           {
-            "title": "Novusphere – A Distributed Content Platform (Review)",
-            "url": "http://www.crypto-news.net/censorfree-p2p-novusphere-blockchain-research-review/",
+            "title": "International Blockchain Summit Moscow 2018",
+            "url": "http://www.crypto-news.net/international-blockchain-summit-moscow-2018/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Cryptocurrency Market Crash: South Korea Could Enforce Crypto Ban",
-            "url": "http://www.crypto-news.net/cryptocurrency-market-crash-south-korea-could-enforce-crypto-ban/",
+            "title": "Everything You Need to Know About the MetaMask Wallet",
+            "url": "http://www.crypto-news.net/everything-you-need-to-know-about-the-metamask-wallet/",
             "source": "crypto-news.net"
           },
           {
-            "title": "The SEC Clarifies its Position on Cryptocurrencies and ICOs",
-            "url": "http://www.crypto-news.net/the-sec-clarifies-its-position-on-cryptocurrencies-and-icos/",
+            "title": "The Rising Crypto Economy And Digital Payment Solutions",
+            "url": "http://www.crypto-news.net/the-rising-crypto-economy-and-digital-payment-solutions/",
             "source": "crypto-news.net"
           },
           {
-            "title": "All aboard the new era for poker! CoinPoker’s ICO Launches on Friday",
-            "url": "http://www.crypto-news.net/all-aboard-the-new-era-for-poker-coinpokers-ico-launches-on-friday/",
+            "title": "As Public Interest Soars, Crypto Conferences Are Growing Rapidly Across The Globe",
+            "url": "http://www.crypto-news.net/as-public-interest-soars-crypto-conferences-are-growing-rapidly-across-the-globe/",
             "source": "crypto-news.net"
           },
           {
-            "title": "Know Your Customer Meets its Limits with Cryptocurrencies",
-            "url": "http://www.crypto-news.net/know-your-customer-meets-its-limits-with-cryptocurrencies/",
+            "title": "Play2Live Secures $7M in Private Pre-sale and Launches 24/7 Live Rebroadcasts of eSports Events",
+            "url": "http://www.crypto-news.net/play2live-secures-7m-in-private-investment-deals-and-launches-24-7-live-rebroadcasts-of-esports-events/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "BitConnect Market Crash Analysis",
+            "url": "http://www.crypto-news.net/bitconnect-market-crash-analysis/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Adamant.im Private & Decentralized Messenger",
+            "url": "http://www.crypto-news.net/adamant-im-private-decentralized-messenger/",
             "source": "crypto-news.net"
           },
           {
@@ -1991,46 +2041,92 @@
             "title": "Schnorr Signatures – Another step after SegWit",
             "url": "http://www.crypto-news.net/schnorr-signatures-another-step-after-segwit/",
             "source": "crypto-news.net"
+          },
+          {
+            "title": "International Blockchain Summit Moscow 2018",
+            "url": "http://www.crypto-news.net/international-blockchain-summit-moscow-2018/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "Everything You Need to Know About the MetaMask Wallet",
+            "url": "http://www.crypto-news.net/everything-you-need-to-know-about-the-metamask-wallet/",
+            "source": "crypto-news.net"
+          },
+          {
+            "title": "The Rising Crypto Economy And Digital Payment Solutions",
+            "url": "http://www.crypto-news.net/the-rising-crypto-economy-and-digital-payment-solutions/",
+            "source": "crypto-news.net"
           }
         ]
       }
     ],
     "ethNews": [
       {
-        "articles": []
+        "articles": [
+          {
+            "title": "ETHNews Exclusive | NASA Speaks On Ethereum Blockchain Technology",
+            "url": "/ethnews-exclusivenasa-speaks-on-blockchain-technology",
+            "source": "ethnews.com"
+          },
+          {
+            "title": "US Energy Department Sees Potential In Blockchain-Backed Peer-To-Peer Grid",
+            "url": "/us-energy-department-sees-potential-in-blockchain-backed-peer-to-peer-system",
+            "source": "ethnews.com"
+          },
+          {
+            "title": "CFTC Files Suit Against My Big Coin Cryptocurrency: Alleges Multi-Year Scam",
+            "url": "/cftc-files-suit-against-my-big-coin-cryptocurrency-alleges-multi-year-scam",
+            "source": "ethnews.com"
+          },
+          {
+            "title": "South Korean Cryptocurrency Exchanges Fined Over Privacy Failings",
+            "url": "/south-korean-cryptocurrency-exchanges-fined-over-privacy-failings",
+            "source": "ethnews.com"
+          },
+          {
+            "title": "Venezuelan Petro Cryptocurrency Presale: No Bolivars",
+            "url": "/venezuelan-petro-cryptocurrency-presale-no-bolivars",
+            "source": "ethnews.com"
+          },
+          {
+            "title": "Japan’s FSA Will Not Support Cryptocurrency Futures, For Now",
+            "url": "/japans-fsa-will-not-support-cryptocurrency-futures-for-now",
+            "source": "ethnews.com"
+          }
+        ]
       }
     ],
     "bitcoinMagazine": [
       {
         "articles": [
           {
-            "title": "Op Ed: Here’s What Paul Krugman Got Wrong in His Bitcoin Tweetstorm",
+            "title": "Lucyd: Seeing Augmented Reality Through the Blockchain",
+            "url": "https://bitcoinmagazine.com/articles/lucyd-seeing-augmented-reality-through-blockchain/",
+            "source": "bitcoinmagazine.com"
+          },
+          {
+            "title": "Driving Blockchain Adoption in the Developing World With Spire",
+            "url": "https://bitcoinmagazine.com/articles/driving-blockchain-adoption-developing-world-spire/",
+            "source": "bitcoinmagazine.com"
+          },
+          {
+            "title": "Pilot Project Verifies Academic Credentials on the Bitcoin Blockchain",
+            "url": "https://bitcoinmagazine.com/sections/blockchain/",
+            "source": "bitcoinmagazine.com"
+          },
+          {
+            "title": "Op-Ed: The Weiss Cryptocurrency Ratings Are Laughably Bad",
             "url": "https://bitcoinmagazine.com/sections/op-ed/",
             "source": "bitcoinmagazine.com"
           },
           {
-            "title": "RepuX and the Future of Blockchain-Based Data Sharing",
-            "url": "https://bitcoinmagazine.com/articles/repux-and-future-blockchain-based-data-sharing/",
-            "source": "bitcoinmagazine.com"
-          },
-          {
-            "title": "Helbiz: the Blockchain AirBnB for Transportation",
-            "url": "https://bitcoinmagazine.com/articles/helbiz-blockchain-airbnb-transportation/",
-            "source": "bitcoinmagazine.com"
-          },
-          {
-            "title": "Two New Services Could Help Investors Rate Cryptocurrencies",
+            "title": "Bitcoin Price Analysis: Bearish Continuation Likely as BTC Tests Strong Support",
             "url": "https://bitcoinmagazine.com/sections/investing/",
             "source": "bitcoinmagazine.com"
           },
           {
-            "title": "Cornell IC3 Researchers Propose Solution to Bitcoin’s Multisig “Paralysis” Problem",
-            "url": "https://bitcoinmagazine.com/sections/technical/",
-            "source": "bitcoinmagazine.com"
-          },
-          {
-            "title": "Decentralizing the Sharing Economy With Blockchain Technology",
-            "url": "https://bitcoinmagazine.com/sections/adoption-community/",
+            "title": "South Korea Allows Cryptocurrency Trading for Real-Name Registered Accounts",
+            "url": "https://bitcoinmagazine.com/sections/regulation/",
             "source": "bitcoinmagazine.com"
           }
         ]
