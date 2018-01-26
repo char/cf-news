@@ -269,5 +269,5 @@ const job = new CronJob('0 0 5 * * *', () => {
   false,
   'America/Los_Angeles'
 );
-//job.start();
-doEverything();
+job.start();
+//doEverything();
