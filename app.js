@@ -8,6 +8,7 @@ const scrape = require('./scrape');
 
 let sourceIterator = 0;
 const WRITE_NAME = 'articles.json';
+const AMOUNT_OF_ARTICLES = 30;
 
 const shuffleArray = (array) => {
   for (var i = array.length - 1; i > 0; i--) {
@@ -195,6 +196,7 @@ const doEverything = async () => {
     await saveToFile('coinDesk');
     await saveToFile('ethNews');
     await saveToFile('bitcoinMagazine');
+    await saveToFile('cointia');
 
     console.log('[' + new Date().toUTCString() + ']');
     fs.readFile('./' + WRITE_NAME, 'utf8', (err, data) => {
@@ -221,7 +223,7 @@ const doEverything = async () => {
           }
         });
 
-        displayArticles = shuffleArray(displayArticles).slice(0, 25);
+        displayArticles = shuffleArray(displayArticles).slice(0, AMOUNT_OF_ARTICLES);
         console.log('Set', displayArticles.length, 'display articles.');
         const write = 'display-articles.json';
         fs.writeFile(
@@ -232,7 +234,7 @@ const doEverything = async () => {
               console.error(err);
             } else {
               sourceIterator = 0;
-              console.log('Saved top 25 to', write);
+              console.log('Saved top', AMOUNT_OF_ARTICLES, 'to', write);
             }
           }
         );
@@ -270,4 +272,5 @@ const job = new CronJob('0 0 5 * * *', () => {
   'America/Los_Angeles'
 );
 job.start();
-//doEverything();
+
+doEverything();

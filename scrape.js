@@ -17,6 +17,20 @@ const createScrapeOptions = (options) => {
   }
 }
 
+const cointia = createScrapeOptions({
+  url: 'https://cointia.com/',
+  listItem: 'article.article',
+  titleOptions: {
+    selector: 'a',
+    attr: 'title',
+  },
+  urlOptions: {
+    selector: 'a',
+    attr: 'href',
+  },
+  source: 'cointia.com'
+});
+
 const cryptoNews = createScrapeOptions({
   url: 'https://crypto-news.net/',
   listItem: '.td-module-thumb',
@@ -111,7 +125,8 @@ const sites = {
   coinJournal,
   coinDesk,
   ethNews,
-  bitcoinMagazine
+  bitcoinMagazine,
+  cointia
 };
 
 module.exports.scrapeIt = (site) => {

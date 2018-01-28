@@ -1,62 +1,37 @@
 [
   {
-    "title": "Op-Ed: The Weiss Cryptocurrency Ratings Are Laughably Bad",
-    "url": "https://bitcoinmagazine.com/sections/op-ed/",
-    "source": "bitcoinmagazine.com"
-  },
-  {
-    "title": "Bitcoin Price Analysis: Bearish Continuation Likely as BTC Tests Strong Support",
-    "url": "https://bitcoinmagazine.com/sections/investing/",
-    "source": "bitcoinmagazine.com"
-  },
-  {
-    "title": "The SEC Clarifies its Position on Cryptocurrencies and ICOs",
-    "url": "http://www.crypto-news.net/the-sec-clarifies-its-position-on-cryptocurrencies-and-icos/",
-    "source": "crypto-news.net"
-  },
-  {
-    "title": "May, Lagarde, Mnuchin: World Leaders Are Talking Crypto at Davos",
-    "url": "https://www.coindesk.com/may-lagarde-mnuching-davos-bitcoin-roundup/",
+    "title": "Tether Confirms Its Relationship With Auditor Has 'Dissolved'",
+    "url": "https://www.coindesk.com/tether-confirms-relationship-auditor-dissolved/",
     "source": "coindesk.com"
   },
   {
-    "title": "The Rising Crypto Economy And Digital Payment Solutions",
-    "url": "http://www.crypto-news.net/the-rising-crypto-economy-and-digital-payment-solutions/",
-    "source": "crypto-news.net"
+    "title": "Latest Zcash Ceremony Used Chernobyl Waste",
+    "url": "https://www.coindesk.com/latest-zcash-ceremony-took-chernobyl-nuclear-waste-to-3000-feet/",
+    "source": "coindesk.com"
   },
   {
-    "title": "US Energy Department Sees Potential In Blockchain-Backed Peer-To-Peer Grid",
-    "url": "/us-energy-department-sees-potential-in-blockchain-backed-peer-to-peer-system",
+    "title": "Driving Blockchain Adoption in the Developing World With Spire",
+    "url": "https://bitcoinmagazine.com/articles/driving-blockchain-adoption-developing-world-spire/",
+    "source": "bitcoinmagazine.com"
+  },
+  {
+    "title": "Prominent VC: Robinhood and TT Integrating Bitcoin is “A Big Deal”",
+    "url": "https://coinjournal.net/prominent-vc-robinhood-tt-integrating-bitcoin-big-deal/",
+    "source": "coinjournal.net"
+  },
+  {
+    "title": "Indian Government Turns Fiat Currency War on to Cryptocurrencies",
+    "url": "https://bitcoinmagazine.com/sections/regulation/",
+    "source": "bitcoinmagazine.com"
+  },
+  {
+    "title": "Russian Finance Ministry Publishes Cryptocurrency Draft Law, Ires Central Bank",
+    "url": "/russian-finance-ministry-publishes-cryptocurrency-draft-law-ires-central-bank",
     "source": "ethnews.com"
-  },
-  {
-    "title": "Pilot Project Verifies Academic Credentials on the Bitcoin Blockchain",
-    "url": "https://bitcoinmagazine.com/sections/blockchain/",
-    "source": "bitcoinmagazine.com"
-  },
-  {
-    "title": "Bitcoin Startup BitGo to Buy Asset Custodian",
-    "url": "https://www.coindesk.com/bitgo-acquires-kingdom-trust/",
-    "source": "coindesk.com"
-  },
-  {
-    "title": "“Bitcoin and Its Sisters” Seem like a Bubble, Says Nobel Prize Winner Richard Thaler",
-    "url": "https://www.ccn.com/bitcoin-sisters-seem-like-bubble-says-nobel-prize-winner-richard-thaler/",
-    "source": "cryptocoinsnews.com"
   },
   {
     "title": "Schnorr Signatures – Another step after SegWit",
     "url": "http://www.crypto-news.net/schnorr-signatures-another-step-after-segwit/",
-    "source": "crypto-news.net"
-  },
-  {
-    "title": "US-Based Cryptocurrency Exchange Lists Dash",
-    "url": "https://coinjournal.net/us-based-cryptocurrency-exchange-platform-lists-dash/",
-    "source": "coinjournal.net"
-  },
-  {
-    "title": "As Public Interest Soars, Crypto Conferences Are Growing Rapidly Across The Globe",
-    "url": "http://www.crypto-news.net/as-public-interest-soars-crypto-conferences-are-growing-rapidly-across-the-globe/",
     "source": "crypto-news.net"
   },
   {
@@ -65,18 +40,103 @@
     "source": "coinjournal.net"
   },
   {
+    "title": "As Public Interest Soars, Crypto Conferences Are Growing Rapidly Across The Globe",
+    "url": "http://www.crypto-news.net/as-public-interest-soars-crypto-conferences-are-growing-rapidly-across-the-globe/",
+    "source": "crypto-news.net"
+  },
+  {
+    "title": "GDAX to Roll Trading Option, Partners with Trading Technologies Firm",
+    "url": "https://cointia.com/post/2585",
+    "source": "cointia.com"
+  },
+  {
+    "title": "Nigeria’s Central Bank Governor: Bitcoin Investing is a ‘Gamble’",
+    "url": "https://www.ccn.com/nigerias-central-bank-governor-bitcoin-investing-gamble/",
+    "source": "cryptocoinsnews.com"
+  },
+  {
+    "title": "SEC to Crack Down on Publicly Traded Firms Capitalizing on the Blockchain Hype",
+    "url": "https://cointia.com/post/2593",
+    "source": "cointia.com"
+  },
+  {
+    "title": "The Periodic Table of Blockchain",
+    "url": "https://www.coindesk.com/periodic-table-blockchain-classify-tokens/",
+    "source": "coindesk.com"
+  },
+  {
+    "title": "50 Cent Realizes that he’s been a Bitcoin Millionaire all along",
+    "url": "http://www.crypto-news.net/50-cent-realizes-that-hes-a-bitcoin-millionaire-all-along/",
+    "source": "crypto-news.net"
+  },
+  {
+    "title": "Op-Ed: The Weiss Cryptocurrency Ratings Are Laughably Bad",
+    "url": "https://bitcoinmagazine.com/sections/op-ed/",
+    "source": "bitcoinmagazine.com"
+  },
+  {
+    "title": "‘Never Been Excited’ by Litecoin, Says Civic CEO Vinny Lingham",
+    "url": "https://cointia.com/post/2576",
+    "source": "cointia.com"
+  },
+  {
+    "title": "Largest Japanese Exchange Coincheck will Repay $425 Million Hacked NEM",
+    "url": "https://cointia.com/post/2596",
+    "source": "cointia.com"
+  },
+  {
+    "title": "US-Based Cryptocurrency Exchange Lists Dash",
+    "url": "https://coinjournal.net/us-based-cryptocurrency-exchange-platform-lists-dash/",
+    "source": "coinjournal.net"
+  },
+  {
+    "title": "Pilot Project Verifies Academic Credentials on the Bitcoin Blockchain",
+    "url": "https://bitcoinmagazine.com/sections/blockchain/",
+    "source": "bitcoinmagazine.com"
+  },
+  {
+    "title": "Mainstream media says “Bitcoin is not a currency”",
+    "url": "http://www.crypto-news.net/mainstream-media-says-bitcoin-is-not-a-currency/",
+    "source": "crypto-news.net"
+  },
+  {
+    "title": "Lightning Network Users Report Losing Bitcoin Due To Bugs",
+    "url": "/lightning-network-users-report-losing-bitcoin-due-to-bugs",
+    "source": "ethnews.com"
+  },
+  {
     "title": "UK Government Says Bitcoin Monitoring Should be Considered ‘Very Seriously’",
     "url": "https://coinjournal.net/uk-government-says-bitcoin-monitoring-considered-seriously/",
     "source": "coinjournal.net"
   },
   {
-    "title": "Venezuelan Petro Cryptocurrency Presale: No Bolivars",
-    "url": "/venezuelan-petro-cryptocurrency-presale-no-bolivars",
+    "title": "Blockchain Will Eliminate Waste and Redundancy in the Logistics Industry",
+    "url": "https://www.ccn.com/blockchain-will-eliminate-waste-and-redundancy-in-the-logistics-industry/",
+    "source": "cryptocoinsnews.com"
+  },
+  {
+    "title": "Litecoin Now Being Traded at Indian Exchange Zebpay",
+    "url": "https://cointia.com/post/2581",
+    "source": "cointia.com"
+  },
+  {
+    "title": "The Rising Crypto Economy And Digital Payment Solutions",
+    "url": "http://www.crypto-news.net/the-rising-crypto-economy-and-digital-payment-solutions/",
+    "source": "crypto-news.net"
+  },
+  {
+    "title": "CoinMarketCap And Turning The Mirror Of Cryptocurrency Centralization Back On Ourselves",
+    "url": "/turning-the-mirror-of-cryptocurrency-centralization-back-on-ourselves",
     "source": "ethnews.com"
   },
   {
-    "title": "Bitcoin Takes Davos Stage in Currency Panel Debate",
-    "url": "https://www.coindesk.com/bitcoin-takes-the-stage-at-davos-in-currency-panel-debate/",
+    "title": "Ubitquity Featured in Blockchain@UBC Real Estate Transaction Case Study",
+    "url": "https://coinjournal.net/ubitquity-featured-blockchainubc-real-estate-transaction-case-study/",
+    "source": "coinjournal.net"
+  },
+  {
+    "title": "The Opportunity for Interoperable Chains of Chains",
+    "url": "https://www.coindesk.com/opportunity-interoperable-chains-chains/",
     "source": "coindesk.com"
   },
   {
@@ -85,43 +145,8 @@
     "source": "bitcoinmagazine.com"
   },
   {
-    "title": "Driving Blockchain Adoption in the Developing World With Spire",
-    "url": "https://bitcoinmagazine.com/articles/driving-blockchain-adoption-developing-world-spire/",
-    "source": "bitcoinmagazine.com"
-  },
-  {
-    "title": "Cryptocurrency Market Crash: South Korea Could Enforce Crypto Ban",
-    "url": "http://www.crypto-news.net/cryptocurrency-market-crash-south-korea-could-enforce-crypto-ban/",
-    "source": "crypto-news.net"
-  },
-  {
-    "title": "Nordea Bank Prohibits Employees From Trading Bitcoin, Previous Holders Allowed",
-    "url": "https://coinjournal.net/nordea-bank-prohibits-employees-trading-bitcoin-previous-holders-allowed/",
-    "source": "coinjournal.net"
-  },
-  {
-    "title": "ETHNews Exclusive | NASA Speaks On Ethereum Blockchain Technology",
-    "url": "/ethnews-exclusivenasa-speaks-on-blockchain-technology",
+    "title": "SEC’s Jay Clayton, CFTC’s J Christopher Giancarlo Address Cryptocurrency In WSJ Op-Ed",
+    "url": "/secs-jay-clayton-cftcs-j-christopher-giancarlo-address-cryptocurrency-in-wsj-op",
     "source": "ethnews.com"
-  },
-  {
-    "title": "Robinhood Brings Free Cryptocurrency Trading to the Masses",
-    "url": "https://www.ccn.com/robinhood-brings-free-cryptocurrency-trading-masses/",
-    "source": "cryptocoinsnews.com"
-  },
-  {
-    "title": "South Korean Cryptocurrency Exchanges Fined Over Privacy Failings",
-    "url": "/south-korean-cryptocurrency-exchanges-fined-over-privacy-failings",
-    "source": "ethnews.com"
-  },
-  {
-    "title": "CFTC Files Suit Against My Big Coin Cryptocurrency: Alleges Multi-Year Scam",
-    "url": "/cftc-files-suit-against-my-big-coin-cryptocurrency-alleges-multi-year-scam",
-    "source": "ethnews.com"
-  },
-  {
-    "title": "'Micro' Finance Giant Robinhood Makes Big Bet on Bitcoin Trading",
-    "url": "https://www.coindesk.com/micro-finance-giant-robinhood-makes-big-bet-on-bitcoin-trading/",
-    "source": "coindesk.com"
   }
 ]
