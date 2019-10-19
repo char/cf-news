@@ -11,9 +11,9 @@ const WRITE_NAME = 'articles.json';
 const AMOUNT_OF_ARTICLES = 30;
 
 const shuffleArray = (array) => {
-  for (var i = array.length - 1; i > 0; i--) {
-    var j = Math.floor(Math.random() * (i + 1));
-    var temp = array[i];
+  for (let i = array.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    const temp = array[i];
     array[i] = array[j];
     array[j] = temp;
   }
@@ -30,7 +30,7 @@ const saveToFile = (site) => {
         fs.readFile('./' + WRITE_NAME, 'utf8', (err, data) => {
           if (err) throw err;
           if (data) {
-            let json = JSON.parse(data);
+            const json = JSON.parse(data);
             json.mainArticles[site] = [page];
 
             fs.writeFile(
@@ -64,9 +64,9 @@ const getSources = () => {
     request({url: 'https://newsapi.org/v1/sources', qs: qs}, (err, response, body) => {
       if (err) resolve(console.log(err));
 
-      let sources = [];
+      const sources = [];
       const json = JSON.parse(body);
-      let sJSON = json.sources;
+      const sJSON = json.sources;
 
       if (sJSON) {
         // push json objects
@@ -87,7 +87,7 @@ const getSources = () => {
 
 const getArticles = (source) => {
   return new Promise((resolve, reject) => {
-    let rArticles = [];
+    const rArticles = [];
     const qs = {
       source,
       apiKey: '42cdb8679f6849e6b2c544c956adc8a0',
@@ -99,7 +99,7 @@ const getArticles = (source) => {
 
       let articles = [];
       const json = JSON.parse(body);
-      let aJSON = json.articles;
+      const aJSON = json.articles;
 
       if (aJSON) {
         // push json objects
@@ -129,7 +129,7 @@ const getArticles = (source) => {
 const doEverything = async () => {
   // NewsAPI
   try {
-    let rArticles = [];
+    const rArticles = [];
     const sources = await getSources();
     await new Promise((resolve, reject) => {
       fs.readFile('./'+WRITE_NAME, 'utf8', (err, data) => {
@@ -145,7 +145,7 @@ const doEverything = async () => {
 
             if (i === sourceIterator) {
               if (data) {
-                let json = JSON.parse(data);
+                const json = JSON.parse(data);
                 json.mainArticles.newsAPI = rArticles;
 
                 fs.writeFile(
@@ -202,9 +202,9 @@ const doEverything = async () => {
     fs.readFile('./' + WRITE_NAME, 'utf8', (err, data) => {
       if (err) { console.log(err); return; }
       if (data) {
-        let displayArticles = [];
-        let urls = [];
-        let json = JSON.parse(data);
+        const displayArticles = [];
+        const urls = [];
+        const json = JSON.parse(data);
         const main = json.mainArticles;
         Object.keys(main).forEach((key) => {
           if (key == 'newsAPI') { return; }
