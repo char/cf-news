@@ -49,7 +49,7 @@ const saveToFile = (site) => {
           }
         });
       } catch (error) {
-        console.log(error);
+        console.error(error);
         resolve(false, error);
       }
   })
@@ -62,7 +62,7 @@ const getSources = () => {
     };
 
     request({url: 'https://newsapi.org/v1/sources', qs: qs}, (err, response, body) => {
-      if (err) resolve(console.log(err));
+      if (err) resolve(console.error(err));
 
       const sources = [];
       const json = JSON.parse(body);
@@ -95,7 +95,7 @@ const getArticles = (source) => {
     };
 
     request({url: 'https://newsapi.org/v1/articles', qs: qs}, (err, response, body) => {
-      if (err) { console.log(err); return; }
+      if (err) { console.error(err); return; }
 
       let articles = [];
       const json = JSON.parse(body);
@@ -108,10 +108,7 @@ const getArticles = (source) => {
         });
 
         // get items that match filter
-        articles = articles.filter((a) => {
-          let title = a.title;
-          return title.toLowerCase().includes('coin');
-        });
+        articles = articles.filter(a => a.title.toLowerCase().includes('coin') );
 
         if (articles) {
           if (articles.length > 0) {
@@ -241,7 +238,7 @@ const doEverything = async () => {
       }
     });
   } catch (error) {
-    console.log(error);
+    console.error(error);
   }
 }
 
