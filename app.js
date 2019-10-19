@@ -61,7 +61,7 @@ const getSources = () => {
       language: 'en',
     };
 
-    request({url: 'https://newsapi.org/v1/sources', qs: qs}, (err, response, body) => {
+    request({url: 'https://newsapi.org/v1/sources', qs}, (err, response, body) => {
       if (err) resolve(console.error(err));
 
       const sources = [];
@@ -70,10 +70,7 @@ const getSources = () => {
 
       if (sJSON) {
         // push json objects
-        sJSON.forEach((val) => {
-          const sid = val.id;
-          sources.push(sid);
-        });
+        sJSON.forEach(val => sources.push(val.id));
       }
 
       if (sources) {
@@ -94,7 +91,7 @@ const getArticles = (source) => {
       sortBy: 'top',
     };
 
-    request({url: 'https://newsapi.org/v1/articles', qs: qs}, (err, response, body) => {
+    request({url: 'https://newsapi.org/v1/articles', qs}, (err, response, body) => {
       if (err) { console.error(err); return; }
 
       let articles = [];
